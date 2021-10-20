@@ -52,20 +52,18 @@ A vigilância comercial e a exploração dos consumidores são agora a norma a i
 
 À medida que a vigilância comercial generalizada se infiltra em todos os aspetos do nosso dia-a-dia, torna-se claro que há uma necessidade de uma reforma sistémica da indústria de publicidade online. As discussões estão em curso na União Europeia sobre como lidar com a publicidade baseada em vigilância como parte da Lei Digital dos Serviços (Digital Services Act). Ao mesmo tempo, estão a decorrer discussões sobre a adoção federal legislação de privacidade e iniciativas legislativas para restringir a vigilância publicitária nos Estados Unidos, onde muitas das empresas envolvidas na publicidade baseada em monitorização está sediada. Estamos, portanto, diante de uma oportunidade legislativa única para resolver muitas questões prementes.
 
-O resultado destas discussões pode ter consequências significativas para o
-modelo de negócio da maioria dos conteúdos online, e os consumidores poderiam vir a beneficiar de uma nova abordagem preventiva. Este documento fornece uma visão geral dos desafios da publicidade baseada na vigilância, e pode assim ser considerado uma parte das discussões políticas em curso.
+O resultado destas discussões pode ter consequências significativas para o modelo de negócio da maioria dos conteúdos online, e os consumidores poderiam vir a beneficiar de uma nova abordagem preventiva. Este documento fornece uma visão geral dos desafios da publicidade baseada na vigilância, e pode assim ser considerado uma parte das discussões políticas em curso.
 
 Está a tornar-se claro que a maioria dos consumidores não quer ser rastreada e modelado para fins publicitários. Num inquérito populacional realizado pelo YouGov em nome do Conselho Norueguês do Consumidor, apenas um em cada dez inquiridos foram positivos para que os atores comerciais on-line recolham informações pessoais sobre eles, enquanto apenas um em cada cinco pensaram que receber anúncios com base em informações pessoais é aceitável. Isto assemelha-se a sondagens semelhantes de ambos os lados do Atlântico, e indica que os consumidores não consideram a vigilância comercial como uma troca aceitável para a possibilidade de ver anúncios personalizados.
 
 Os desafios causados e profundidade da monitorização baseada em publicidade incluem, mas não se limitam a:
-• infrações à privacidade e proteção de dados
-• modelos de negócio pouco transparentes
-• manipulação e discriminação em massa
-• fraude e outras atividades criminosas
-• riscos de segurança graves
+  - infrações à privacidade e proteção de dados
+  - modelos de negócio pouco transparentes
+  - manipulação e discriminação em massa
+  - fraude e outras atividades criminosas
+  - riscos de segurança graves
 
-Nos capítulos seguintes, descrevemos vários aspetos destes desafios e
-evidenciamos como é que modelo dominante da publicidade online de hoje é uma ameaça para consumidores, sociedades democráticas, meios de comunicação social, e até mesmo aos anunciantes si mesmos. Estas questões são significativas e sérias o suficiente para nós acreditarmos que é tempo de proibir estas práticas prejudiciais.
+Nos capítulos seguintes, descrevemos vários aspetos destes desafios e evidenciamos como é que modelo dominante da publicidade online de hoje é uma ameaça para consumidores, sociedades democráticas, meios de comunicação social, e até mesmo aos anunciantes si mesmos. Estas questões são significativas e sérias o suficiente para nós acreditarmos que é tempo de proibir estas práticas prejudiciais.
 
 A proibição das práticas baseadas em vigilância deve ser complementada por uma mais forte aplicação da legislação em vigor, incluindo a Proteção Geral de Dados Regulação, regulação da concorrência e práticas comerciais desleais. No entanto, a aplicação da lei atualmente consome tempo significativo e recursos, e geralmente acontece depois dos danos já terem sido feitos. Proibir a publicidade baseada em vigilância em geral vai forçar mudanças estruturais para a indústria publicitária e aliviar uma série de danos significativos para consumidores e para a sociedade em geral.
 
@@ -73,7 +71,7 @@ A proibição da publicidade baseada na vigilância não significa que não se p
 
  
 
-2 Introdução
+## 2. Introdução
 
 "Publicidade baseada em vigilância", ou publicidade direcionada baseada em rastreamento e perfil profiling de consumidores, é o modelo dominante no negócio online de hoje. Esta forma de marketing usa informação sobre cada um de nós em tentativas de alterar o conteúdo das mensagens, utilizando fatores como a nossa escolha de canal e a que horas estamos on-line para determinar quando estamos mais suscetíveis a comportamental influência.
 
@@ -106,7 +104,7 @@ O desenvolvimento contínuo e a proliferação de novas tecnologias, incluindo i
 
 A publicidade baseada na vigilância é prejudicial à sustentabilidade económica, aos indivíduos e a sociedade em geral. Podem ser traçados paralelismos de outras áreas onde as proibições de certas práticas têm impulsionado uma mudança positiva.
 
-Por exemplo, as proibições e restrições à publicidade ao álcool e ao tabaco têm resultou em resultados positivos na saúde dos consumidores.8 A proibição dos gases CFC nos anos de 80 teve um efeito positivo na eliminação progressiva de materiais com graves riscos ambientais, e levou à inovação e produção de soluções amigas alternativas do ambiente. Da mesma forma, a proibição do amianto na construção levou a materiais menos poluentes serem utilizados substituindo este.
+Por exemplo, as proibições e restrições à publicidade ao álcool e ao tabaco têm resultados positivos na saúde dos consumidores.8 A proibição dos gases CFC nos anos  80 teve um efeito positivo na eliminação progressiva de materiais com graves riscos ambientais, e levou à inovação e produção de soluções amigas alternativas do ambiente. Da mesma forma, a proibição do amianto na construção levou a materiais menos poluentes serem utilizados substituindo este.
 
 5 ‘Opinion on the European Commission's proposal for a Digital Services Act’. European 
 Data Protection Supervisor os. https://edps.europa.eu/data-protection/ourwork/publications/opinions/digital-services-act_en
