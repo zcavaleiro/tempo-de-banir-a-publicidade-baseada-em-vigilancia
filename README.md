@@ -404,48 +404,48 @@ superado pelos danos, e a proibição é, portanto, a solução certa.
 
 [1] A "economia de vigilância" é um termo abrangente para a economia digital com base na
 monitorização dos consumidores e comercialização de dados pessoais, e abrange processos
-como recolher, processar, partilhar, comprar e vender dados pessoais.
-[2] ' Out of Control’. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/
-[3] 'Targeted Online: How Big Tech’s business model sells your deepest secrets for profit'.
-European Digital Rights. https://edri.org/our-work/targeted-online-big-tech-businessmodel-sells-your-deepest-secrets-for-profit/
+como recolher, processar, partilhar, comprar e vender dados pessoais.  
+[2] ' Out of Control’. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/  
+[3] 'Targeted Online: How Big Tech’s business model sells your deepest secrets for profit'.  
+European Digital Rights. https://edri.org/our-work/targeted-online-big-tech-businessmodel-sells-your-deepest-secrets-for-profit/  
 [4] " Digital Services Act: Improving the functioning of the Single Market’. European 
-Parliament resolution. https://www.europarl.europa.eu/doceo/document/TA-9-2020-0272_EN.html
-[5] ‘Opinion on the European Commission's proposal for a Digital Services Act’. European 
+Parliament resolution. https://www.europarl.europa.eu/doceo/document/TA-9-2020-0272_EN.html  
+[5] ‘Opinion on the European Commission's proposal for a Digital Services Act’. European  
 Data Protection Supervisor os. https://edps.europa.eu/data-protection/ourwork/publications/opinions/digital-services-act_en
-[6] " Ban Surveillance Advertising ". https://www.bansurveillanceadvertising.com/
-[7] " EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets’.  Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna Strycharz. https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf
+[6] " Ban Surveillance Advertising ". https://www.bansurveillanceadvertising.com/  
+[7] " EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets’.  Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna Strycharz. https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf  
 [8] « The effects of tobacco control policies on global smoking prevalence’. Luisa S. Flor, Marissa B. Reitsma, Vinay Gupta, Marie Ng, Emmanuela Gakidou.
-https://www.nature.com/articles/s41591-020-01210-8
+https://www.nature.com/articles/s41591-020-01210-8  
 [9] Para um exemplo deste argumento da indústria, veja 'O que seria uma internet sem alvo
-anúncios olhar Como'. Agência De Publicidade Interativa Europa. https://iabeurope.eu/knowledgehub/iab-research-what-would-an-internet-without-targeted-ads-look-like/
+anúncios olhar Como'. Agência De Publicidade Interativa Europa. https://iabeurope.eu/knowledgehub/iab-research-what-would-an-internet-without-targeted-ads-look-like/  
 [10] 'O que é a Gestão da Relação do Fornecedor?'. Doc Rio Searls.
-https://www.capgemini.com/2015/08/what-is-vendor-relationship-management/
+https://www.capgemini.com/2015/08/what-is-vendor-relationship-management/  
 [11] "Para rastrear ou não rastrear? Para publicidade online amiga da privacidade e sustentável".
-Karolina Iwanska. https://en.panoptykon.org/privacy-friendly-advertising
+Karolina Iwanska. https://en.panoptykon.org/privacy-friendly-advertising  
 [12] Existem diferentes tipos de publicidade contextual. Alguns destes podem ser parcialmente
 com base no tratamento de dados pessoais e na criação de perfis de utilizador, e pode ser usado para
 contornar a proteção de privacidade percebida. Ao longo deste relatório, usamos o termo
 "publicidade contextual" para se referir a tipos de anúncios contextuais que não dependem do rastreio
-e perfis dos consumidores.
+e perfis dos consumidores.  
 [13] 'Pode matar cookies salvar Jornalismo?. Gilad Edelman.
 https://www.wired.com/story/can-killing-cookies-save-journalism/
 Depois do RGPD, o The New York Times cortou as bolsas de anúncios na Europa — e continuou a crescer
-anúncio receitas'. Jessica Davies. https://digiday.com/media/gumgumtest-new-york-timesgdpr-cut-off-ad-exchanges-europe-ad-revenue/
+anúncio receitas'. Jessica Davies. https://digiday.com/media/gumgumtest-new-york-timesgdpr-cut-off-ad-exchanges-europe-ad-revenue/  
 [14] 'Atualização (Seis Meses de Dados): lições para aumentar as receitas dos editores através da remoção do 3º
-partido rastreio '. Johnny Ryan. https://brave.com/publisher-3rd-party-tracking/
+partido rastreio '. Johnny Ryan. https://brave.com/publisher-3rd-party-tracking/  
 [15] "Depois do RGPD, o The New York Times cortou as bolsas de anúncios na Europa — e manteve-se
-anúncio de crescimento receitas'. Jessica Davies. https://digiday.com/media/gumgumtest-new-yorktimes-gdpr-cut-off-ad-exchanges-europe-ad-revenue/
+anúncio de crescimento receitas'. Jessica Davies. https://digiday.com/media/gumgumtest-new-yorktimes-gdpr-cut-off-ad-exchanges-europe-ad-revenue/  
 [16] ''A' é para o dinheiro anúncio estranhamente desaparecido: Sonda encontra intermediários sifonar metade de
 publicidade online gasta'. Tomás Rio Claburn.
-https://www.theregister.com/2020/05/07/ad_tech_fees_sucked/
+https://www.theregister.com/2020/05/07/ad_tech_fees_sucked/  
 [17] "Dois anos depois da denúncia à Comissão Irlandesa de Proteção de Dados, os dados do RTB
 violação é o maior já registado, e parece ter piorado.'. Johnny Ryan.
-https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-ProtectionCommissioner.pdf
+https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-ProtectionCommissioner.pdf  
 [18] No entanto, isto é muitas vezes combinado com dados ou dados de terceiros recolhidos através de terceiro
 plataformas partidárias, por exemplo através de pixels de rastreio. Ver por exemplo 'Perdido por Filtro
 Listas: Deteção DesconhecidoThird-Rastreadores de festas com pixels invisíveis. Imane fouad,
 Nataliia Bielova, Arnaud Legout, Natasa Sarafijanovic-Djukic.
-https://sciendo.com/article/10.2478/popets-2020-0038
+https://sciendo.com/article/10.2478/popets-2020-0038  
 [19] 'Google's FLoC É um Terrível Ideia:. Bennett Cyphers.
 https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea
 [20] 'Plataformas online e mercado de publicidade digital estudar'. Concorrência e Mercados
