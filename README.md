@@ -11,6 +11,7 @@ Junho de 2021
 ````
 Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - Vigilância publicitária
+- Vigilância em nome da publicidade
 - Publicidade baseada em Espionagem
 - Espionagem com base na publicidade
 - 
@@ -402,7 +403,7 @@ Uma proibição geral da publicidade baseada na vigilância forçará muitos ato
 Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe
 superado pelos danos, e a proibição é, portanto, a solução certa.
 
-[1] A "economia de vigilância" é um termo abrangente para a economia digital com base na
+<a id="1">[1]</a> A "economia de vigilância" é um termo abrangente para a economia digital com base na
 monitorização dos consumidores e comercialização de dados pessoais, e abrange processos
 como recolher, processar, partilhar, comprar e vender dados pessoais.  
 [2] ' Out of Control’. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/  
