@@ -421,38 +421,42 @@ https://www.nature.com/articles/s41591-020-01210-8
 anúncios olhar Como'. Agência De Publicidade Interativa Europa. https://iabeurope.eu/knowledgehub/iab-research-what-would-an-internet-without-targeted-ads-look-like/  
 <a id="10">[10]</a> *O que é a Gestão da Relação do Fornecedor?*. Doc Rio Searls.
 https://www.capgemini.com/2015/08/what-is-vendor-relationship-management/  
-<a id="11">[11]</a> *Para rastrear ou não rastrear? Para publicidade online amiga da privacidade e sustentável*.
-Karolina Iwanska. https://en.panoptykon.org/privacy-friendly-advertising  
-[12] Existem diferentes tipos de publicidade contextual. Alguns destes podem ser parcialmente
-com base no tratamento de dados pessoais e na criação de perfis de utilizador, e pode ser usado para
-contornar a proteção de privacidade percebida. Ao longo deste relatório, usamos o termo
-"publicidade contextual" para se referir a tipos de anúncios contextuais que não dependem do rastreio
+<a id="11">[11]</a> ‘To track or not to track? Towards privacy-friendly and sustainable online advertising’. 
+Karolina Iwanska. 
+https://en.panoptykon.org/privacy-friendly-advertising  
+<a id="12">[12]</a> Existem diferentes tipos de contexto publicitário. Alguns destes podem ser parcialmente
+baseados no tratamento de dados pessoais e na criação de perfis de utilizador, e podem ser usados para
+contornar a proteção de privacidade percebida pelo indivíduo. Ao longo deste relatório, usamos o termo
+"publicidade contextual" para nos referirmos a tipos de anúncios contextuais que não dependem do rastreio
 e perfis dos consumidores.  
-[13] 'Pode matar cookies salvar Jornalismo?. Gilad Edelman.
+<a id="13">[13]</a> ‘Can Killing Cookies Save Journalism?‘. Gilad Edelman. 
 https://www.wired.com/story/can-killing-cookies-save-journalism/
-Depois do RGPD, o The New York Times cortou as bolsas de anúncios na Europa — e continuou a crescer
-anúncio receitas'. Jessica Davies. https://digiday.com/media/gumgumtest-new-york-timesgdpr-cut-off-ad-exchanges-europe-ad-revenue/  
-[14] 'Atualização (Seis Meses de Dados): lições para aumentar as receitas dos editores através da remoção do 3º
-partido rastreio '. Johnny Ryan. https://brave.com/publisher-3rd-party-tracking/  
-[15] "Depois do RGPD, o The New York Times cortou as bolsas de anúncios na Europa — e manteve-se
-anúncio de crescimento receitas'. Jessica Davies. https://digiday.com/media/gumgumtest-new-yorktimes-gdpr-cut-off-ad-exchanges-europe-ad-revenue/  
-[16] ''A' é para o dinheiro anúncio estranhamente desaparecido: Sonda encontra intermediários sifonar metade de
-publicidade online gasta'. Tomás Rio Claburn.
+‘After GDPR, The New York Times cut off ad exchanges in Europe — and kept growing 
+ad revenue‘. Jessica Davies. 
+https://digiday.com/media/gumgumtest-new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/  
+<a id="14">[14]</a> ‘Update (Six Months of Data): lessons for growing publisher revenue by removing 3rd 
+party tracking‘. Johnny Ryan. 
+https://brave.com/publisher-3rd-party-tracking/  
+<a id="15">[15]</a> ‘After GDPR, The New York Times cut off ad exchanges in Europe — and kept 
+growing ad revenue‘. Jessica Davies. 
+https://digiday.com/media/new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/  
+<a id="16">[16]</a> ‘A‘ is for ad money oddly gone missing: Probe finds middlemen siphon off half of 
+online advertising spend‘. Thomas Claburn.
 https://www.theregister.com/2020/05/07/ad_tech_fees_sucked/  
-[17] "Dois anos depois da denúncia à Comissão Irlandesa de Proteção de Dados, os dados do RTB
-violação é o maior já registado, e parece ter piorado.'. Johnny Ryan.
-https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-ProtectionCommissioner.pdf  
-[18] No entanto, isto é muitas vezes combinado com dados ou dados de terceiros recolhidos através de terceiro
-plataformas partidárias, por exemplo através de pixels de rastreio. Ver por exemplo 'Perdido por Filtro
-Listas: Deteção DesconhecidoThird-Rastreadores de festas com pixels invisíveis. Imane fouad,
+<a id="17">[17]</a> ‘Two years on from complaint to the Irish Data Protection Commission, the RTB data 
+breach is the largest ever recorded, and appears to have worsened.‘. Johnny Ryan. 
+https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-Protection-Commissioner.pdf
+<a id="18">[18]</a>  However, this is often combined with third-party data or data collected through third 
+party platforms, for example through tracking pixels. See for example ‘Missed by Filter 
+Lists: Detecting UnknownThird-Party Trackers with Invisible Pixels’. Imane fouad, 
 Nataliia Bielova, Arnaud Legout, Natasa Sarafijanovic-Djukic.
 https://sciendo.com/article/10.2478/popets-2020-0038  
-[19] 'Google's FLoC É um Terrível Ideia:. Bennett Cyphers.
+<a id="19">[19]</a> ‘Google’s FLoC Is a Terrible Idea‘. Bennett Cyphers. 
 https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea  
-[20] 'Plataformas online e mercado de publicidade digital estudar'. Concorrência e Mercados
-A autoridade. https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-marketstudy  
-[21] 'Facebook para lançar opção de cookie de primeira parte para anúncios, puxar a análise web de Safari'.
-Ginny Marvin. https://marketingland.com/facebook-to-release-first-party-pixel-for-adsweb-analytics-from-browsers-like-safari-249478  
+<a id="20">[20]</a> ‘Online platforms and digital advertising market study‘. Competition and Markets 
+Authority. https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-market-study
+<a id="21">[21]</a> ‘Facebook to release first-party cookie option for ads, pull web analytics from Safari‘. 
+Ginny Marvin. https://marketingland.com/facebook-to-release-first-party-pixel-for-ads-web-analytics-from-browsers-like-safari-249478  
 22 'The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion'.
 Rio Yana Dimova, Armas AcarLukasz Olejnik, Wouter Rio Joosen, Tom Van Goethem.
 https://petsymposium.org/2021/files/papers/issue3/popets-2021-0053.pdf  
