@@ -9,13 +9,28 @@ O caso contra a vigilância comercial online
 Junho de 2021
 
 ````
+---
+name: caixa de recados :p para trocar msgs
+
+[Título/expressão tradução]
 Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - Vigilância publicitária
 - Vigilância em nome da publicidade
 - Publicidade baseada em Espionagem
 - Espionagem com base na publicidade
 - 
+
+[estrutura do MD indices, refs biblio]
+- melhorias
+- nao seria mais fácil fazer num google doc partilhado?
+
+
+[outros]
+- 
+...
 ````
+
+
 
 ## **Tabela de conteúdos**
 
