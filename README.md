@@ -406,20 +406,26 @@ superado pelos danos, e a proibição é, portanto, a solução certa.
 <a id="1">[1]</a> A "economia de vigilância" é um termo abrangente para a economia digital com base na
 monitorização dos consumidores e comercialização de dados pessoais, e abrange processos
 como recolher, processar, partilhar, comprar e vender dados pessoais.  
-<a id="2">[2]</a> *Out of Control*. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/  
+<a id="2">[2]</a> *Out of Control*. Forbrukerrådet. 
+https://www.forbrukerradet.no/out-of-control/  
 <a id="3">[3]</a> *Targeted Online: How Big Tech’s business model sells your deepest secrets for profit*.  
-European Digital Rights. https://edri.org/our-work/targeted-online-big-tech-businessmodel-sells-your-deepest-secrets-for-profit/  
+European Digital Rights. 
+https://edri.org/our-work/targeted-online-big-tech-businessmodel-sells-your-deepest-secrets-for-profit/  
 <a id="4">[4]</a> *Digital Services Act: Improving the functioning of the Single Market*. European 
-Parliament resolution. https://www.europarl.europa.eu/doceo/document/TA-9-2020-0272_EN.html  
+Parliament resolution. 
+https://www.europarl.europa.eu/doceo/document/TA-9-2020-0272_EN.html  
 <a id="5">[5]</a> *Opinion on the European Commission's proposal for a Digital Services Act*. European  
-Data Protection Supervisor os. https://edps.europa.eu/data-protection/ourwork/publications/opinions/digital-services-act_en
+Data Protection Supervisor os. 
+https://edps.europa.eu/data-protection/ourwork/publications/opinions/digital-services-act_en  
 <a id="6">[6]</a> *Ban Surveillance Advertising*. https://www.bansurveillanceadvertising.com/  
-<a id="7">[7]</a> *EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets*.  Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna Strycharz. https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf  
+<a id="7">[7]</a> *EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets*.  Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna Strycharz. 
+https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf  
 <a id="8">[8]</a> *The effects of tobacco control policies on global smoking prevalence*. Luisa S. Flor, Marissa B. Reitsma, Vinay Gupta, Marie Ng, Emmanuela Gakidou.
 https://www.nature.com/articles/s41591-020-01210-8  
-<a id="9">[9]</a> Para um exemplo deste argumento da indústria, veja 'O que seria uma internet sem alvo
-anúncios olhar Como'. Agência De Publicidade Interativa Europa. https://iabeurope.eu/knowledgehub/iab-research-what-would-an-internet-without-targeted-ads-look-like/  
-<a id="10">[10]</a> *O que é a Gestão da Relação do Fornecedor?*. Doc Rio Searls.
+<a id="9">[9]</a> For an example of this industry argument, see ‘What would an internet without targeted 
+ads look like‘. Interactive Advertising Bureau Europe. 
+https://iabeurope.eu/knowledge-hub/iab-research-what-would-an-internet-without-targeted-ads-look-like/  
+<a id="10">[10]</a> ‘What is Vendor Relationship Management?’. Doc Searls. 
 https://www.capgemini.com/2015/08/what-is-vendor-relationship-management/  
 <a id="11">[11]</a> ‘To track or not to track? Towards privacy-friendly and sustainable online advertising’. 
 Karolina Iwanska. 
@@ -445,7 +451,7 @@ online advertising spend‘. Thomas Claburn.
 https://www.theregister.com/2020/05/07/ad_tech_fees_sucked/  
 <a id="17">[17]</a> ‘Two years on from complaint to the Irish Data Protection Commission, the RTB data 
 breach is the largest ever recorded, and appears to have worsened.‘. Johnny Ryan. 
-https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-Protection-Commissioner.pdf
+https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-Protection-Commissioner.pdf  
 <a id="18">[18]</a>  However, this is often combined with third-party data or data collected through third 
 party platforms, for example through tracking pixels. See for example ‘Missed by Filter 
 Lists: Detecting UnknownThird-Party Trackers with Invisible Pixels’. Imane fouad, 
@@ -454,59 +460,63 @@ https://sciendo.com/article/10.2478/popets-2020-0038
 <a id="19">[19]</a> ‘Google’s FLoC Is a Terrible Idea‘. Bennett Cyphers. 
 https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea  
 <a id="20">[20]</a> ‘Online platforms and digital advertising market study‘. Competition and Markets 
-Authority. https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-market-study
+Authority. https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-market-study  
 <a id="21">[21]</a> ‘Facebook to release first-party cookie option for ads, pull web analytics from Safari‘. 
 Ginny Marvin. https://marketingland.com/facebook-to-release-first-party-pixel-for-ads-web-analytics-from-browsers-like-safari-249478  
-22 'The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion'.
+<a id="22">[22]</a> 'The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion'.
 Rio Yana Dimova, Armas AcarLukasz Olejnik, Wouter Rio Joosen, Tom Van Goethem.
 https://petsymposium.org/2021/files/papers/issue3/popets-2021-0053.pdf  
-23 "O alfabeto reporta que os grandes ganhos batem à medida que a receita cresce 34%". Jennifer Elias.
+<a id="23">[23]</a> ‘Alphabet reports big earnings beat as revenue grows 34%‘. Jennifer Elias.
 https://www.cnbc.com/2021/04/27/alphabet-goog-earnings-q1-2021.html  
-24 Veja, por exemplo,Nordmenn og deling av dados pessoais‘. Norsk Regnesentral.
+<a id="24">[24]</a> See, for example, ‘Nordmenn og deling av persondata‘. Norsk Regnesentral.
 https://www.nr.no/sites/default/files/files/NR-Rapport_Nordmenn-og-deling-avpersondata_ALerT2019.pdf  
-25 «Publicidade baseada na vigilância: Atitudes dos consumidores em relação à vigilância baseadas na vigilância
-publicidade'. Conselho Norueguês do Consumidor. https://fil.forbrukerradet.no/wpcontent/uploads/2021/06/surveilance-marketing-survey.pdf  
-26 'O Lado Negro do Cliente Dados:. A RSA. https://www.rsa.com/enus/company/news/the-dark-side-of-customer-data  
-27 "As pessoas realmente querem personalizado anúncios on-line?. Testemunha Global.
+<a id="25">[25]</a> ‘Surveillance-based advertising: Consumer attitudes to surveillance-based 
+advertising’. Norwegian Consumer Council. 
+https://fil.forbrukerradet.no/wpcontent/uploads/2021/06/surveilance-marketing-survey.pdf  
+<a id="26">[26]</a> ‘The Dark Side of Customer Data‘. RSA. 
+https://www.rsa.com/enus/company/news/the-dark-side-of-customer-data  
+<a id="27">[27]</a> ‘Do people really want personalised ads online?‘. Global Witness.
 https://www.globalwitness.org/en/blog/do-people-really-want-personalised-ads-online/  
-28 'Frequência tecnológica responsável Questionário:. Tecnologia responsável.
+<a id="28">[28]</a> ‘Accountable Tech Frequency Questionnaire‘. Accountable Tech.
 https://accountabletech.org/wp-content/uploads/Accountable-Tech-FrequencyQuestionnaire.pdf  
-29 'iOS 14.5 Taxa de opt-in - Atualizações diárias desde Lançamento'. Estelle Laziuk.
+<a id="29">[29]</a> ‘iOS 14.5 Opt-in Rate - Daily Updates Since Launch‘. Estelle Laziuk.
 https://www.flurry.com/blog/ios-14-5-opt-in-rate-att-restricted-app-tracking-transparencyworldwide-us-daily-latest-update/  
-30 As nuances e distinção entre individualização e personalização são exploradas
-em "Proteção do Consumidor da UE 2.0: Assimetrias estruturais nos mercados de consumo digitais".
-Natali HelbergerOrla Lynskey, Hans-W. MicklitzPedro Rott, Marijn Sax, Joanna
-StrycharzP. 94. https://www.beuc.eu/publications/beuc-x-2021...
-018_eu_consumer_protection.0_0.pdf  
-31 '10 Razões por que a publicidade online é Quebrado'. Karolina Iwańska.
+<a id="30">[30]</a> The nuances and distinction between individualization and personalization is explored 
+in ‘EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets‘. 
+Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna 
+Strycharz, p. 94. 
+https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf  
+<a id="31">[31]</a> ‘10 Reasons Why Online Advertising is Broken‘. Karolina Iwańska. 
 https://medium.com/@ka.iwanska/10-reasons-why-online-advertising-is-brokend152308f50ec  
-32 Esses registos de anúncios teriam de evitar uma série de armadilhas para serem úteis. Ver
-por exemplo, 'Arquivos de anúncios de plataforma: promessas e armadilhas'. Paddy Rio Leerssen, Rio Jef Rio Ausloos,
-Rio Brahim ZaroualiNatali HelbergerClaes H. de Vreese.
+<a id="32">[32]</a> Such ad registries would have to avoid a number of pitfalls in order to be useful. See 
+for example ‘Platform ad archives: promises and pitfalls’. Paddy Leerssen, Jef Ausloos, 
+Brahim Zarouali, Natali Helberger, Claes H. de Vreese.
 https://policyreview.info/articles/analysis/platform-ad-archives-promises-and-pitfalls  
-33 'Fora de Controlo:. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/  
-34 'Escuro Padrões'. Forbrukerrådet. https://www.forbrukerradet.no/dark-patterns/  
-35 ‘Offentlige nettsteder esporer oss‘. Teknologirådet. https://teknologiradet.no/offentligenettsteder-sporer-oss/  
-36 ‘Oráculo BlueKai rastreia-o através da web. Que os dados derramados online'. Zack Whittaker.
+<a id="33">[33]</a> ‘Out of Control‘. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/  
+<a id="34">[34]</a> ‘Dark Patterns‘. Forbrukerrådet. https://www.forbrukerradet.no/dark-patterns/  
+<a id="35">[35]</a> ‘Offentlige nettsteder sporer oss‘. Teknologirådet. https://teknologiradet.no/offentligenettsteder-sporer-oss/  
+<a id="36">[36]</a> ‘Oracle’s BlueKai tracks you across the web. That data spilled online‘. Zack Whittaker.
 https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/  
-37 A lacuna de execução do RGPD é descrita em detalhe em "The Long and Winding Road:
-Dois anos do RGPD: Um processo transfronteiriço de aplicação da proteção de dados a partir de um
-consumidor perspectiva'. O BEUC. https://www.beuc.eu/publications/beuc-x-2020...
-074_two_years_of_the_gdpr_a_crossborder_data_protection_enforcement_case_from_a_consumer_perspective.pdf  
-38 'Desvio do RGPD do Facebook atinge Supremo austríaco Tribunal.. Noyb.
+<a id="37">[37]</a> The GDPR enforcement gap is described in detail in ‘The Long and Winding Road: 
+Two years of the GDPR: A cross-border data protection enforcement case from a 
+consumer perspective‘. BEUC. 
+https://www.beuc.eu/publications/beuc-x-2020-074_two_years_of_the_gdpr_a_cross-border_data_protection_enforcement_case_from_a_consumer_perspective.pdf  
+<a id="38">[38]</a> ‘Facebook's GDPR bypass reaches Austrian Supreme Court‘. Noyb.
 https://noyb.eu/en/facebooks-gdpr-bypass-reaches-austrian-supreme-court  
-39 "Moldar o Futuro Digital da Europa. Proposta de proposta ePrivacy Regulamento:. Europeu
-A comissão. https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation  
-40 Facebook disse aos anunciantes que pode identificar adolescentes que se sentem "inseguros" e"inútil"..
-Sam Levin. https://www.theguardian.com/technology/2017/may/01/facebook-advertisingdata-insecure-teens  
-41 'O que uma app de jogo sabe sobre Você.. Adam Satariano.
+<a id="39">[39]</a> ‘Shaping Europe’s Digital Future. Proposal for ePrivacy Regulation‘. European 
+Commission. 
+https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation  
+<a id="40">[40]</a> ‘Facebook told advertisers it can identify teens feeling “insecure” and “worthless”‘. 
+Sam Levin. 
+https://www.theguardian.com/technology/2017/may/01/facebook-advertisingdata-insecure-teens  
+<a id="41">[41]</a> ‘What a Gambling App Knows About You‘. Adam Satariano.
 https://www.nytimes.com/2021/03/24/technology/gambling-apps-tracking.html  
-42 'Facebook permite que anunciantes direcionem crianças interessadas em fumar, álcool e
-peso perda'. Josh Taylor.
+<a id="42">[42]</a> ‘Facebook allows advertisers to target children interested in smoking, alcohol and 
+weight loss‘. Josh Taylor.
 https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-totarget-children-interested-in-smoking-alcohol-and-weight-loss  
-43 'Sobre Sósia Audiências. No Facebook.
+<a id="43">[43]</a>  ‘About Lookalike Audiences‘. Facebook.
 https://www.facebook.com/business/help/164749007013531?id=401668390442328  
-44 'How Big Pharma Finds Sick Users in Facebook'. Colin Lecher.
+<a id="44">[44]</a> 'How Big Pharma Finds Sick Users in Facebook'. Colin Lecher.
 https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-onfacebook  
 45 "Apesar da proibição, o Facebook continuou a rotular as pessoas como interessadas em milícias para
 Anunciantes. Ryan Mac. https://www.buzzfeednews.com/article/ryanmac/facebookmilitia-interest-category-advertisers-ban  
