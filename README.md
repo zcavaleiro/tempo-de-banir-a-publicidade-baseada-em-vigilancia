@@ -48,8 +48,8 @@ Example text blah.
 
 ## **Tabela de conteúdos**
 
-1. [1. Resumo](#resumo)
-2. **Introdução**
+[1. Resumo](#resumo)  
+[2. Introdução](#introducao)
 
 3. **O que é a "publicidade baseada na vigilância"?**  
 3.1 Formas alternativas de publicidade digital  
@@ -100,8 +100,7 @@ A proibição das práticas baseadas em vigilância deve ser complementada por u
 A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.
 
  
-
-## 2. Introdução
+## Introducao
 
 "Publicidade baseada em vigilância", ou publicidade direcionada baseada em rastreamento e perfil profiling de consumidores, é o modelo dominante no negócio online de hoje. Esta forma de marketing usa informação sobre cada um de nós em tentativas de alterar o conteúdo das mensagens, utilizando fatores como a nossa escolha de canal e a que horas estamos on-line para determinar quando estamos mais suscetíveis a comportamental influência.
 
