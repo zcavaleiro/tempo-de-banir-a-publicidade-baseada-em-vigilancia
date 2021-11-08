@@ -35,9 +35,9 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 
 1. [Resumo](#resumo)  
 2. [Introdução](#introducao)  
-3. [O que é a "publicidade baseada na vigilância"?](#oquee)  
-3.1. [Formas alternativas de publicidade digital](#formas)  
-3.2. [Dados de primeira e de terceiros](#tresdois)  
+3. [O que é a "publicidade baseada na vigilância"?](#oquee)
+3.1 [Formas alternativas de publicidade digital](#formas)  
+3.2 [Dados de primeira e de terceiros](#tresdois)  
 4. [Efeitos nocivos da publicidade baseada na vigilância](#quatro)  
 4.1 [Falta de transparência](#quatroum)  
 4.2 [Violações da privacidade e proteção de dados](#quatrodois)  
