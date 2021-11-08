@@ -31,36 +31,19 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 ...
 ````
 
-
-# Contents
- - [1. Specification](#specification) 
- - [Dependencies Title](#dependencies-title) 
-
-## Specification
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
-
-## Dependencies Title
-Example text blah.  
-
-
 ## **Tabela de conteúdos**
 
-[1. Resumo](#resumo)  
-[2. Introdução](#introducao)
-
-3. **O que é a "publicidade baseada na vigilância"?**  
-3.1 Formas alternativas de publicidade digital  
-3.2 Dados de primeira e de terceiros  
-
-4. **Efeitos nocivos da publicidade baseada na vigilância**  
-4.1 Falta de transparência  
-4.2 Violações da privacidade e proteção de dados  
-4.3 Manipulação  
-4.4 Discriminação  
-4.5 Desinformação  
+1. [Resumo](#resumo)  
+2. [Introdução](#introducao)  
+3. [O que é a "publicidade baseada na vigilância"?](#oquee)  
+3.1 [Formas alternativas de publicidade digital](#tresum)  
+3.2 [Dados de primeira e de terceiros](#tresdois)  
+4. [Efeitos nocivos da publicidade baseada na vigilância](#quatro)  
+4.1 [Falta de transparência](#quatroum)  
+4.2 [Violações da privacidade e proteção de dados](#quatrodois)  
+4.3 [Manipulação](#quatrotres)  
+4.4 [Discriminação](#quatroquatro)  
+4.5 [Desinformação](#quatrocinco)  
 4.6 Efeitos anti concorrência  
 4.7 Fraude e perda de receitas  
 4.8 Riscos de segurança  
@@ -75,8 +58,8 @@ Example text blah.
 6. **Conclusão**
 
  
-## Resumo
-## 1. Resumo
+## 1. Resumo <a name="resumo"></a>
+
 
 A vigilância comercial e a exploração dos consumidores são agora a norma a internet. À medida que utilizamos os mais variados serviços digitais, estamos constantemente a ser monitorizados por um grande número de atores comerciais sob o pretexto de mostrar-nos mais publicidade relevante. É hora de dar um passo atrás e considerar os problemas que este modelo criou e para imaginar um novo normal que capacite e protege os consumidores.
 
@@ -100,7 +83,7 @@ A proibição das práticas baseadas em vigilância deve ser complementada por u
 A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.
 
  
-## Introducao
+## 2. Introdução <a name="introducao"></a>
 
 "Publicidade baseada em vigilância", ou publicidade direcionada baseada em rastreamento e perfil profiling de consumidores, é o modelo dominante no negócio online de hoje. Esta forma de marketing usa informação sobre cada um de nós em tentativas de alterar o conteúdo das mensagens, utilizando fatores como a nossa escolha de canal e a que horas estamos on-line para determinar quando estamos mais suscetíveis a comportamental influência.
 
@@ -128,7 +111,7 @@ Algumas das questões relacionadas com a publicidade baseada na vigilância já 
 Com isto em mente, é agora altura de proibir a publicidade baseada na vigilância. A proposta *Digtal Services Act* Lei de Serviços Digitais, que está atualmente a ser discutida pelos legisladores da EU, fornece uma oportunidade para fazê-lo. Além disso, alguns destes assuntoa poderiam e deveriam também ser abordadas noutros domínios, como os direitos dos consumidores, regras de privacidade digital (ePrivacy), lei de proteção de dados e regulação da Inteligência Artificial.
 
  
-3 O que é a "publicidade baseada na vigilância"?
+## 3 O que é a "publicidade baseada na vigilância"? <a name="oquee"></a>
 
 Toda a publicidade é, de certa forma, direcionada. O contexto de um anúncio, o seu enquadramento e o seu design significam que qualquer anúncio é direcionado, e é visto mais frequentemente, em alguns grupos de consumidores do que outros. 
 ````
@@ -148,7 +131,7 @@ Um grande número destas empresas terceiras estão simultaneamente a recolher gr
 A automatização do processo permite monitorização e adaptação contínuas
 publicidade, que também permite que os anunciantes meçam e escalam direcionados campanhas de diferentes maneiras. No entanto, como será explicado abaixo, o uso de a publicidade baseada na vigilância também coloca desafios significativos aos editores e anunciantes sobre receitas, danos reputacionais e oferta opaca correntes.
 
-3.1 Formas alternativas de publicidade digital
+### 3.1 Formas alternativas de publicidade digital <a name="#tresum"></a>  
 Um argumento comum em favor de publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores de serviços e conteúdos e levar a aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9)
 Como será elaborado em baixo, este argumento é baseado na falácia que
 a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais. Outro argumento em favor de permitir a publicidade baseada em vigilância é que os consumidores consideram que os anúncios direcionados são úteis e positivos. Este argumento assume que a única alternativa à publicidade baseada na vigilância é mostrar consumidores anúncios completamente aleatórios e irrelevantes, o que seria um incómodo e prevenir consumidores de receber ofertas interessantes. Esta é outra premissa defeituosa, como não é uma questão de anúncios baseados em vigilância por um lado e arbitrariedade por outro.
@@ -169,7 +152,7 @@ até 79% após passar para publicidade contextual.[14]
 Além disso, quando o The New York Times deixou de servir com base na vigilância publicidade aos utilizadores europeus, as suas receitas publicitárias continuaram a crescer à medida que a sua parceiros de publicidade compraram espaço de anúncios independentemente do alvo capacidades.[15] Embora não haja uma resposta definitiva para se estes casos podem ser replicado pela maioria dos editores, aponta para a possibilidade de alternativa modelos de receitas que não dependem da vigilância.
 Uma cadeia de abastecimento mais transparente também reduz os gastos em terceiros, tais como corretores de dados ou ferramentas de verificação, o que significa que anunciantes e editores será deixado com uma maior parte das receitas. Para ilustrar este ponto, um 2020 estudo da indústria descobriu que sob o atual regime de publicidade digital, apenas metade de gastos de publicidade realmente chegou a editores, enquanto 15% do dinheiro estava desaparecido.[16]
 
-### 3.2 Dados de primeira e de terceiros
+### 3.2 Dados de primeira e de terceiros <a name="#tresdois"></a>  
 Existem várias formas de publicidade baseada na vigilância, e o potencial os riscos e os danos que causam podem variar. Algumas formas de vigilância baseadas em vigilância publicidade envolvem a transferência de grandes quantidades de dados pessoais para vários terços partes sem o conhecimento dos consumidores, criando uma privacidade séria e riscos de segurança. Isto aplica-se ao que é tipicamente chamado de publicidade com base em terceiroparty dados.
 
 A escala de partilha de dados e de atores envolvidos no serviço à vigilância
@@ -185,7 +168,7 @@ Portanto, é crucial olhar para a publicidade baseada na vigilância de um holí
 
 
 
-## 4 Efeitos negavitos da publicidade baseada na vigilância
+## 4 Efeitos negavitos da publicidade baseada na vigilância <a name="#quatro"></a>  
 
 Apesar da publicidade monotorizada seja por vezes apresentada como uma troca, onde os consumidores são alegremente expostos à publicidade direcionada em troca de serviços "gratuitos", esta é uma premissa instável. Embora muitos serviços online sejam apresentados como "grátis" para o consumidor, a receita/lucro é impulsionada pela venda da atenção que o consumidor dá, ilustrado pelos 400 mil milhões de dollars que a  Google lucrou em receitas publicitárias no primeiro trimestre de 2021.[23]
 
