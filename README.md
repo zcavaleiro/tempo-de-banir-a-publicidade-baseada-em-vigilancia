@@ -36,7 +36,7 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 1. [Resumo](#resumo)  
 2. [Introdução](#introducao)  
 3. [O que é a "publicidade baseada na vigilância"?](#oquee)  
-3.1 [Formas alternativas de publicidade digital](#tresum)  
+3.1 [Formas alternativas de publicidade digital](#formas)  
 3.2 [Dados de primeira e de terceiros](#tresdois)  
 4. [Efeitos nocivos da publicidade baseada na vigilância](#quatro)  
 4.1 [Falta de transparência](#quatroum)  
@@ -131,7 +131,7 @@ Um grande número destas empresas terceiras estão simultaneamente a recolher gr
 A automatização do processo permite monitorização e adaptação contínuas
 publicidade, que também permite que os anunciantes meçam e escalam direcionados campanhas de diferentes maneiras. No entanto, como será explicado abaixo, o uso de a publicidade baseada na vigilância também coloca desafios significativos aos editores e anunciantes sobre receitas, danos reputacionais e oferta opaca correntes.
 
-### 3.1 Formas alternativas de publicidade digital <a name="#tresum"></a>  
+### 3.1 Formas alternativas de publicidade digital <a name="#formas"></a>  
 Um argumento comum em favor de publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores de serviços e conteúdos e levar a aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9)
 Como será elaborado em baixo, este argumento é baseado na falácia que
 a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais. Outro argumento em favor de permitir a publicidade baseada em vigilância é que os consumidores consideram que os anúncios direcionados são úteis e positivos. Este argumento assume que a única alternativa à publicidade baseada na vigilância é mostrar consumidores anúncios completamente aleatórios e irrelevantes, o que seria um incómodo e prevenir consumidores de receber ofertas interessantes. Esta é outra premissa defeituosa, como não é uma questão de anúncios baseados em vigilância por um lado e arbitrariedade por outro.
