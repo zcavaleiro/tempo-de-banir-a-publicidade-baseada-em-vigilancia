@@ -20,8 +20,9 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - Espionagem com base na publicidade
 - 
 
-[estrutura do MD indices, refs biblio]
-- melhorias
+[melhorias estrutura do MD]
+- indices
+- referencias?
 - nao seria mais fácil fazer num google doc partilhado?
 
 
@@ -31,10 +32,23 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 ````
 
 
+# Contents
+ - [1. Specification](#specification) 
+ - [Dependencies Title](#dependencies-title) 
+
+## Specification
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. 
+
+## Dependencies Title
+Example text blah.  
+
 
 ## **Tabela de conteúdos**
 
-1. **Resumo**
+1. [1. Resumo](#resumo)
 2. **Introdução**
 
 3. **O que é a "publicidade baseada na vigilância"?**  
@@ -61,7 +75,7 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 6. **Conclusão**
 
  
-
+## Resumo
 ## 1. Resumo
 
 A vigilância comercial e a exploração dos consumidores são agora a norma a internet. À medida que utilizamos os mais variados serviços digitais, estamos constantemente a ser monitorizados por um grande número de atores comerciais sob o pretexto de mostrar-nos mais publicidade relevante. É hora de dar um passo atrás e considerar os problemas que este modelo criou e para imaginar um novo normal que capacite e protege os consumidores.
