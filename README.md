@@ -127,22 +127,21 @@ Um grande número destas empresas terceiras estão simultaneamente a recolher gr
 A automatização do processo, permite monitorização e adaptação contínuas de formas publicitárias, que também permite aos anunciantes que meçam e escalem campanhas direcionados de diferentes maneiras. No entanto, como será explicado abaixo, o uso de a publicidade baseada em vigilância também coloca desafios significativos aos editores e anunciantes no que respeita a receitas, danos reputacionais e oferta a cadeias obscuras.  
 
 
-
-
-
 ### 3.1 Formas alternativas de publicidade digital <a name="#formas"></a>  
-Um argumento comum a favor da publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores destes serviços e de conteúdos e levar a aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9) Como será detalhado mais em baixo, este argumento é baseado na falácia que a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais.  
+Um argumento comum a favor da publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores destes serviços e de conteúdos e que levará a um aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9) Como será detalhado mais em baixo, este argumento é baseado na falácia que a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais.  
 
 Outro argumento a favor de permitir a publicidade baseada em vigilância é que os consumidores consideram que os anúncios direcionados são úteis e positivos. Este argumento assume que a única alternativa à publicidade baseada na vigilância é mostrar aos consumidores anúncios completamente aleatórios e irrelevantes, o que seria um incómodo e impediria os consumidores de receber ofertas interessantes. Esta é outra premissa enganadora, pois não é uma questão de anúncios baseados em vigilância por um lado e arbitrariedade pelo outro.
 
-Já existem formas alternativas de publicidade digital, e provaram ser fontes de rendimento eficazes para os fornecedores de conteúdos. Estes modelos alternativos também têm como base as mensagens já pré-determinadas, mas não implicam mostrar anúncios não contextualizados, que não têm relevância para os consumidores.  
+Já existem formas alternativas de publicidade digital, e provaram ser fontes de rendimento eficazes para os fornecedores de conteúdos. Estes modelos alternativos também têm como base as mensagens já pré-determinadas, mas não implicam mostrar anúncios fora do contexto (não contextualizados), que não têm relevância para os consumidores.  
 
 Por exemplo, há modelos em que os consumidores com determinado interesse num tipo de publicidade podem auto-permitir que tipo de anúncios gostariam de ver.[[10]](#10) Com um modelo destes, um consumidor poderia indicar o seu interesse em desporto, viagens, música ou mais interesses específicos e receber anúncios que são relevantes para estas questões. Isto poderia ser feito ao nível do *browser*, e poderia garantir que os anúncios são relevantes para os interesses do consumidor sem depender da vigilância ou rastreamento.  
 
-Outro exemplo de formas alternativas de marketing digital é a `contextual advertising` "publicidade contextual". A publicidade contextual permite que os anunciantes comprem espaço de anúncios para tipos específicos de páginas web ou websites baseados no conteúdo da página.[[11]](#11) Este modelo pode ser baseado em palavras-chave para que, por exemplo, anúncios para voos para a Inglaterra são colocados ao lado de artigos sobre futebol inglês. 
-Por outras palavras, a publicidade contextual permite aos anunciantes colocar anúncios para certos tipos de produtos e serviços em contextos onde os anúncios serão exibidos para os consumidores interessados naqueles tipos de conteúdos.  
+Outro exemplo de formas alternativas de marketing digital é a publicidade contextualizada. A publicidade contextualizada permite que os anunciantes comprem espaço de anúncios para tipos específicos de páginas web ou websites baseados no conteúdo da página.[[11]](#11) Este modelo pode ser baseado em palavras-chave para que, por exemplo, anúncios para voos para a Inglaterra são colocados ao lado de artigos sobre futebol inglês. Por outras palavras, a publicidade contextualizada permite aos anunciantes colocar anúncios para certos tipos de produtos e serviços em contextos onde os anúncios serão exibidos para os consumidores que têm interesse naqueles tipos de conteúdos.  
 
-De certa forma, a publicidade contextual pode ser comparada com a publicidade "tradicional".
+
+
+
+De certa forma, a publicidade contextualizada pode ser comparada com a publicidade "tradicional".
 Semelhante à forma como o anunciante numa situação de marketing offline compra anúncio espaço numa revista para os entusiastas do motor chegarem a esse segmento de consumo, publicidade contextual permite que os anúncios de alvo do anunciante com base no conteúdo de um site ou serviço em vez de direcioná-los com base nas características do consumidor. Assim, os anunciantes podem chegar a públicos relevantes sem recolher ou agregação de dados pessoais. Isto afasta algumas das mais prementes privacidade questões do marketing, uma vez que diferentes atores na cadeia de fornecimento só precisam saber onde o anúncio é mostrado, não necessariamente quem está vendo isto.[[12]](#12)  
 
 Isto também aumenta a transparência e verificação do marketing, uma vez que o próprio anunciante escolhe que tipo de conteúdo ou palavras-chave desencadeiam um anúncio sendo mostrado. Isto significa que muitos visitantes de um determinado site ou app vão ver o mesmo anúncio.  
