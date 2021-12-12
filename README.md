@@ -393,12 +393,10 @@ Uma vez que investigar casos individuais de violações requer tempo consideráv
 A publicidade baseada na vigilância causa violações dos direitos fundamentais, fraude generalizada e perda de receitas, e tem contribuído para uma série de efeitos individuais e sociais negativos. Apesar dos repetidos avisos, multas, escândalos, e revelações, a indústria tem mostrado pouca vontade de alterar significativamente as suas práticas, e é questionável se significativo as alterações a partes do sector são mesmo possíveis sem uma reforma fundamental.
 A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banido totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma proibição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de alguns jogadores.114
 Uma proibição geral da publicidade baseada na vigilância forçará muitos atores da indústria para mudar os seus modelos de negócio. Estimularia o crescimento das tecnologias que respeitam os direitos dos consumidores e dos direitos fundamentais. Num cenário a longo prazo, ajudaria a restaurar a confiança dos consumidores nos serviços digitais. Esta seria uma rede positivo para os consumidores, para as empresas e para a sociedade em geral. 
-Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe
-superado pelos danos, e a proibição é, portanto, a solução certa.
+Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe superado pelos danos, e a proibição é, portanto, a solução certa.
 
-<a id="1">[1]</a> A "economia de vigilância" é um termo abrangente para a economia digital com base na
-monitorização dos consumidores e comercialização de dados pessoais, e abrange processos
-como recolher, processar, partilhar, comprar e vender dados pessoais.  
+
+<a id="1">[1]</a> A "economia de vigilância" é um termo abrangente para a economia digital com base na monitorização dos consumidores e comercialização de dados pessoais, e abrange processos como recolher, processar, partilhar, comprar e vender dados pessoais.  
 <a id="2">[2]</a> *Out of Control*. Forbrukerrådet. 
 https://www.forbrukerradet.no/out-of-control/  
 <a id="3">[3]</a> *Targeted Online: How Big Tech’s business model sells your deepest secrets for profit*.  
@@ -407,43 +405,34 @@ https://edri.org/our-work/targeted-online-big-tech-businessmodel-sells-your-deep
 <a id="4">[4]</a> *Digital Services Act: Improving the functioning of the Single Market*. European 
 Parliament resolution. 
 https://www.europarl.europa.eu/doceo/document/TA-9-2020-0272_EN.html  
-<a id="5">[5]</a> *Opinion on the European Commission's proposal for a Digital Services Act*. European  
-Data Protection Supervisor os. 
+<a id="5">[5]</a> *Opinion on the European Commission's proposal for a Digital Services Act*. European Data Protection Supervisor os. 
 https://edps.europa.eu/data-protection/ourwork/publications/opinions/digital-services-act_en  
 <a id="6">[6]</a> *Ban Surveillance Advertising*. https://www.bansurveillanceadvertising.com/  
 <a id="7">[7]</a> *EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets*.  Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna Strycharz. 
 https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf  
 <a id="8">[8]</a> *The effects of tobacco control policies on global smoking prevalence*. Luisa S. Flor, Marissa B. Reitsma, Vinay Gupta, Marie Ng, Emmanuela Gakidou.
 https://www.nature.com/articles/s41591-020-01210-8  
-<a id="9">[9]</a> For an example of this industry argument, see ‘What would an internet without targeted 
-ads look like‘. Interactive Advertising Bureau Europe. 
+<a id="9">[9]</a> For an example of this industry argument, see ‘What would an internet without targeted ads look like‘. Interactive Advertising Bureau Europe. 
 https://iabeurope.eu/knowledge-hub/iab-research-what-would-an-internet-without-targeted-ads-look-like/  
 <a id="10">[10]</a> ‘What is Vendor Relationship Management?’. Doc Searls. 
 https://www.capgemini.com/2015/08/what-is-vendor-relationship-management/  
 <a id="11">[11]</a> ‘To track or not to track? Towards privacy-friendly and sustainable online advertising’. 
 Karolina Iwanska. 
 https://en.panoptykon.org/privacy-friendly-advertising  
-<a id="12">[12]</a> Existem diferentes tipos de contexto publicitário. Alguns destes podem ser parcialmente
-baseados no tratamento de dados pessoais e na criação de perfis de utilizador, e podem ser usados para
-contornar a proteção de privacidade percebida pelo indivíduo. Ao longo deste relatório, usamos o termo
-"publicidade contextual" para nos referirmos a tipos de anúncios contextuais que não dependem do rastreio
-e perfis dos consumidores.  
+<a id="12">[12]</a> Existem diferentes tipos de contexto publicitário. Alguns destes podem ser parcialmente baseados no tratamento de dados pessoais e na criação de perfis de utilizador, e podem ser usados para contornar a proteção de privacidade percebida pelo indivíduo. Ao longo deste relatório, usamos o termo "publicidade contextual" para nos referirmos a tipos de anúncios contextuais que não dependem do rastreio e perfis dos consumidores.  
 <a id="13">[13]</a> ‘Can Killing Cookies Save Journalism?‘. Gilad Edelman. 
 https://www.wired.com/story/can-killing-cookies-save-journalism/
 ‘After GDPR, The New York Times cut off ad exchanges in Europe — and kept growing 
 ad revenue‘. Jessica Davies. 
 https://digiday.com/media/gumgumtest-new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/  
-<a id="14">[14]</a> ‘Update (Six Months of Data): lessons for growing publisher revenue by removing 3rd 
-party tracking‘. Johnny Ryan. 
+<a id="14">[14]</a> ‘Update (Six Months of Data): lessons for growing publisher revenue by removing 3rd party tracking‘. Johnny Ryan. 
 https://brave.com/publisher-3rd-party-tracking/  
 <a id="15">[15]</a> ‘After GDPR, The New York Times cut off ad exchanges in Europe — and kept 
 growing ad revenue‘. Jessica Davies. 
 https://digiday.com/media/new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/  
-<a id="16">[16]</a> ‘A‘ is for ad money oddly gone missing: Probe finds middlemen siphon off half of 
-online advertising spend‘. Thomas Claburn.
+<a id="16">[16]</a> ‘A‘ is for ad money oddly gone missing: Probe finds middlemen siphon off half of online advertising spend‘. Thomas Claburn.
 https://www.theregister.com/2020/05/07/ad_tech_fees_sucked/  
-<a id="17">[17]</a> ‘Two years on from complaint to the Irish Data Protection Commission, the RTB data 
-breach is the largest ever recorded, and appears to have worsened.‘. Johnny Ryan. 
+<a id="17">[17]</a> ‘Two years on from complaint to the Irish Data Protection Commission, the RTB data breach is the largest ever recorded, and appears to have worsened.‘. Johnny Ryan. 
 https://www.iccl.ie/wp-content/uploads/2020/09/1.-Submission-to-Data-Protection-Commissioner.pdf  
 <a id="18">[18]</a>  However, this is often combined with third-party data or data collected through third 
 party platforms, for example through tracking pixels. See for example ‘Missed by Filter 
@@ -474,15 +463,13 @@ https://www.globalwitness.org/en/blog/do-people-really-want-personalised-ads-onl
 https://accountabletech.org/wp-content/uploads/Accountable-Tech-FrequencyQuestionnaire.pdf  
 <a id="29">[29]</a> ‘iOS 14.5 Opt-in Rate - Daily Updates Since Launch‘. Estelle Laziuk.
 https://www.flurry.com/blog/ios-14-5-opt-in-rate-att-restricted-app-tracking-transparencyworldwide-us-daily-latest-update/  
-<a id="30">[30]</a> The nuances and distinction between individualization and personalization is explored 
-in ‘EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets‘. 
+<a id="30">[30]</a> The nuances and distinction between individualization and personalization is explored in ‘EU Consumer Protection 2.0: Structural asymmetries in digital consumer markets‘. 
 Natali Helberger, Orla Lynskey, Hans-W. Micklitz, Peter Rott, Marijn Sax, Joanna 
 Strycharz, p. 94. 
 https://www.beuc.eu/publications/beuc-x-2021-018_eu_consumer_protection.0_0.pdf  
 <a id="31">[31]</a> ‘10 Reasons Why Online Advertising is Broken‘. Karolina Iwańska. 
 https://medium.com/@ka.iwanska/10-reasons-why-online-advertising-is-brokend152308f50ec  
-<a id="32">[32]</a> Such ad registries would have to avoid a number of pitfalls in order to be useful. See 
-for example ‘Platform ad archives: promises and pitfalls’. Paddy Leerssen, Jef Ausloos, 
+<a id="32">[32]</a> Such ad registries would have to avoid a number of pitfalls in order to be useful. See for example ‘Platform ad archives: promises and pitfalls’. Paddy Leerssen, Jef Ausloos, 
 Brahim Zarouali, Natali Helberger, Claes H. de Vreese.
 https://policyreview.info/articles/analysis/platform-ad-archives-promises-and-pitfalls  
 <a id="33">[33]</a> ‘Out of Control‘. Forbrukerrådet. https://www.forbrukerradet.no/out-of-control/  
@@ -491,44 +478,34 @@ https://policyreview.info/articles/analysis/platform-ad-archives-promises-and-pi
 <a id="36">[36]</a> ‘Oracle’s BlueKai tracks you across the web. That data spilled online‘. Zack Whittaker.
 https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/  
 <a id="37">[37]</a> The GDPR enforcement gap is described in detail in ‘The Long and Winding Road: 
-Two years of the GDPR: A cross-border data protection enforcement case from a 
-consumer perspective‘. BEUC. 
+Two years of the GDPR: A cross-border data protection enforcement case from a consumer perspective‘. BEUC. 
 https://www.beuc.eu/publications/beuc-x-2020-074_two_years_of_the_gdpr_a_cross-border_data_protection_enforcement_case_from_a_consumer_perspective.pdf  
 <a id="38">[38]</a> ‘Facebook's GDPR bypass reaches Austrian Supreme Court‘. Noyb.
 https://noyb.eu/en/facebooks-gdpr-bypass-reaches-austrian-supreme-court  
 <a id="39">[39]</a> ‘Shaping Europe’s Digital Future. Proposal for ePrivacy Regulation‘. European 
 Commission. 
 https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation  
-<a id="40">[40]</a> ‘Facebook told advertisers it can identify teens feeling “insecure” and “worthless”‘. 
-Sam Levin. 
+<a id="40">[40]</a> ‘Facebook told advertisers it can identify teens feeling “insecure” and “worthless”‘. Sam Levin. 
 https://www.theguardian.com/technology/2017/may/01/facebook-advertisingdata-insecure-teens  
 <a id="41">[41]</a> ‘What a Gambling App Knows About You‘. Adam Satariano.
 https://www.nytimes.com/2021/03/24/technology/gambling-apps-tracking.html  
-<a id="42">[42]</a> ‘Facebook allows advertisers to target children interested in smoking, alcohol and 
-weight loss‘. Josh Taylor.
+<a id="42">[42]</a> ‘Facebook allows advertisers to target children interested in smoking, alcohol and weight loss‘. Josh Taylor.
 https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-totarget-children-interested-in-smoking-alcohol-and-weight-loss  
 <a id="43">[43]</a>  ‘About Lookalike Audiences‘. Facebook.
 https://www.facebook.com/business/help/164749007013531?id=401668390442328  
 <a id="44">[44]</a> 'How Big Pharma Finds Sick Users in Facebook'. Colin Lecher.
 https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-onfacebook  
-45 "Apesar da proibição, o Facebook continuou a rotular as pessoas como interessadas em milícias para
-Anunciantes. Ryan Mac. https://www.buzzfeednews.com/article/ryanmac/facebookmilitia-interest-category-advertisers-ban  
-46 Para obter mais informações sobre a necessidade de novas e atualizadas conceções de vulnerabilidade do consumidor, consulte: "Proteção do Consumidor da UE 2.0: Assimetrias estruturais no consumidor digital mercados'. Natali HelbergerOrla Lynskey, Hans-W. MicklitzPedro Rott, Marijn Sax, Joanna Strycharz. https://www.beuc.eu/publications/beuc-x-2021...018_eu_consumer_protection.0_0.pdf  
-47 'WTF é padrão escuro design?. Natasha Lomas. https://techcrunch.com/2018/07/01/wtfis-dark-pattern-design/  
-48 Para mais informações sobre os efeitos adversos do marketing digital nas crianças, consulte 'Big Food, Big
-Tecnologia e a Obesidade Infantil Global Pandemia. Jeff Chester, Kathryn C.
-Montgomery, Katharina Kopp. https://www.democraticmedia.org/article/big-food-bigtech-and-global-childhood-obesity-pandemic  
-49 O marketing de conteúdos inclui conteúdo patrocinado em jornais online, influência
-marketing, e outros conteúdos promocionais pagos.  
-50 'A Proposta de Lei dos Serviços Digitais - Posição BEUC Papel.. O BEUC.
-https://www.beuc.eu/publications/beuc-x-2021...
-032_the_digital_services_act_proposal.pdf  
-51 Para uma análise detalhada da discriminação na publicidade baseada em vigilância, consulte 'Como
-anúncios online discriminam'. Frederike Rio Kaltheuner. https://edri.org/our-work/how-online-adsdiscriminate/  
-52 "A vigilância generalizada do Facebook e do Google representa um perigo sem precedentes para
-humano direitos'. Amnistia Internacional.
+<a id="45">[45]</a> "Apesar da proibição, o Facebook continuou a rotular as pessoas como interessadas em milícias para Anunciantes. Ryan Mac. https://www.buzzfeednews.com/article/ryanmac/facebookmilitia-interest-category-advertisers-ban  
+<a id="46">[46]</a> Para obter mais informações sobre a necessidade de novas e atualizadas conceções de vulnerabilidade do consumidor, consulte: "Proteção do Consumidor da UE 2.0: Assimetrias estruturais no consumidor digital mercados'. Natali HelbergerOrla Lynskey, Hans-W. MicklitzPedro Rott, Marijn Sax, Joanna Strycharz. https://www.beuc.eu/publications/beuc-x-2021...018_eu_consumer_protection.0_0.pdf  
+<a id="47">[47]</a> 'WTF é padrão escuro design?. Natasha Lomas. https://techcrunch.com/2018/07/01/wtfis-dark-pattern-design/  
+<a id="48">[48]</a> Para mais informações sobre os efeitos adversos do marketing digital nas crianças, consulte 'Big Food, Big Tecnologia e a Obesidade Infantil Global Pandemia. Jeff Chester, Kathryn C. Montgomery, Katharina Kopp. https://www.democraticmedia.org/article/big-food-bigtech-and-global-childhood-obesity-pandemic  
+<a id="49">[49]</a> O marketing de conteúdos inclui conteúdo patrocinado em jornais online, influência marketing, e outros conteúdos promocionais pagos.  
+<a id="50">[50]</a> 'A Proposta de Lei dos Serviços Digitais - Posição BEUC Papel.. O BEUC.
+https://www.beuc.eu/publications/beuc-x-2021...032_the_digital_services_act_proposal.pdf  
+<a id="51">[51]</a> Para uma análise detalhada da discriminação na publicidade baseada em vigilância, consulte 'Como anúncios online discriminam'. Frederike Rio Kaltheuner. https://edri.org/our-work/how-online-adsdiscriminate/  
+<a id="52">[52]</a> "A vigilância generalizada do Facebook e do Google representa um perigo sem precedentes para humano direitos'. Amnistia Internacional.
 https://www.amnesty.org/en/latest/news/2019/11/google-facebook-surveillance-privacy/  
-53 'Os algoritmos de anúncio do Facebook ainda estão excluindo as mulheres de ver empregos '. Karen Hao.
+<a id="53">[53]</a> 'Os algoritmos de anúncio do Facebook ainda estão excluindo as mulheres de ver empregos '. Karen Hao.
 https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sexdiscrimination/  
 54 'Anúncios de cartão de crédito foram alvo por idade, violando a anti-discriminação do Facebook
 Política'. Rio Corin Rio Faife e Alfred Ng. https://themarkup.org/citizenbrowser/2021/04/29/credit-card-ads-were-targeted-by-age-violating-facebooks-antidiscrimination-policy  
@@ -537,8 +514,7 @@ resultados '. Muhammad Ali Sapiezynski, Miranda Rio Bogen, Aleksandra Korolova,
 Rio Alan Mal-amado e Aaron Rieke. https://arxiv.org/abs/1904.02095  
 56 'Facebook (Ainda) Deixar os Anunciantes de Habitação excluir utilizadores por Raça'. Julia Angwin,
 Ariana Tobin e Madeleine Varner. https://www.propublica.org/article/facebookadvertising-discrimination-housing-race-sex-national-origin  
-57 'Dados de localização vazados mostra outro rastreio de aplicativo de oração muçulmano Utilizadores. José
-Cox, cox. https://www.vice.com/en/article/xgz4n3/muslim-app-location-data-salaat-first  
+57 'Dados de localização vazados mostra outro rastreio de aplicativo de oração muçulmano Utilizadores. José Cox, cox. https://www.vice.com/en/article/xgz4n3/muslim-app-location-data-salaat-first  
 58 'Monstros de cookies: por que o seu histórico de navegação pode significar roubo preços'. Rio Arwa
 O Mahdavi. https://www.theguardian.com/commentisfree/2016/dec/06/cookie-monsterswhy-your-browsing-history-could-mean-rip-off-prices  
 59 A fim de restringir práticas discriminatórias através de atributos de procuração, restrições
@@ -599,30 +575,29 @@ https://www.forbes.com/sites/augustinefou/2020/08/18/the-cost-performance-parado
 https://www.forbes.com/sites/augustinefou/2020/12/19/in-digital-wanamakers-50-isknown-its-also-worse-than-that/
 85 "Tempo para mudança e transparência em programática publicidade'. O ISBA.
 https://www.isba.org.uk/article/time-change-and-transparency-programmatic-advertising
-86 'Anúncio comportamental direcionado para não pagar para editores, estudo Sugere:. Rio Keach
+[86] 'Anúncio comportamental direcionado para não pagar para editores, estudo Sugere:. Rio Keach
 Rio Hagey. https://www.wsj.com/articles/behavioral-ad-targeting-not-paying-off-forpublishers-study-suggests-11559167195  
-87 Por exemplo, o corretor de dados Tamoco alega usar dados de localização para detetar fraude de anúncios.
+[87] Por exemplo, o corretor de dados Tamoco alega usar dados de localização para detetar fraude de anúncios.
 O que é fraude de anúncios? Como os dados de localização podem detetar anúncios Fraude. Tamoco.
 https://www.tamoco.com/blog/location-digital-ad-fraud-detection/  
-88 "O Facebook sabia há anos que as estimativas de alcance de anúncios eram baseadas em "dados errados", mas bloqueadas
+[88] "O Facebook sabia há anos que as estimativas de alcance de anúncios eram baseadas em "dados errados", mas bloqueadas
 correções sobre o impacto da receita, por tribunal arquivamento'. Natasha Lomas.
 https://techcrunch.com/2021/02/18/facebook-knew-for-years-ad-reach-estimates-werebased-on-wrong-data-but-blocked-fixes-over-revenue-impact-per-court-filing/  
-89 'Breitbart.com é parceria com RT.com & Outros Sites via Publicidade Mal-Rotulada
+[89] 'Breitbart.com é parceria com RT.com & Outros Sites via Publicidade Mal-Rotulada
 Inventário'. Zach Edwards. https://medium.com/@thezedwards/breitbart-com-ispartnering-with-rt-com-other-sites-via-mislabeled-advertising-inventory-6e7e3b5c3318  
-90 ‘Telefonen spionerte på Meg. Slik fant jeg overvåkerne‘. Martin Gundersen.
+[90] ‘Telefonen spionerte på Meg. Slik fant jeg overvåkerne‘. Martin Gundersen.
 https://nrkbeta.no/2020/12/03/telefonen-spionerte-pa-meg-slik-fant-jeg-overvakerne/  
-91 ‘Når mobilen blir fienden‘. Martin Gundersen, Øyvind Adeus Habilidade, Henrik Lied, Mari
+[91] ‘Når mobilen blir fienden‘. Martin Gundersen, Øyvind Adeus Habilidade, Henrik Lied, Mari
 GrafsrønningenHarald K.Jansson. https://www.nrk.no/norge/xl/norske-offiserer-ogsoldater-avslort-av-mobilen-1.14890424  
-92 'Corretores de dados e Segurança:. NATO STRATCOM.
+[92] 'Corretores de dados e Segurança:. NATO STRATCOM.
 https://stratcomcoe.org/publications/data-brokers-and-security/17  
-93 A polícia egípcia está a usar o Grindr para encontrar e prender pessoas LGBT. Matt Payton.
+[93] A polícia egípcia está a usar o Grindr para encontrar e prender pessoas LGBT. Matt Payton.
 https://www.independent.co.uk/news/world/africa/egyptian-police-grindr-dating-apparrest-lgbt-gay-anti-gay-lesbian-homophobia-a7211881.html  
-94 'Proteja-se De Ameaças de anúncios e 'Malvertising''. Michelle Drolet.
+[94] 'Proteja-se De Ameaças de anúncios e 'Malvertising''. Michelle Drolet.
 https://www.forbes.com/sites/forbestechcouncil/2020/02/03/protect-yourself-from-adthreats-and-malvertising/  
-95 'Deloitte Global Mobile Consumer Survey 2019: The Nordic cortar '. A Deloitte.
+[95] 'Deloitte Global Mobile Consumer Survey 2019: The Nordic cortar '. A Deloitte.
 https://www2.deloitte.com/no/no/pages/technology-media-andtelecommunications/topics/global-mobile-consumer-survey.html  
-96 'Enganado pelo Design: como as empresas tecnológicas usam padrões escuros para nos desencorajar de
-exercendo os nossos direitos de privacidade'. Forbrukerrådet.
+[96] 'Enganado pelo Design: como as empresas tecnológicas usam padrões escuros para nos desencorajar de exercendo os nossos direitos de privacidade'. Forbrukerrådet.
 https://www.forbrukerradet.no/undersokelse/no-undersokelsekategori/deceived-bydesign/  
 [97] 'A semana má do Google: YouTube perde milhões à medida que a linha de publicidade chega EUA.. Olívia
 O Solon. https://www.theguardian.com/technology/2017/mar/25/google-youtubeadvertising-extremist-content-att-verizon  
