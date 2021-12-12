@@ -325,20 +325,18 @@ Além disso, a falta geral de confiança pode reduzir a propagação e a absorç
 para a saúde mental[99](#99) ou procurando ajuda através de serviços públicos.[100](#100)
 Os consumidores têm poucas formas de distinguir entre atores sérios e não sérios no espaço digital, que é suscetível de impactar negativamente os pequenos e médios tamanhodenterprises querendo competir em fatores como o desenvolvimento de privacidade tecnologias de preservação.
 Como é que a falta de confiança nos serviços digitais será resolvida através de uma proibição?
-Uma proibição geral da publicidade baseada na vigilância não será uma cura para restaurar confiança nos serviços digitais. Os escândalos são muito numerosos, e têm ocorrido repetidamente ao longo de um longo período. Vai levar tempo para restaurar a confiança. No entanto, uma proibição contribuiria para um campo de jogo nivelado onde as receitas de anúncios para um maior extensão chegar a atores sérios. Isto pode contribuir para que os consumidores já não se sintam como se os prestadores de serviços e marcas estão olhando sobre o seu ombro on-line e sendo tratados como mercadorias que são vendidas ao licitador mais alto. Também pode
-restaurar a confiança, tranquilizando os consumidores de que as marcas não estão patrocinando odioso conteúdo.
+Uma proibição geral da publicidade baseada na vigilância não será uma cura para restaurar confiança nos serviços digitais. Os escândalos são muito numerosos, e têm ocorrido repetidamente ao longo de um longo período. Vai levar tempo para restaurar a confiança. No entanto, uma proibição contribuiria para um campo de jogo nivelado onde as receitas de anúncios para um maior extensão chegar a atores sérios. Isto pode contribuir para que os consumidores já não se sintam como se os prestadores de serviços e marcas estão olhando sobre o seu ombro on-line e sendo tratados como mercadorias que são vendidas ao licitador mais alto. Também pode restaurar a confiança, tranquilizando os consumidores de que as marcas não estão patrocinando odioso conteúdo.
 
 
 
 
 ### 4.10 Tecnologia ineficiente
-É contestado se, além de criar e exacerbar uma série de problemas sérios, a tecnologia por trás da publicidade baseada na vigilância é na verdade eficaz como uma ferramenta de marketing. Mesmo que a inovação em áreas como
-inteligência artificial é muitas vezes apresentado como revolucionário para a publicidade indústria, vale a pena questionar se os efeitos de marketing do a tecnologia está a ser vendida demais.101 Isto é exemplificado por estudos que mostram que publicidade baseada em vigilância têm, em muitos casos, não teve efeitos benéficos em taxas de conversão ou receitas editoriais.102
-Estudos têm demonstrado que as empresas que vendem tecnologia de publicidade são significativamente exagerando a eficácia da tecnologia e que o alvo real está longe de ser preciso.103 Embora perfis com base em dados cobrança pode ser preciso em certas circunstâncias, em outros casos o inferências desenhadas podem ser imprecisas ou planas erradas.104
-Há também desafios relacionados com os anunciantes que chegam aos consumidores que foram já planejando a compra ou que já comprou o produto sendo anunciado. Pode ser difícil ou mesmo impossível para um anunciante distinguir entre uma venda feita por causa de um anúncio ou se o anúncio foi exibido a um consumidor que teria feito a compra independentemente.105
-Além disso, a publicidade online é muitas vezes dependente dos consumidores, na verdade clicar nos anúncios, e o volume absoluto de publicidade pode levar à maioria material de marketing transformando-se em ruído de fundo.[106]
+É contestado se, além de criar e exacerbar uma série de problemas sérios, a tecnologia por trás da publicidade baseada na vigilância é na verdade eficaz como uma ferramenta de marketing. Mesmo que a inovação em áreas como inteligência artificial é muitas vezes apresentado como revolucionário para a publicidade indústria, vale a pena questionar se os efeitos de marketing do a tecnologia está a ser vendida demais.[101](#101) Isto é exemplificado por estudos que mostram que publicidade baseada em vigilância têm, em muitos casos, não teve efeitos benéficos em taxas de conversão ou receitas editoriais.[102](#102)
+Estudos têm demonstrado que as empresas que vendem tecnologia de publicidade são significativamente exagerando a eficácia da tecnologia e que o alvo real está longe de ser preciso.[103](#103) Embora perfis com base em dados cobrança pode ser preciso em certas circunstâncias, em outros casos o inferências desenhadas podem ser imprecisas ou planas erradas.[104](#104)
+Há também desafios relacionados com os anunciantes que chegam aos consumidores que foram já planejando a compra ou que já comprou o produto sendo anunciado. Pode ser difícil ou mesmo impossível para um anunciante distinguir entre uma venda feita por causa de um anúncio ou se o anúncio foi exibido a um consumidor que teria feito a compra independentemente.[105](#105)
+Além disso, a publicidade online é muitas vezes dependente dos consumidores, na verdade clicar nos anúncios, e o volume absoluto de publicidade pode levar à maioria material de marketing transformando-se em ruído de fundo.[106](#106)
 Embora uma grande parte das tecnologias de publicidade digital possa ter limitado efeitos, isto não significa que as decisões baseadas em má tecnologia serão melhor para os consumidores do que decisões baseadas em tecnologia precisa. O imprecisão da tecnologia não é um fator atenuante se os consumidores estão sujeitos a discriminação, manipulação ou exclusão.
-Há também sérias ineficiências no poder de computação e no uso de energia de publicidade baseada em vigilância. Embora o consumo de energia de dados centros não é um problema exclusivo da publicidade, estudos têm demonstrado que o digital as tecnologias de publicidade têm pegadas de carbono significativas.107 O impacto ambiental da publicidade baseada na vigilância é exacerbado pela uso da inteligência artificial e a prevalência de bots usados para fraude de anúncios.108
+Há também sérias ineficiências no poder de computação e no uso de energia de publicidade baseada em vigilância. Embora o consumo de energia de dados centros não é um problema exclusivo da publicidade, estudos têm demonstrado que o digital as tecnologias de publicidade têm pegadas de carbono significativas.[107](#107) O impacto ambiental da publicidade baseada na vigilância é exacerbado pela uso da inteligência artificial e a prevalência de bots usados para fraude de anúncios.[108](#108)
 Como é que a tecnologia ineficiente será resolvida através de uma proibição?
 Uma proibição geral da publicidade baseada na vigilância limitará as oportunidades de vender tecnologias de "óleo de serpente" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editor e ajudar a proteger os consumidores contra decisões baseadas em defeituosos tecnologias e suposições.
 O impacto ambiental da publicidade baseada na vigilância pode restringir alguns dos a pegada de carbono excessiva, mas outras medidas complementares são necessário para lidar com os níveis de emissão de dados centros e artificial inteligência.
@@ -353,8 +351,8 @@ Como descrito acima, a proibição da publicidade baseada na vigilância não é
 
 
 ### 5.1 Legislação da UE em termos de privacidade e proteção de dados
-O Regulamento Geral de Proteção de Dados (RGPD) regula o processamento de dados pessoais. A proteção de dados pessoais é considerada fundamental direito humano, e o RGPD visa principalmente dar aos indivíduos o controlo sobre a sua dados pessoais e proibir o tratamento de dados pessoais sem um legal válido base. Regra geral, a utilização de dados pessoais para perfis e rastreios, especialmente quando isto envolve a partilha contínua de dados pessoais, requer um válido consentimento.109 Isto também foi afirmado pela proteção de dados europeia autoridades.110
-O trabalho feito pelo Conselho Norueguês do Consumidor no domínio do digital publicidade mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de pessoal. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas é que todos os consumidores tornam-se vulneráveis por defeito no rosto de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir se aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de pessoal dados para fins de publicidade baseados em vigilância tem provado na maioria dos casos não para estar em conformidade com o RGPD. Isto foi ainda afirmado pelo norueguês Autoridade de Proteção de Dados (Datatilsynet), quando anunciou a sua intenção de multar a aplicação de encontros Grindr para o tratamento de dados pessoais para fins publicitários.111
+O Regulamento Geral de Proteção de Dados (RGPD) regula o processamento de dados pessoais. A proteção de dados pessoais é considerada fundamental direito humano, e o RGPD visa principalmente dar aos indivíduos o controlo sobre a sua dados pessoais e proibir o tratamento de dados pessoais sem um legal válido base. Regra geral, a utilização de dados pessoais para perfis e rastreios, especialmente quando isto envolve a partilha contínua de dados pessoais, requer um válido consentimento.[109](#109) Isto também foi afirmado pela proteção de dados europeia autoridades.[110](#110)
+O trabalho feito pelo Conselho Norueguês do Consumidor no domínio do digital publicidade mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de pessoal. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas é que todos os consumidores tornam-se vulneráveis por defeito no rosto de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir se aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de pessoal dados para fins de publicidade baseados em vigilância tem provado na maioria dos casos não para estar em conformidade com o RGPD. Isto foi ainda afirmado pelo norueguês Autoridade de Proteção de Dados (Datatilsynet), quando anunciou a sua intenção de multar a aplicação de encontros Grindr para o tratamento de dados pessoais para fins publicitários.[111](#111)
 Mesmo que o RGPD seja adequado para abordar uma série de questões relacionadas com a privacidade no que diz respeito à publicidade baseada em vigilância, o regulamento limita-se aos casos onde os dados pessoais estão a ser tratados.
 Como mostrado acima, muitos dos potenciais danos da publicidade baseada na vigilância perduram mesmo que os dados pessoais não sejam transferidos do dispositivo do utilizador final. Em estes casos, tanto o RGPD como o ePrivacy A diretiva pode ser insuficiente para lidar com os problemas. Daí medidas complementares, como a proibição geral sobre a publicidade baseada na vigilância, pode ser necessário para combater estes mais amplos problemas.
 
@@ -363,21 +361,14 @@ Como mostrado acima, muitos dos potenciais danos da publicidade baseada na vigil
 
 ## 5.2 A Diretiva relativa às práticas comerciais desleais
 A Diretiva relativa às práticas comerciais desleais (UCPD) estabelece um europeu quadro para que marketing, práticas comerciais e termos de utilização os atores comerciais podem participar em diferentes mercados. Consumidor autoridades de proteção são responsáveis pela aplicação desta lei e pela garantia que os consumidores estão protegidos.
-A UCPD é neutra em tecnologia, e pode, em teoria, ser usada em casos que
-dizem respeito à publicidade baseada na vigilância. Marketing dirigido a indivíduos no forma de publicidade baseada em vigilância pode dar origem a perguntas sobre se a tecnologia que é usada para influenciar o partido recetor cruza o limites para o que constituem influência ou pressão injusta e ilegal.
-Podem ser levantadas questões sobre se certas formas de vigilância baseadas publicidade satisfaz os critérios para práticas comerciais agressivas no âmbito do Lei de Controlo de Marketing.112 Esta disposição destina-se ao marketing que emprega medidas que são consideradas ofensivas para reconhecido e generalizado normas sociais.
-No entanto, a UCPD está predominantemente preocupada com o conteúdo e forma de atividades de marketing e materiais. As numerosas questões problemáticas que surgem da utilização da publicidade baseada na vigilância não estão necessariamente ligadas ao conteúdo do marketing, mas sim para os meios de entrega de anúncios, incluindo o processo de decidir que anúncio para mostrar a que pessoa em que tempo. Isto, em
-além da natureza fugaz da publicidade baseada em vigilância, pode significar que a UCPD não é adequada para o fim de regular esta área específica.
+A UCPD é neutra em tecnologia, e pode, em teoria, ser usada em casos que dizem respeito à publicidade baseada na vigilância. Marketing dirigido a indivíduos no forma de publicidade baseada em vigilância pode dar origem a perguntas sobre se a tecnologia que é usada para influenciar o partido recetor cruza o limites para o que constituem influência ou pressão injusta e ilegal.
+Podem ser levantadas questões sobre se certas formas de vigilância baseadas publicidade satisfaz os critérios para práticas comerciais agressivas no âmbito do Lei de Controlo de Marketing.[112](#112) Esta disposição destina-se ao marketing que emprega medidas que são consideradas ofensivas para reconhecido e generalizado normas sociais.
+No entanto, a UCPD está predominantemente preocupada com o conteúdo e forma de atividades de marketing e materiais. As numerosas questões problemáticas que surgem da utilização da publicidade baseada na vigilância não estão necessariamente ligadas ao conteúdo do marketing, mas sim para os meios de entrega de anúncios, incluindo o processo de decidir que anúncio para mostrar a que pessoa em que tempo. Isto, em além da natureza fugaz da publicidade baseada em vigilância, pode significar que a UCPD não é adequada para o fim de regular esta área específica.
 Pelo que sabemos, nenhuma decisão sobre publicidade baseada em vigilância tem as autoridades de defesa do consumidor emitiram.
 
 ## 5.3 Questões de execução
-Embora o RGPD estabeleça requisitos rigorosos para o tratamento de dados pessoais, o regulamento não foi suficiente para parar os dados ilegais generalizados
-
-
-
-recolha e perfis de consumidores. As razões para esta deficiência são que
-empresas não cumpriram as regras e tem havido sério transfronteiriço estrangulamentos de execução e falta de aplicação.
-O RGPD introduziu novos mecanismos de execução que procuraram facilitar Aplicação transfronteiriça, mas até agora isso não funcionou como pretendido. Para exemplo, um grande número de queixas legais foram passadas para os Dados Irlandeses Comissão de Proteção, uma vez que muitas grandes empresas tecnológicas têm a sua europa sede na Irlanda. Isto levou a que as queixas não fossem tratadas e a atrasos graves nas decisões.113 Simultaneamente, as empresas continuam a operar mesmo depois de violações em larga escala do RGPD, uma vez que a probabilidade de um rápido decisão ou coima administrativa é relativamente pequena.
+Embora o RGPD estabeleça requisitos rigorosos para o tratamento de dados pessoais, o regulamento não foi suficiente para parar os dados ilegais generalizados recolha e perfis de consumidores. As razões para esta deficiência são que empresas não cumpriram as regras e tem havido sério transfronteiriço estrangulamentos de execução e falta de aplicação.
+O RGPD introduziu novos mecanismos de execução que procuraram facilitar Aplicação transfronteiriça, mas até agora isso não funcionou como pretendido. Para exemplo, um grande número de queixas legais foram passadas para os Dados Irlandeses Comissão de Proteção, uma vez que muitas grandes empresas tecnológicas têm a sua europa sede na Irlanda. Isto levou a que as queixas não fossem tratadas e a atrasos graves nas decisões.[113](#113) Simultaneamente, as empresas continuam a operar mesmo depois de violações em larga escala do RGPD, uma vez que a probabilidade de um rápido decisão ou coima administrativa é relativamente pequena.
 Execução da UCPD contra infrações na área de vigilância a publicidade não teve, pelo que sabemos, ocorrido. Penalização isolado infrações é um processo demorado, e só acontece após o Ocorreu uma infração e os danos já foram causados. Na prática, isto significa que um grande número de empresas estão se safando com quebra a lei. O facto de o marketing em si ser personalizado e fugaz, uma vez que é apenas mostrado a pessoas particulares em determinados pontos no tempo, faz o controlo e execução difícil. Além disso, invasivo e problemático vigilância a publicidade não pode necessariamente violar a UCPD, uma vez que o conteúdo e forma de um certo anúncio pode estar fora do âmbito da lei ainda ser prejudicial
 na forma como o anúncio foi entregue ou como o destinatário foi escolhido.
 A falta de execução do RGPD também levou a uma situação em que uma grande número de atores têm sido capazes de continuar a operar ilegalmente sem enfrentar quaisquer consequências significativas. Modelos onde os perfis são criados e armazenados localmente em dispositivos de consumo pode ou não reduzir riscos de privacidade, mas a utilização de
@@ -391,7 +382,7 @@ Uma vez que investigar casos individuais de violações requer tempo consideráv
  
 ## 6 Conclusão
 A publicidade baseada na vigilância causa violações dos direitos fundamentais, fraude generalizada e perda de receitas, e tem contribuído para uma série de efeitos individuais e sociais negativos. Apesar dos repetidos avisos, multas, escândalos, e revelações, a indústria tem mostrado pouca vontade de alterar significativamente as suas práticas, e é questionável se significativo as alterações a partes do sector são mesmo possíveis sem uma reforma fundamental.
-A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banido totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma proibição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de alguns jogadores.114
+A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banido totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma proibição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de alguns jogadores.[114](#114)
 Uma proibição geral da publicidade baseada na vigilância forçará muitos atores da indústria para mudar os seus modelos de negócio. Estimularia o crescimento das tecnologias que respeitam os direitos dos consumidores e dos direitos fundamentais. Num cenário a longo prazo, ajudaria a restaurar a confiança dos consumidores nos serviços digitais. Esta seria uma rede positivo para os consumidores, para as empresas e para a sociedade em geral. 
 Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe superado pelos danos, e a proibição é, portanto, a solução certa.
 
@@ -507,135 +498,122 @@ https://www.beuc.eu/publications/beuc-x-2021...032_the_digital_services_act_prop
 https://www.amnesty.org/en/latest/news/2019/11/google-facebook-surveillance-privacy/  
 <a id="53">[53]</a> 'Os algoritmos de anúncio do Facebook ainda estão excluindo as mulheres de ver empregos '. Karen Hao.
 https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sexdiscrimination/  
-54 'Anúncios de cartão de crédito foram alvo por idade, violando a anti-discriminação do Facebook
-Política'. Rio Corin Rio Faife e Alfred Ng. https://themarkup.org/citizenbrowser/2021/04/29/credit-card-ads-were-targeted-by-age-violating-facebooks-antidiscrimination-policy  
-55 'Discriminação através da otimização: Como a entrega de anúncios do Facebook pode levar a distorções
-resultados '. Muhammad Ali Sapiezynski, Miranda Rio Bogen, Aleksandra Korolova,
+<a id="54">[54]</a> 'Anúncios de cartão de crédito foram alvo por idade, violando a anti-discriminação do Facebook Política'. Rio Corin Rio Faife e Alfred Ng. https://themarkup.org/citizenbrowser/2021/04/29/credit-card-ads-were-targeted-by-age-violating-facebooks-antidiscrimination-policy  
+<a id="55">[55]</a> 'Discriminação através da otimização: Como a entrega de anúncios do Facebook pode levar a distorções resultados '. Muhammad Ali Sapiezynski, Miranda Rio Bogen, Aleksandra Korolova,
 Rio Alan Mal-amado e Aaron Rieke. https://arxiv.org/abs/1904.02095  
-56 'Facebook (Ainda) Deixar os Anunciantes de Habitação excluir utilizadores por Raça'. Julia Angwin,
+<a id="56">[56]</a> 'Facebook (Ainda) Deixar os Anunciantes de Habitação excluir utilizadores por Raça'. Julia Angwin,
 Ariana Tobin e Madeleine Varner. https://www.propublica.org/article/facebookadvertising-discrimination-housing-race-sex-national-origin  
-57 'Dados de localização vazados mostra outro rastreio de aplicativo de oração muçulmano Utilizadores. José Cox, cox. https://www.vice.com/en/article/xgz4n3/muslim-app-location-data-salaat-first  
-58 'Monstros de cookies: por que o seu histórico de navegação pode significar roubo preços'. Rio Arwa
+<a id="57">[57]</a> 'Dados de localização vazados mostra outro rastreio de aplicativo de oração muçulmano Utilizadores. José Cox, cox. https://www.vice.com/en/article/xgz4n3/muslim-app-location-data-salaat-first  
+<a id="58">[58]</a> 'Monstros de cookies: por que o seu histórico de navegação pode significar roubo preços'. Rio Arwa
 O Mahdavi. https://www.theguardian.com/commentisfree/2016/dec/06/cookie-monsterswhy-your-browsing-history-could-mean-rip-off-prices  
-59 A fim de restringir práticas discriminatórias através de atributos de procuração, restrições
+<a id="59">[59]</a> A fim de restringir práticas discriminatórias através de atributos de procuração, restrições
 quais categorias ou segmentos que possam ser utilizados no marketing devem ser considerados. Para
 exemplo, marketing a grupos baseados em fatores de saúde assumidos, ou com base em granular
 geolocalização pode ser banido.  
-60 "O futuro do marketing baseado em dados". Federação Mundial de Anunciantes.
+<a id="60">[60]</a> "O futuro do marketing baseado em dados". Federação Mundial de Anunciantes.
 https://wfanet.org/knowledge/item/2021/03/10/WFA-report-The-future-of-data-drivenmarketing  
-61 'Covid-19 aquece a corrida para combater o bloqueio da palavra-chave da publicidade problema '.
+<a id="61">[61]</a> 'Covid-19 aquece a corrida para combater o bloqueio da palavra-chave da publicidade problema '.
 Rebecca Stewart. https://www.thedrum.com/news/2020/04/30/covid-19-heats-up-therace-combat-advertising-s-keyword-blocking-problem  
-62 'Vice bate listas negras de palavras-chave de segurança da marca após alarmar sonda'. Oliver McAteer.
+<a id="62">[62]</a> 'Vice bate listas negras de palavras-chave de segurança da marca após alarmar sonda'. Oliver McAteer.
 https://www.campaignlive.com/article/vice-slams-brand-safety-keyword-blacklistsalarming-probe/1495610
-63 O Índice de Desinformação. https://disinformationindex.org/  
-64 Os anúncios direcionados são uma das tendências mais destrutivas do mundo. Aqui está. por que'. Rio Arwa
+<a id="63">[63]</a> O Índice de Desinformação. https://disinformationindex.org/  
+<a id="64">[64]</a> Os anúncios direcionados são uma das tendências mais destrutivas do mundo. Aqui está. por que'. Rio Arwa
 O Mahdavi. https://www.theguardian.com/world/2019/nov/05/targeted-ads-fake-newsclickbait-surveillance-capitalism-data-mining-democracy  
-65 "Como o Adtech Mercado incentiva o lucro Desinformação.. Joshua Braun.
+<a id="65">[65]</a> "Como o Adtech Mercado incentiva o lucro Desinformação.. Joshua Braun.
 https://promarket.org/how-the-adtech-market-incentivizes-profit-driven-disinformation/  
-66 O Facebook disse que deixaria de recomendar grupos anti-vacinas. Não é assim. Rio Corin
-Rio Faife e Dara Kerr. https://themarkup.org/citizen-browser/2021/05/20/facebook-said-it-ould-stop-recommending-anti-vacina-grupos-it-não
-67 'Qual é a ligação entre comportamental publicidade e fake news?'. O BEUC.
-https://www.beuc.eu/publications/beuc-x-2018...
-036_what_is_the_relation_between_behavioural_advertising_and_fake_news.pdf  
-68 'Google stymies media companies from chiping away at his data domínio'. Rio Paresh
-O Dave. https://www.reuters.com/article/tech-antitrust-google-idINKBN2410ZD  
-69 'Péssimos anúncios estão arruinando o online experiência'. Walt Mossberg.
+<a id="65">[65]</a> O Facebook disse que deixaria de recomendar grupos anti-vacinas. Não é assim. Rio Corin Rio Faife e Dara Kerr. https://themarkup.org/citizen-browser/2021/05/20/facebook-said-it-ould-stop-recommending-anti-vacina-grupos-it-não
+<a id="66">[66]</a> 'Qual é a ligação entre comportamental publicidade e fake news?'. O BEUC.
+https://www.beuc.eu/publications/beuc-x-2018...036_what_is_the_relation_between_behavioural_advertising_and_fake_news.pdf  
+<a id="68">[68]</a> 'Google stymies media companies from chiping away at his data domínio'. Rio Paresh O Dave. https://www.reuters.com/article/tech-antitrust-google-idINKBN2410ZD  
+<a id="69">[69]</a> 'Péssimos anúncios estão arruinando o online experiência'. Walt Mossberg.
 https://www.theverge.com/2017/1/18/14304276/walt-mossberg-online-ads-bad-business  
-70 "O domínio digital do anúncio digital da Google está a prejudicar marketers e editores, diz novo estudar'.
+<a id="70">[70]</a> "O domínio digital do anúncio digital da Google está a prejudicar marketers e editores, diz novo estudar'.
 Ad Age. https://adage.com/article/digital/googles-digital-ad-dominance-harmingmarketers-and-publishers-says-new-study/2257576  
-71 'Google, Facebook e Amazon serão responsáveis por quase dois terços do total de anúncios digitais dos EUA
+<a id="71">[71]</a> 'Google, Facebook e Amazon serão responsáveis por quase dois terços do total de anúncios digitais dos EUA
 gastando este ano'. Mariel Soto Reyes. https://www.businessinsider.com/googlefacebook-amazon-were-biggest-ad-revenue-winners-this-year-2020-12  
-72 "Plataformas online e estudo do mercado da publicidade digital". Concorrência e Mercados
-A autoridade. https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-marketstudy#final-report  
-73 'Algoritmos: Como podem reduzir a concorrência e prejudicar consumidores'. Competição e
+<a id="72">[72]</a> "Plataformas online e estudo do mercado da publicidade digital". Concorrência e Mercados A autoridade. https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-marketstudy#final-report  
+<a id="73">[73]</a> 'Algoritmos: Como podem reduzir a concorrência e prejudicar consumidores'. Competição e
 Autoridade dos Mercados. https://www.gov.uk/government/publications/algorithms-how-theycan-reduce-competition-and-harm-consumers  
-74 "Falta de concorrência na tecnologia de publicidade que afeta editores, anunciantes e consumidores'.
+<a id="74">[74]</a> "Falta de concorrência na tecnologia de publicidade que afeta editores, anunciantes e consumidores'.
 Comissão Australiana da Concorrência e do Consumidor. https://www.accc.gov.au/mediarelease/lack-of-competition-in...ad-tech-affecting-editores-anunciantes-e-consumidores  
-75 Em 2021, a autoridade da concorrência francesa multou o Google em 220 euros por promover a sua própria
+<a id="75">[75]</a> Em 2021, a autoridade da concorrência francesa multou o Google em 220 euros por promover a sua própria
 serviços de publicidade sobre os seus rivais. .' Google multado em 220 milhões de euros em França por publicidade
 abuso'. Simon Read. https://www.bbc.com/news/business-57383867  
-76 '4 Grandes Perguntas sobre a nova privacidade da Google posição'. Johnny Ryan.
+<a id="76">[76]</a> '4 Grandes Perguntas sobre a nova privacidade da Google posição'. Johnny Ryan.
 https://www.iccl.ie/digital-data/4-big-questions-about-googles-new-privacy-position/  
-77 "As práticas publicitárias da Google visadas pela antitrust da UE sonda'. EURACTIV.
+<a id="77">[77]</a> "As práticas publicitárias da Google visadas pela antitrust da UE sonda'. EURACTIV.
 https://www.euractiv.com/section/digital/news/googles-advertising-practices-targeted-byeu-antitrust-probe/  
-78 'Receitas de Rastreio Online e Editores': Um Empírico Análise:. Veronica Marotta,
+<a id="78">[78]</a> 'Receitas de Rastreio Online e Editores': Um Empírico Análise:. Veronica Marotta,
 Rio Vibhanshu Abhishek e Alessandro. Aquista. https://weis2019.econinfosec.org/wpcontent/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf  
-
-79 'Ad Tech pode ser a próxima bolha da Internet'. Gilad Edelman.
+<a id="79">[79]</a> 'Ad Tech pode ser a próxima bolha da Internet'. Gilad Edelman.
 https://www.wired.com/story/ad-tech-could-be-the-next-internet-bubble/  
-80 'Anúncios falsos; problemas reais: como é fácil publicar anúncios fraudulentos no Facebook e
-Google?. Andrew Laughlin. https://www.which.co.uk/news/2020/07/fake-ads-realproblems-how-easy-is-it-to-post-scam-adverts-on-google-and-facebook/  
-81 'AI & Publicidade, um consumidor perspectiva'. Rio Harriet Kingaby.
+<a id="80">[80]</a> 'Anúncios falsos; problemas reais: como é fácil publicar anúncios fraudulentos no Facebook e Google?. Andrew Laughlin. https://www.which.co.uk/news/2020/07/fake-ads-realproblems-how-easy-is-it-to-post-scam-adverts-on-google-and-facebook/  
+<a id="81">[81]</a> 'AI & Publicidade, um consumidor perspectiva'. Rio Harriet Kingaby.
 https://www.harrietkingaby.com/reports  
-82 'Relatório: Fraude de anúncios para atingir 23 biliões de dólares, não vai para baixo '. George P. Slefo.
+<a id="82">[82]</a> 'Relatório: Fraude de anúncios para atingir 23 biliões de dólares, não vai para baixo '. George P. Slefo.
 https://adage.com/article/digital/report-ad-fraud-hit-23-bilhões-não vai descer/2174721  
-83 "O paradoxo custo-desempenho do marketing digital moderno". Agostinho Fou.
+<a id="83">[83]</a> "O paradoxo custo-desempenho do marketing digital moderno". Agostinho Fou.
 https://www.forbes.com/sites/augustinefou/2020/08/18/the-cost-performance-paradox-ofmodern-digital-marketing/  
-84 No Digital, 'Wanamaker's 50%' é conhecido. Também é pior do que isso..'. Agostinho Fou.
+<a id="84">[84]</a> No Digital, 'Wanamaker's 50%' é conhecido. Também é pior do que isso..'. Agostinho Fou.
 https://www.forbes.com/sites/augustinefou/2020/12/19/in-digital-wanamakers-50-isknown-its-also-worse-than-that/
-85 "Tempo para mudança e transparência em programática publicidade'. O ISBA.
+<a id="85">[85]</a> "Tempo para mudança e transparência em programática publicidade'. O ISBA.
 https://www.isba.org.uk/article/time-change-and-transparency-programmatic-advertising
-[86] 'Anúncio comportamental direcionado para não pagar para editores, estudo Sugere:. Rio Keach
+<a id="86">[86]</a> 'Anúncio comportamental direcionado para não pagar para editores, estudo Sugere:. Rio Keach
 Rio Hagey. https://www.wsj.com/articles/behavioral-ad-targeting-not-paying-off-forpublishers-study-suggests-11559167195  
-[87] Por exemplo, o corretor de dados Tamoco alega usar dados de localização para detetar fraude de anúncios.
+<a id="87">[87]</a> Por exemplo, o corretor de dados Tamoco alega usar dados de localização para detetar fraude de anúncios.
 O que é fraude de anúncios? Como os dados de localização podem detetar anúncios Fraude. Tamoco.
 https://www.tamoco.com/blog/location-digital-ad-fraud-detection/  
-[88] "O Facebook sabia há anos que as estimativas de alcance de anúncios eram baseadas em "dados errados", mas bloqueadas
+<a id="88">[88]</a> "O Facebook sabia há anos que as estimativas de alcance de anúncios eram baseadas em "dados errados", mas bloqueadas
 correções sobre o impacto da receita, por tribunal arquivamento'. Natasha Lomas.
 https://techcrunch.com/2021/02/18/facebook-knew-for-years-ad-reach-estimates-werebased-on-wrong-data-but-blocked-fixes-over-revenue-impact-per-court-filing/  
-[89] 'Breitbart.com é parceria com RT.com & Outros Sites via Publicidade Mal-Rotulada
+<a id="89">[89]</a> 'Breitbart.com é parceria com RT.com & Outros Sites via Publicidade Mal-Rotulada
 Inventário'. Zach Edwards. https://medium.com/@thezedwards/breitbart-com-ispartnering-with-rt-com-other-sites-via-mislabeled-advertising-inventory-6e7e3b5c3318  
-[90] ‘Telefonen spionerte på Meg. Slik fant jeg overvåkerne‘. Martin Gundersen.
+<a id="90">[90]</a> ‘Telefonen spionerte på Meg. Slik fant jeg overvåkerne‘. Martin Gundersen.
 https://nrkbeta.no/2020/12/03/telefonen-spionerte-pa-meg-slik-fant-jeg-overvakerne/  
-[91] ‘Når mobilen blir fienden‘. Martin Gundersen, Øyvind Adeus Habilidade, Henrik Lied, Mari
+<a id="91">[91]</a> ‘Når mobilen blir fienden‘. Martin Gundersen, Øyvind Adeus Habilidade, Henrik Lied, Mari
 GrafsrønningenHarald K.Jansson. https://www.nrk.no/norge/xl/norske-offiserer-ogsoldater-avslort-av-mobilen-1.14890424  
-[92] 'Corretores de dados e Segurança:. NATO STRATCOM.
+<a id="92">[92]</a> 'Corretores de dados e Segurança:. NATO STRATCOM.
 https://stratcomcoe.org/publications/data-brokers-and-security/17  
-[93] A polícia egípcia está a usar o Grindr para encontrar e prender pessoas LGBT. Matt Payton.
+<a id="93">[93]</a> A polícia egípcia está a usar o Grindr para encontrar e prender pessoas LGBT. Matt Payton.
 https://www.independent.co.uk/news/world/africa/egyptian-police-grindr-dating-apparrest-lgbt-gay-anti-gay-lesbian-homophobia-a7211881.html  
-[94] 'Proteja-se De Ameaças de anúncios e 'Malvertising''. Michelle Drolet.
+<a id="94">[94]</a> 'Proteja-se De Ameaças de anúncios e 'Malvertising''. Michelle Drolet.
 https://www.forbes.com/sites/forbestechcouncil/2020/02/03/protect-yourself-from-adthreats-and-malvertising/  
-[95] 'Deloitte Global Mobile Consumer Survey 2019: The Nordic cortar '. A Deloitte.
+<a id="95">[95]</a> 'Deloitte Global Mobile Consumer Survey 2019: The Nordic cortar '. A Deloitte.
 https://www2.deloitte.com/no/no/pages/technology-media-andtelecommunications/topics/global-mobile-consumer-survey.html  
-[96] 'Enganado pelo Design: como as empresas tecnológicas usam padrões escuros para nos desencorajar de exercendo os nossos direitos de privacidade'. Forbrukerrådet.
+<a id="96">[96]</a> 'Enganado pelo Design: como as empresas tecnológicas usam padrões escuros para nos desencorajar de exercendo os nossos direitos de privacidade'. Forbrukerrådet.
 https://www.forbrukerradet.no/undersokelse/no-undersokelsekategori/deceived-bydesign/  
-[97] 'A semana má do Google: YouTube perde milhões à medida que a linha de publicidade chega EUA.. Olívia
+<a id="97">[97]</a> 'A semana má do Google: YouTube perde milhões à medida que a linha de publicidade chega EUA.. Olívia
 O Solon. https://www.theguardian.com/technology/2017/mar/25/google-youtubeadvertising-extremist-content-att-verizon  
-[98] Veja-se, por exemplo, o livro branco da Comissão Europeia "Sobre a Inteligência Artificial -
+<a id="98">[98]</a> Veja-se, por exemplo, o livro branco da Comissão Europeia "Sobre a Inteligência Artificial -
 Uma abordagem europeia da excelência e da confiança».
 https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligencefeb2020_en.pdf  
-[99] "A sua saúde mental à venda". Privacidade Internacional.
+<a id="99">[99]</a> "A sua saúde mental à venda". Privacidade Internacional.
 https://www.privacyinternational.org/campaigns/your-mental-health-sale  
-[100] "Vigilância no Conselho do Reino Unido sites '. Johnny Ryan.
+<a id="100">[100]</a> "Vigilância no Conselho do Reino Unido sites '. Johnny Ryan.
 https://brave.com/ukcouncilsreport/  
-[101] 'A nova bolha do ponto com está aqui: é chamada on-line publicidade'. Jesse Frederik,
-Maurits Martijn. https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-itscalled-online-advertising/13228924500-22d5fd24  
-[102] ‘Digiday Pesquisa: A maioria dos editores não beneficia de anúncios comportamentais visando'. Marca
+<a id="101">[101]</a> 'A nova bolha do ponto com está aqui: é chamada on-line publicidade'. Jesse Frederik, Maurits Martijn. https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-itscalled-online-advertising/13228924500-22d5fd24  
+<a id="102">[102]</a> ‘Digiday Pesquisa: A maioria dos editores não beneficia de anúncios comportamentais visando'. Marca
 O Weiss. https://digiday.com/media/digiday-research-most-publishers-don-benefit-frombehavioral-ad-targeting/  
-[103] 'Fronteiras: Quão eficaz é o perfil do consumidor de terceiros? Evidência de Field
+<a id="103">[103]</a> 'Fronteiras: Quão eficaz é o perfil do consumidor de terceiros? Evidência de Field
 Estudos:. Nico Neumann, Catherine E. Tucker, Timothy Whitfield.
 https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2019.1188  
-[104] "Pedi a uma empresa de rastreio online todos os meus dados e eis o que encontrei".
+<a id="104">[104]</a> "Pedi a uma empresa de rastreio online todos os meus dados e eis o que encontrei".
 Privacidade Internacional. https://privacyinternational.org/long-read/2433/i-asked-onlinetracking-company-all-my-data-and-heres-what-i-found  
-[105] ‘Overvurdering av digital reklameeffekt‘. CPM Analytics. https://www.cpm.no/wpcontent/uploads/2019/06/Overvurdering-av-digital-reklameeffekt-PDF-28062019.pdf  
-[106] 'Banner Blindness Revisited: Users Dodge Ads on Mobile and Desktop'. Rio Kara
+<a id="105">[105]</a> ‘Overvurdering av digital reklameeffekt‘. CPM Analytics. https://www.cpm.no/wpcontent/uploads/2019/06/Overvurdering-av-digital-reklameeffekt-PDF-28062019.pdf  
+<a id="106">[106]</a> 'Banner Blindness Revisited: Users Dodge Ads on Mobile and Desktop'. Rio Kara
 Pernice. https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/  
-[107] "Avaliação de impacto ambiental da publicidade online" M. Pärssinena, M.Kotilab,
-R.Cuevasc, A.Phansalkard, J.Mannere.
+<a id="107">[107]</a> "Avaliação de impacto ambiental da publicidade online" M. Pärssinena, M.Kotilab, R.Cuevasc, A.Phansalkard, J.Mannere.
 https://www.sciencedirect.com/science/article/pii/S0195925517303505  
-[108] "AI & Publicidade, uma perspetiva do consumidor". Rio Harriet Kingaby.
+<a id="108">[108]</a> "AI & Publicidade, uma perspetiva do consumidor". Rio Harriet Kingaby.
 https://www.harrietkingaby.com/reports  
-[109] ‘Adtech e licitação em tempo real no âmbito da Proteção de Dados Europeia Lei.. Miguel Veale
+<a id="109">[109]</a> ‘Adtech e licitação em tempo real no âmbito da Proteção de Dados Europeia Lei.. Miguel Veale
 e Frederik Zuiderveen Borgesius. https://osf.io/preprints/socarxiv/wg8fq/  
-[110] Ver, por exemplo, 'Atualizar relatório em adtech e em tempo real licitação'. Informação
-Gabinete do Comissário. https://ico.org.uk/media/about-theico/documents/2615156/adtech-real-time-bidding-report-201906-dl191220.pdf  
-[111] "Intenção de emitir multa de 10 milhões de euros à Grindr LLC'. Datatilsynet.
+<a id="110">[110]</a> Ver, por exemplo, 'Atualizar relatório em adtech e em tempo real licitação'. Informação Gabinete do Comissário. https://ico.org.uk/media/about-theico/documents/2615156/adtech-real-time-bidding-report-201906-dl191220.pdf  
+<a id="111">[111]</a> "Intenção de emitir multa de 10 milhões de euros à Grindr LLC'. Datatilsynet.
 https://www.datatilsynet.no/en/news/2021/intention-to-issue--10-million-fine-to-grindr-llc2/  
-[112] Lei de Controlo de Marketing, secção 9, secção 6.  
-[113] Vigilância comercial pelo Google. Longo atraso no RGPD queixas'. O BEUC.
+<a id="112">[112]</a> Lei de Controlo de Marketing, secção 9, secção 6.  
+<a id="113">[113]</a> Vigilância comercial pelo Google. Longo atraso no RGPD queixas'. O BEUC.
 https://www.beuc.eu/press-media/news-events/commercial-surveillance-google-longdelay-gdpr-complaints  
-[114] Este ponto também está a ser feito por grandes atores da indústria, incluindo o CEO da Axel
-Springer: "Está na altura da Europa tirar dados privados das mãos de tecnologia poderosa
-monopólios e devolvê-lo ao pessoas'. Mathias Döpfner.
+<a id="114">[114]</a> Este ponto também está a ser feito por grandes atores da indústria, incluindo o CEO da Axel Springer: "Está na altura da Europa tirar dados privados das mãos de tecnologia poderosa monopólios e devolvê-lo ao pessoas'. Mathias Döpfner.
 https://www.businessinsider.com/big-tech-private-data-facebook-google-apple-europeeu-2021-1
 
