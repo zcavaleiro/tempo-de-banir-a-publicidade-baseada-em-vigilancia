@@ -138,17 +138,22 @@ Por exemplo, há modelos em que os consumidores com determinado interesse num ti
 
 Outro exemplo de formas alternativas de marketing digital é a publicidade contextualizada. A publicidade contextualizada permite que os anunciantes comprem espaço de anúncios para tipos específicos de páginas web ou websites baseados no conteúdo da página.[[11]](#11) Este modelo pode ser baseado em palavras-chave para que, por exemplo, anúncios para voos para a Inglaterra são colocados ao lado de artigos sobre futebol inglês. Por outras palavras, a publicidade contextualizada permite aos anunciantes colocar anúncios para certos tipos de produtos e serviços em contextos onde os anúncios serão exibidos para os consumidores que têm interesse naqueles tipos de conteúdos.  
 
-
-
-
 De certa forma, a publicidade contextualizada pode ser comparada com a publicidade "tradicional".
-Semelhante à forma como o anunciante numa situação de marketing offline compra anúncio espaço numa revista para os entusiastas do motor chegarem a esse segmento de consumo, publicidade contextual permite que os anúncios de alvo do anunciante com base no conteúdo de um site ou serviço em vez de direcioná-los com base nas características do consumidor. Assim, os anunciantes podem chegar a públicos relevantes sem recolher ou agregação de dados pessoais. Isto afasta algumas das mais prementes privacidade questões do marketing, uma vez que diferentes atores na cadeia de fornecimento só precisam saber onde o anúncio é mostrado, não necessariamente quem está vendo isto.[[12]](#12)  
+Tal como um anunciante, numa situação de marketing offline, compra um espaço para um anúncio numa revista para entusiastas de motores para chegar a esse segmento de consumo, a publicidade contextual permite que os anúncios alvo de um anunciante sejam direcionados, com base no conteúdo de um site ou serviço, em vez de direcioná-los com base nas características do consumidor. Assim, os anunciantes podem chegar a públicos relevantes sem recolher ou agregar dados pessoais. Isto afasta algumas das mais prementes questões de privacidade no marketing, uma vez que os diferentes atores na cadeia de fornecimento só precisam saber onde o anúncio é mostrado, não necessariamente quem o está a ver.[[12]](#12)  
 
-Isto também aumenta a transparência e verificação do marketing, uma vez que o próprio anunciante escolhe que tipo de conteúdo ou palavras-chave desencadeiam um anúncio sendo mostrado. Isto significa que muitos visitantes de um determinado site ou app vão ver o mesmo anúncio.  
+Isto aumenta também a transparência e verificação do marketing, uma vez que o próprio anunciante escolhe que tipo de conteúdos ou palavras-chaves desencadeiam um anúncio a ser mostrado. Significa portanto que muitos visitantes de um determinado site ou app vão ver o mesmo anúncio.  
 
-Experiências de certas editoras mostraram que remover vigilância publicidade em favor de publicidade contextual levou a um aumento receitas publicitárias.[[13]](#13)  
-Por exemplo, a emissora holandesa NPO aumentou receitas publicitárias té 79% após passar para publicidade contextual.[[14]](#14)
-Além disso, quando o The New York Times deixou de servir com base na vigilância publicidade aos utilizadores europeus, as suas receitas publicitárias continuaram a crescer à medida que a sua parceiros de publicidade compraram espaço de anúncios independentemente do alvo capacidades.[[15]](#15) Embora não haja uma resposta definitiva para se estes casos podem ser replicado pela maioria dos editores, aponta para a possibilidade de alternativa modelos de receitas que não dependem da vigilância.  
+
+
+
+Diversas experiências de algumas editoras mostraram que remover a vigilância publicidade em favor de publicidade contextual levou a um aumento receitas publicitárias.[[13]](#13)  
+Por exemplo, a emissora holandesa NPO aumentou as receitas publicitárias até 79% após passar para publicidade contextual.[[14]](#14)
+Outro exemplo, foi quando o The New York Times deixou de servir *ads* com base na vigilância e recolha de informações dos utilizadores europeus, as suas receitas publicitárias continuaram a crescer à medida que os seus parceiros de publicidade continuaram a compraram espaço de anúncios independentemente da capacidade de
+
+
+
+
+alvo capacidades.[[15]](#15) Embora não haja uma resposta definitiva se estes casos podem ser replicados pela maioria dos editores, aponta para a possibilidade alternativa de modelos de receitas que não dependem da vigilância/espionagem.  
 
 Uma cadeia de abastecimento mais transparente também reduz os gastos em terceiros, tais como corretores de dados ou ferramentas de verificação, o que significa que anunciantes e editores será deixado com uma maior parte das receitas. Para ilustrar este ponto, um 2020 estudo da indústria descobriu que sob o atual regime de publicidade digital, apenas metade de gastos de publicidade realmente chegou a editores, enquanto 15% do dinheiro estava desaparecido.[[16]](#16)
 
