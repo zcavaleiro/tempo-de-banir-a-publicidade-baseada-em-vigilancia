@@ -18,7 +18,7 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - Vigilância em nome da publicidade
 - Publicidade baseada em Espionagem
 - Espionagem com base na publicidade
-- 
+- first party data e thrid party data...traduções em pt nao estão muito bem
 
 [melhorias estrutura do MD]
 - indices
@@ -155,16 +155,17 @@ A escala da partilha de dados e dos atores envolvidos no serviço da publicidade
 Outras formas de marketing digital baseado em vigilância tentam reduzir os riscos limitando a partilha de dados com terceiros. Alguns atores, particularmente as grande plataformas digitais, utilizam dados pessoais que têm recolhido junto dos consumidores através dos seus próprios serviços.[[18]](#18) Isto pode ser chamado de publicidade com base em "dados da primeira pessoa", *first-party data*. O ator que recolhe os dados pessoais muitas vezes tem uma relação direta com o consumidor, por exemplo, no caso em que o operador de uma rede social ou navegador web recolhe informações sobre os seus utilizadores. Embora alguns possam argumentar que esta forma pode ser menos invasiva de uma perspetiva de privacidade, uma vez que menos as empresas podem aceder aos dados, este tipo de publicidade baseada na vigilância pode implicar riscos graves relacionados, por exemplo, com a manipulação e a discriminação, além de levantar questões de desconfiança *antitrust*.[[19]](#19)  
 
 Apesar de grandes empresas como a Google e o Facebook muitas vezes dependam dos "dados da primeira pessoa" e de partilhar menos dados sobre os consumidores com terceiros, este acordo não sana os problemas para os consumidores. Perfis publicitários intrusivos ainda levantam questões de privacidade, liberdade de escolha e incentivos à manipulação. Como 'digital gatekeepers', estas empresas recolhem dados sobre os consumidores num grande número de serviços, tanto nas suas próprias plataformas como em toda a web. Por exemplo, quando os consumidores que usam um dispositivo móvel Android com um navegador Chrome, bem  como ao usar o Google Maps e o Gmail, são rastreados pela Google através destes serviços. Isto oferece oportunidades para criar perfis de consumo altamente detalhados.[[20]](#20)
-Além disso, em alguns casos, terceiros disfarçam-se como 
+Para além disto, em alguns casos, entidades terceiras de dados disfarçam-se como entidades de "dados da primeira pessoa", para contornar as medidas restritivas contra entidades terceiras de dados.[[21]](#21) Os esforços de alguns actores na indústria para conter o rastreio dos consumidores levou a uma corrida ao armamento por parte das empresas da *adtech*, a fim de evitar ser bloqueadas.[[22]](#22)  
 
-
-
-primeiras partes em ordem para contornar as medidas de proteção contra terceiros.[[21]](#21) Esforços de alguma indústria atores para conter o rastreio dos consumidores levou a uma corrida ao armamento por adtech empresas, a fim de evitar ser bloqueado.[[22]](#22)  
-
-Portanto, é crucial olhar para a publicidade baseada na vigilância de um holístico ponto de vista – os riscos e efeitos nocivos da tecnologia não se limitam a publicidade com base em dados de terceiros. Não é tão simples como dados de terceiros sendo um problema e os dados de primeira parte sendo bons.  
+É portanto, crucial olhar para a publicidade baseada na vigilância de um ponto de vista holístico  – os riscos e efeitos nocivos desta tecnologia não se limitam a publicidade com base em dados em entidades terceiras. Não é tão simples afirmar que os dados em terceiros são um problema e os dados  consentidos na primeira pessoa sendo bons.  
 
 
 ## 4 Efeitos negavitos da publicidade baseada na vigilância <a name="#quatro"></a>  
+
+
+
+
+
 
 Apesar da publicidade monotorizada seja por vezes apresentada como uma troca, onde os consumidores são alegremente expostos à publicidade direcionada em troca de serviços "gratuitos", esta é uma premissa instável. Embora muitos serviços online sejam apresentados como "grátis" para o consumidor, a receita/lucro é impulsionada pela venda da atenção que o consumidor dá, ilustrado pelos 400 mil milhões de dollars que a  Google lucrou em receitas publicitárias no primeiro trimestre de 2021.[[23]](#23)  
 
