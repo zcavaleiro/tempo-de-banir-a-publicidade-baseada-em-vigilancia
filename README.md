@@ -162,20 +162,25 @@ Para além disto, em alguns casos, entidades terceiras de dados disfarçam-se co
 
 ## 4 Efeitos negavitos da publicidade baseada na vigilância <a name="#quatro"></a>  
 
+Apesar da publicidade com base na vigilância dos utilizadores da web seja por vezes apresentada como uma troca, onde os consumidores são diretamente expostos à publicidade direcionada em troca de serviços "gratuitos", esta é uma premissa instável. Embora muitos serviços online sejam apresentados como "grátis" para o consumidor, as receitas/lucros são impulsionadas pela venda da atenção que o consumidor dá, ilustrado pelos 400 mil milhões de dollars que a Google lucrou em receitas publicitárias no primeiro trimestre de 2021.[[23]](#23)  
+
+No entanto, vários estudos indicam que a maioria dos consumidores não estão confortáveis com a recolha de dados pessoais.[[24]](#24) Um inquérito populacional, realizado em nome do Conselho Norueguês do Consumidor, mostrou que consumidores Noruegueses estão particularmente preocupados com a vigilância comercial.[[25]](#25) Apenas um em cada dez inquiridos tem uma reação positiva para que os atores comerciais recolham informações online pessoais sobre eles, enquanto que apenas um em cada cinco pensou que servir anúncios com base em informações pessoais é aceitável.
+
+Outras pesquisas também indicam que os consumidores geralmente não querem publicidade com base em dados pessoais, e um estudo descobriu que apenas 17% dos inquiridos vem o rastreamento on-line para fins publicitários como ético.[[26]](#26) Cimentando este ponto, um inquérito de 2021 aos consumidores na Alemanha e em França concluiu que apenas 11% dos inquiridos estavam "bem" com "os seus" dados pessoais serem usados para lhes direcionar anúncios.[[27]](#27) Nos Estados Unidos, uma pesquisa mostrou que quatro em cada cinco consumidores apoiariam a proibição de vigilância baseada em publicidade.[[28]](#28) Num outro indicador de preferências dos consumidores, apenas entre 4% e 6% dos utilizadores optaram por aceitar o tracking depois da Apple ter introduzido 
 
 
-
-
-
-Apesar da publicidade monotorizada seja por vezes apresentada como uma troca, onde os consumidores são alegremente expostos à publicidade direcionada em troca de serviços "gratuitos", esta é uma premissa instável. Embora muitos serviços online sejam apresentados como "grátis" para o consumidor, a receita/lucro é impulsionada pela venda da atenção que o consumidor dá, ilustrado pelos 400 mil milhões de dollars que a  Google lucrou em receitas publicitárias no primeiro trimestre de 2021.[[23]](#23)  
-
-No entanto, vários estudos indicam que a maioria dos consumidores são desconfortável com a recolha de dados pessoais.[[24]](#24) Um levantamento populacional realizada em nome do Conselho Norueguês do Consumidor mostrou que Consumidores noruegueses estão particularmente preocupados com o comércio vigilância.[[25]](#25) Apenas um em cada dez inquiridos foi positivo para o comercial atores que recolhem informações pessoais sobre eles on-line, enquanto apenas um fora cinco pensou que servir anúncios com base em informações pessoais é aceitável.
-Outras pesquisas também indicam que os consumidores muitas vezes não querem publicidade com base em dados pessoais, e um estudo descobriu que apenas 17% dos inquiridos rastreamento on-line visto para fins publicitários para ser ético.[[26]](#26) Mais longe apoiando este ponto, um inquérito de 2021 aos consumidores na Alemanha e em França concluiu que apenas 11% dos inquiridos estavam "bem com [os seus] dados pessoais sendo
-
-
-
-usado para direcionar [eles] com anúncios'.[[27]](#27) Nos Estados Unidos, uma pesquisa mostrou que quatro em cada cinco consumidores apoiariam a proibição de vigilância baseada em publicidade.[[28]](#28) Em outro indicador de preferências dos consumidores, apenas entre 4% e 6% dos utilizadores optaram por aceitar o tracking depois da Apple ter introduzido um opt-in
+um opt-in
 sistema de rastreio de anúncios em aplicativos.[[29]](#29)
+
+
+
+--
+|
+|
+|
+|
+|
+
 Embora a perspetiva de anúncios que monitorizem as suas atividades pode ter um significativo "Fator assustador", muitas das questões problemáticas relacionadas com a vigilância a publicidade é "invisível". Por exemplo, é impossível para os consumidores saber que dados pessoais sobre eles são detidos, como é processado, transferido ou explorado, e por quem. É impossível para o indivíduo saber por que alguns os consumidores estão excluídos de ver certos anúncios ou mensagens. Manipulação é mais eficaz quando os consumidores não sabem se ou como estão sendo manipulado, e muitas vezes não sabem que estão numa situação vulnerável. Em o ambiente digital, cada consumidor é potencialmente vulnerável. Há poucas medidas que os consumidores podem tomar para limitar estes efeitos nocivos, além de abdicando de uma grande quantidade de serviços digitais úteis e importantes.
 Para efeitos deste documento, o Conselho Norueguês do Consumidor analisou um número de efeitos nocivos que são criados ou exacerbados por
 publicidade baseada em vigilância. A falta de transparência no sistema dominante é um problema abrangente e contribui para efeitos nocivos mais fortes relacionados a violações de privacidade, manipulação e discriminação. Estes são significativos questões que não podem ser resolvidas por maior transparência ou melhor informação para os consumidores. Pior ainda, a falta de transparência e controlo para as empresas intervenientes no sistema tem contribuiu para a criação de incentivos financeiros e modelos de negócio para desinformação e fraude em larga escala.
