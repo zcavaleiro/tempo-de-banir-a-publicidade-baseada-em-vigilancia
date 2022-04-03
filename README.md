@@ -175,12 +175,12 @@ Embora a perspetiva de anúncios que monitorizam as nossas atividades possa ter 
 
 
 Para os efeitos deste documento, o Conselho Norueguês do Consumidor analisou um número de efeitos nocivos que são criados ou ampliados pela publicidade baseada em vigilância. A falta de transparência no sistema dominante é um problema abrangente e contribui para efeitos nocivos graves relacionados a violações de privacidade, manipulação e discriminação. 
---
-|
-|
-|
-|
-|
+--  
+|  
+|  
+|  
+|  
+|  
 Estes são significativos questões que não podem ser resolvidas por maior transparência ou melhor informação para os consumidores. Pior ainda, a falta de transparência e controlo para as empresas intervenientes no sistema tem contribuiu para a criação de incentivos financeiros e modelos de negócio para desinformação e fraude em larga escala.   
 
 O marketing baseado na vigilância também tem efeitos nocivos significativos nas empresas atores. Anticoncorrencial comportamento e os efeitos servem para entrincheirar dominante posições dos atores, enquanto cadeias de abastecimento complexas e tecnologias ineficazes lideram a perda de receitas para anunciantes e editores. Todos estes fatores criaram uma situação em que os consumidores geralmente têm pouca confiança nos serviços digitais. Falta de confiança significa que a absorção dos consumidores das novas tecnologias abranda. É também difícil para os consumidores para distinguir entre atores 'bons' e 'maus' no esfera digital, o que significa que os atores legítimos, entre eles muitos pequenos e as médias empresas, são diretamente afetadas pelas ações de empresas sem escrúpulos. Isto, por sua vez, prejudica tanto os consumidores como as empresas.
