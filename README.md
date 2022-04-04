@@ -168,30 +168,22 @@ No entanto, vários estudos indicam que a maioria dos consumidores não estão c
 
 Outras pesquisas também indicam que os consumidores geralmente não querem publicidade com base em dados pessoais, e um estudo descobriu que apenas 17% dos inquiridos vem o rastreamento on-line para fins publicitários como ético.[[26]](#26) Cimentando este ponto, um inquérito de 2021 aos consumidores na Alemanha e em França concluiu que apenas 11% dos inquiridos estavam "bem" com "os seus" dados pessoais serem usados para lhes direcionar anúncios.[[27]](#27) Nos Estados Unidos, uma pesquisa mostrou que quatro em cada cinco consumidores apoiariam a proibição de vigilância baseada em publicidade.[[28]](#28) Num outro indicador de preferências dos consumidores, apenas entre 4% e 6% dos utilizadores optaram por aceitar o tracking depois da Apple ter introduzido um sistema de *opt-in* para o tracking de anúncios em aplicativos.[[29]](#29)   
 
-
-
-
 Embora a perspetiva de anúncios que monitorizam as nossas atividades possa ter um significativo "fator assustador", muitas das questões problemáticas relacionadas com o tracking na publicidade são "invisíveis". Por exemplo, é impossível para os consumidores saber que dados pessoais sobre eles são detidos, como é processado, transferido ou explorado, e por quem. É impossível para o indivíduo saber porque alguns dos consumidores estão excluídos de ver certos anúncios ou mensagens. A manipulação é mais eficaz quando os consumidores não sabem se ou como estão sendo manipulados, e muitas vezes não sabem que estão numa situação vulnerável. No ambiente digital, cada consumidor é potencialmente vulnerável. Há poucas medidas que os consumidores podem tomar para limitar estes efeitos nocivos, além de abdicar de uma grande quantidade de serviços digitais úteis e importantes.  
 
 
-Para os efeitos deste documento, o Conselho Norueguês do Consumidor analisou um número de efeitos nocivos que são criados ou ampliados pela publicidade baseada em vigilância. A falta de transparência no sistema dominante é um problema abrangente e contribui para efeitos nocivos graves relacionados a violações de privacidade, manipulação e discriminação. 
---  
-|  
-|  
-|  
-|  
-|  
-Estes são significativos questões que não podem ser resolvidas por maior transparência ou melhor informação para os consumidores. Pior ainda, a falta de transparência e controlo para as empresas intervenientes no sistema tem contribuiu para a criação de incentivos financeiros e modelos de negócio para desinformação e fraude em larga escala.   
+Para os efeitos deste documento, o Conselho Norueguês do Consumidor analisou um número de efeitos nocivos que são criados ou ampliados pela publicidade baseada em vigilância. A falta de transparência no sistema dominante é um problema abrangente e contribui para efeitos nocivos graves relacionados a violações de privacidade, manipulação e discriminação. Estes são assuntos importantes que não podem ser resolvidas por maior transparência ou melhor informação para os consumidores. Pior ainda, a falta de transparência e controlo das empresas intervenientes neste sistema contribuiu para a criação de incentivos financeiros e modelos de negócio para desinformação e fraude em larga escala.   
 
-O marketing baseado na vigilância também tem efeitos nocivos significativos nas empresas atores. Anticoncorrencial comportamento e os efeitos servem para entrincheirar dominante posições dos atores, enquanto cadeias de abastecimento complexas e tecnologias ineficazes lideram a perda de receitas para anunciantes e editores. Todos estes fatores criaram uma situação em que os consumidores geralmente têm pouca confiança nos serviços digitais. Falta de confiança significa que a absorção dos consumidores das novas tecnologias abranda. É também difícil para os consumidores para distinguir entre atores 'bons' e 'maus' no esfera digital, o que significa que os atores legítimos, entre eles muitos pequenos e as médias empresas, são diretamente afetadas pelas ações de empresas sem escrúpulos. Isto, por sua vez, prejudica tanto os consumidores como as empresas.
-
-
-Todas estas questões são explicadas nas seguintes secções.
+O marketing baseado na vigilância também tem efeitos nocivos significativos nos atores empresariais. Os comportamentos de anticoncorrencia e os seus efeitos servem para fundamentar posições dominantes dos atores, enquanto que cadeias de abastecimento complexas e tecnologias ineficazes lideram a perda de receitas para anunciantes e editores. Todos estes fatores criaram uma situação em que os consumidores geralmente têm pouca confiança nos serviços digitais. Falta de confiança significa que a adopção dos consumidores das novas tecnologias abranda. É também difícil para os consumidores distinguir entre atores 'bons' e 'maus' no esfera digital, o que significa que os atores legítimos, entre eles muitos pequenos e as médias empresas, são diretamente afetadas pelas ações de empresas sem escrúpulos. Isto, por sua vez, prejudica tanto os consumidores como as empresas. Todas estas questões são explicadas nas secções seguintes.   
 
 ### 4.1 Falta de transparência
 
-A individualização e personalização da publicidade baseada na vigilância
-significa que diferentes indivíduos vão ver diferentes anúncios com base em um número de fatores como o tempo, o contexto, a demografia, as características pessoais, etc.[[30]](#30) A novo anúncio é servido para cada visita de página, e muitas vezes apenas para alguns indivíduos em certos pontos no tempo. Os anúncios tornam-se 'fugazes', com um curto e limitado tempo de vida.
+A individualização e personalização da publicidade baseada na vigilância significa que diferentes indivíduos vão ver diferentes anúncios com base num número de fatores como o tempo, o contexto, a demografia, as características pessoais, etc.[[30]](#30) Um novo anúncio é mostrado para cada visita de página, e muitas vezes apenas para alguns indivíduos em certos períodos de tempo. Os anúncios tornam-se 'fugazes', com um curto e limitado tempo de vida.  
+
+!  
+!  
+!  
+
+
 A natureza fugaz destes anúncios significa que é muito difícil verificar ou controlar eles, em contraste com o marketing que não se baseia na vigilância. Noutras formas de publicidade, por exemplo, quando um anunciante compra espaço de anúncio diretamente a partir de um editor como um jornal ou emissor de TV, é simples voltar ao meio para controlar o que o anúncio foi impresso ou mostrado em um canal de TV em um tempo particular.
 Sistemas algorítmicos avançados podem tornar-se as chamadas "caixas negras", onde os dados é alimentado na caixa e os resultados são extraídos, enquanto o raciocínio por trás do resultados são opacos. Isto pode obscurecer a base de certas decisões, decisivas fatores e outros aspetos potencialmente problemáticos da tecnologia. Como será detalhado abaixo, isto levou a práticas discriminatórias ocultas. Opacidade também torna difícil para as autoridades de supervisão o levantamento e sanção infrações à lei, que pode ter consequências a jusante para várias violações de direitos que se tornam difíceis ou impossíveis de descobrir.
 A forma dominante de publicidade baseada na vigilância torna-a praticamente impossível para os consumidores entenderem por que lhes foi mostrado um anúncio particular, em que segmento foram colocados, e como os dados pessoais são partilhados e usado. Mesmo que esta informação fosse acessível de qualquer forma significativa, seria ser difícil ou mesmo impossível para os consumidores para fazer usá-lo devido ao complexidade técnica e o âmbito da prática, e porque raramente
