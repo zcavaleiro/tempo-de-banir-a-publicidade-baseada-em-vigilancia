@@ -177,17 +177,19 @@ O marketing baseado na vigilância também tem efeitos nocivos significativos no
 
 ### 4.1 Falta de transparência
 
-A individualização e personalização da publicidade baseada na vigilância significa que diferentes indivíduos vão ver diferentes anúncios com base num número de fatores como o tempo, o contexto, a demografia, as características pessoais, etc.[[30]](#30) Um novo anúncio é mostrado para cada visita de página, e muitas vezes apenas para alguns indivíduos em certos períodos de tempo. Os anúncios tornam-se 'fugazes', com um curto e limitado tempo de vida.  
+A individualização e personalização da publicidade baseada na vigilância faz com que diferentes indivíduos vão ver diferentes anúncios com base num número de fatores como o tempo, o contexto, a demografia, as características pessoais, etc.[[30]](#30) Um novo anúncio é mostrado para cada visita de página, e muitas vezes apenas para alguns indivíduos em certos períodos de tempo. Os anúncios tornam-se 'fugazes', com um curto e limitado tempo de vida.  
+
+A natureza fugaz destes anúncios significa que é muito difícil verificar ou controlar, em contraste com o marketing que não se baseia na vigilância. Noutras formas de publicidade, por exemplo, quando um anunciante compra espaço de publicidade diretamente a partir de um emissor, como um jornal ou emissor de TV, é fácil contatar o meio emissor para verificar o que o foi impresso ou mostrado num canal de TV num determinado tempo.  
+
 
 !  
 !  
 !  
 
+Sistemas algorítmicos avançados podem tornar-se as chamadas "caixas negras", onde os dados sao alimentados e os resultados são extraídos, enquanto que as inferencias ou conclusoes por trás dos resultados são opacos. Isto pode ofuscar a base de certas decisões, fatores decisivos e outros aspetos potencialmente problemáticos da tecnologia. Como será detalhado abaixo, isto levou a práticas discriminatórias ocultas. Opacidade também torna difícil para as autoridades de supervisão o levantamento e sanção infrações à lei, que pode ter consequências a jusante para várias violações de direitos que se tornam difíceis ou impossíveis de descobrir.  
 
-A natureza fugaz destes anúncios significa que é muito difícil verificar ou controlar eles, em contraste com o marketing que não se baseia na vigilância. Noutras formas de publicidade, por exemplo, quando um anunciante compra espaço de anúncio diretamente a partir de um editor como um jornal ou emissor de TV, é simples voltar ao meio para controlar o que o anúncio foi impresso ou mostrado em um canal de TV em um tempo particular.
-Sistemas algorítmicos avançados podem tornar-se as chamadas "caixas negras", onde os dados é alimentado na caixa e os resultados são extraídos, enquanto o raciocínio por trás do resultados são opacos. Isto pode obscurecer a base de certas decisões, decisivas fatores e outros aspetos potencialmente problemáticos da tecnologia. Como será detalhado abaixo, isto levou a práticas discriminatórias ocultas. Opacidade também torna difícil para as autoridades de supervisão o levantamento e sanção infrações à lei, que pode ter consequências a jusante para várias violações de direitos que se tornam difíceis ou impossíveis de descobrir.
 A forma dominante de publicidade baseada na vigilância torna-a praticamente impossível para os consumidores entenderem por que lhes foi mostrado um anúncio particular, em que segmento foram colocados, e como os dados pessoais são partilhados e usado. Mesmo que esta informação fosse acessível de qualquer forma significativa, seria ser difícil ou mesmo impossível para os consumidores para fazer usá-lo devido ao complexidade técnica e o âmbito da prática, e porque raramente
-têm uma escolha real.[[31]](#31)
+têm uma escolha real.[[31]](#31)  
 
 
 
