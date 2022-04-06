@@ -198,14 +198,14 @@ Os consumidores são constantemente manipulados para aceitar um rastreio abrange
 
 O âmbito da recolha e partilha de dados é tão vasto que se torna praticamente impossível saber como os dados pessoais podem ser usados. Como consequência, no contexto de publicidade baseada em vigilância, torna-se difícil de exercer direitos fundamentais previstos na Carta dos Direitos Fundamentais da EU (*Charter*) e posteriormente elaborado no Regulamento Geral de Proteção de Dados (RGPD), incluindo os direitos a ser informado, ter acesso, retificar e eliminar dados ou para contestar decisões que afetam as nossas vidas.  
 
-!! 
+#### Como é que o risco de violações da privacidade e proteção de dados será resolvido por uma proibição?
+Os riscos da publicidade baseada na vigilância para a privacidade e proteção de dados são já amplamente regulados na Europa através do *ePrivacy Diretive* e do RGPD. Após a entrada em aplicação do RGPD em 2018, execução da lei tem sido, infelizmente, lenta e em alguns casos inexistente, com estrangulamentos significativos na aplicação transfronteiriça. Simultaneamente, há poucos indicadores de que a proliferação da economia de vigilância tenha abrandado, apesar da regulação mais forte. Isto resultou numa lacuna na aplicaçao transfronteiriça que precisa de ser urgentemente abordada.[[37]](#37)  
+
+!!  
 !!  
 !! 
 
-#### Como é que o risco de violações da privacidade e proteção de dados será resolvido por uma proibição?
-Os riscos da publicidade baseada na vigilância para a privacidade e proteção de dados são já amplamente regulados na Europa através do *ePrivacy Diretive* e do RGPD. Após a entrada em aplicação do RGPD em 2018, execução da lei tem sido, infelizmente, lenta e em alguns casos inexistente, com estrangulamentos significativos na aplicação transfronteiriça. Simultaneamente, lá é pouca indicação de que a proliferação da economia de vigilância tem abrandado para baixo, apesar da regulação mais forte. Isto resultou numa fronteira transfronteiriça lacuna de execução que precisa de ser urgentemente abordada.[[37]](#37)  
-
-Uma proibição geral da publicidade baseada na vigilância seria positiva para e complementar os direitos fundamentais à privacidade e proteção de dados pessoais que estão protegidos ao abrigo da Carta, do RGPD e do ePrivacy A diretiva. Apesar da introdução do RGPD, muitos intervenientes na economia de vigilância têm operado em grande parte sob o pretexto de negócios como de costume, embora tenhamos observou que alguns atores introduziram mudanças relativamente menores na forma como pedem consentimento para o tratamento de dados pessoais. Outros simplesmente tentaram passar para uma base legal diferente para o tratamento de dados.[[38]](#38)  
+Uma proibição geral da publicidade baseada na vigilância seria positiva para, e ainda, complementar os direitos fundamentais à privacidade e proteção de dados pessoais que estão protegidos ao abrigo da *Charter*, do RGPD e da *ePrivacy diretive*. Apesar da introdução do RGPD, muitos intervenientes na economia de vigilância têm operado em grande parte sob o pretexto de negócios como de costume, embora tenhamos observado que alguns atores introduziram mudanças relativamente menores na forma como pedem consentimento para o tratamento de dados pessoais. Outros simplesmente tentaram passar para uma base legal diferente para o tratamento de dados.[[38]](#38)  
 
 O fosso de aplicação transfronteiriça do RGPD e o surgimento de novos desafios que vão além da proteção de dados pessoais têm demonstrado que há uma necessidade para uma abordagem mais sistémica e preventiva, e uma proibição geral pode forçar transformação estrutural abrangente de modelos de negócio de vigilância. Como complemento a uma proibição, é necessário reforçar a aplicação da lei autoridades e procedimentos, tanto no RGPD como ePrivacy Diretiva (ou uma nova ePrivacy Regulamento que substituirá a diretiva)[[39]](#39), e no próxima Lei dos Serviços Digitais.  
 
