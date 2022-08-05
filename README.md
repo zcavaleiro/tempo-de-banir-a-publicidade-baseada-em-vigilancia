@@ -1,4 +1,5 @@
-# É TEMPO DE PROIBIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
+# É TEMPO DE PROIBIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
+## Em construção, WIP. 
 
 Tradução do relatório para língua Portuguesa [Time to Ban Surveillance Based Advertising](https://www.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf)
 
@@ -9,8 +10,6 @@ O caso contra a vigilância comercial online
 Junho de 2021
 
 ````
-name: caixa de recados :p para trocar msgs
-
 [Título/expressão tradução]
 Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - Vigilância publicitária
@@ -22,12 +21,8 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 [melhorias estrutura do MD]
 - indices
 - referencias?
-- nao seria mais fácil fazer num google doc partilhado?
 
 
-[outros]
-- 
-...
 ````
 
 ## **Tabela de conteúdos**
