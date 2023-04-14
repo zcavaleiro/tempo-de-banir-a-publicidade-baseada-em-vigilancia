@@ -406,7 +406,7 @@ Questões podem ser levantadas sobre se certas formas de publicidade alicerçada
 
 No entanto, a UCPD está predominantemente preocupada com o conteúdo e forma de atividades de marketing e materiais. As numerosas questões problemáticas que surgem da utilização da publicidade baseada na vigilância não estão necessariamente ligadas ao conteúdo do marketing, mas sim para os meios de entrega de anúncios, incluindo o processo de decidir que anúncio para mostrar a que pessoa em que tempo. Isto, em além da natureza fugaz da publicidade baseada em vigilância, pode significar que a UCPD não é adequada para o fim de regular esta área específica.  
 
-Pelo que sabemos, nenhuma decisão sobre publicidade baseada em vigilância tem as autoridades de defesa do consumidor emitiram.
+Pelo nosso conhecimento, nenhuma decisão sobre publicidade baseada em vigilância foi emitida pelas autoridades de defesa do consumidor.
 
 ## 5.3 Questões de execução
 Embora o RGPD estabeleça requisitos rigorosos para o tratamento de dados pessoais, o regulamento não foi suficiente para parar os dados ilegais generalizados recolha e perfis de consumidores. As razões para esta deficiência são que empresas não cumpriram as regras e tem havido sério transfronteiriço estrangulamentos de execução e falta de aplicação.  
