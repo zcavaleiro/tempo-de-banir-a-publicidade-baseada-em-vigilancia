@@ -29,8 +29,10 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 
 
 [meus 2 exemplos contra "nothing to hide"]
-- caso empresa europeia de infertilização pagar adds para grupos de mulheres entre os 30 e 40 para deliberadamente fazer uma "vida de solteira".
--  caso empresas de seguro com acesso a DNA do pai e mae poderem saber os riscos e futuras exclusões de um filho que ainda nao nasceu e que terá piores seguros.
+- caso empresa europeia de infertilização pagar adds para grupos de mulheres entre os 30 e 40 para deliberadamente fazer uma "vida de solteira". Uso de psicologia reversa com segundas intenções nao necessáriamente a favor do consumidor.
+
+-  caso empresas de com acesso a DNA do, por exemplo, seguros de pai e mae, poderem saber os riscos e futuras exclusões de um filho que ainda nao nasceu e que terá piores ou nehum seguro. Uma escola limitada etc.
+(What if a simple DNA test could predict your future?)[https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/634428/EPRS_ATA(2019)634428_EN.pdf]
 
 
 ````
@@ -388,7 +390,7 @@ O Regulamento Geral de Proteção de Dados (RGPD) regula o processamento de dado
 !!  
 !!
 
-O trabalho feito pelo Conselho Norueguês do Consumidor no domínio do digital publicidade mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de pessoal. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas é que todos os consumidores tornam-se vulneráveis por defeito no rosto de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir se aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de pessoal dados para fins de publicidade baseados em vigilância tem provado na maioria dos casos não para estar em conformidade com o RGPD. Isto foi ainda afirmado pelo norueguês Autoridade de Proteção de Dados (Datatilsynet), quando anunciou a sua intenção de multar a aplicação de encontros Grindr para o tratamento de dados pessoais para fins publicitários.[111](#111)  
+O trabalho feito pelo Conselho Norueguês do Consumidor no domínio da publicidade digital mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de dados pessoais. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas resulta em todos os consumidores ficarem vulneráveis por defeito na face de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir, se aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de pessoal dados para fins de publicidade baseados em vigilância tem provado na maioria dos casos não para estar em conformidade com o RGPD. Isto foi ainda afirmado pelo norueguês Autoridade de Proteção de Dados (Datatilsynet), quando anunciou a sua intenção de multar a aplicação de encontros Grindr para o tratamento de dados pessoais para fins publicitários.[111](#111)  
 
 Mesmo que o RGPD seja adequado para abordar uma série de questões relacionadas com a privacidade no que diz respeito à publicidade baseada em vigilância, o regulamento limita-se aos casos onde os dados pessoais estão a ser tratados.  
 
