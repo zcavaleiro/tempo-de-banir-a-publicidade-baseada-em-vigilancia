@@ -373,19 +373,20 @@ Há também sérias ineficiências no poder computaçional e no uso de energia d
 
 
 #### Como é que a tecnologia ineficiente será resolvida através de uma restrição?
-Uma restriçãp geral da publicidade baseada na vigilância limitará as oportunidades tecnologias de vender "banha da cobra" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editores e ajudar a proteger os consumidores contra decisões baseadas em tecnologias defeituosos e suposições.
+Uma restrição geral da publicidade baseada na vigilância limitará as oportunidades tecnologias de vender a "banha da cobra" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editores e ajudar a proteger os consumidores contra decisões baseadas em tecnologias defeituosos e suposições.
 O impacto ambiental da publicidade baseada na vigilância pode ser reduzido da pegada de carbono excessiva, mas outras medidas complementares são necessárias para lidar com os níveis de emissão dos centros de dados e inteligência artificial.
 
-!!  
-!!  
-!!  
-!! 
- 
 ## 5 Legislação em vigor
-Como descrito acima, a proibição da publicidade baseada na vigilância não é uma cura para todos solução. Os serviços digitais já estão sujeitos a uma série de regras e regulamentos na UE, e uma proibição seria complementar ao legal existente enquadramento. Na secção seguinte, a proteção de dados europeia existente e direito dos consumidores é avaliado em relação aos prejuízos decorrentes de vigilância publicidade.
-
+Como descrito acima, o veto da publicidade baseada na vigilância não é uma cura ou solução para todos. Os serviços digitais já estão sujeitos a uma série de regras e regulamentos na UE, e uma proibição seria complementar ao enquadramento legal existente. Na secção seguinte, a proteção de dados europeia existente e direito dos consumidores é discutido em relação aos prejuízos decorrentes da vigilância publicitária.
+ 
+ 
 ### 5.1 Legislação da UE em termos de privacidade e proteção de dados
-O Regulamento Geral de Proteção de Dados (RGPD) regula o processamento de dados pessoais. A proteção de dados pessoais é considerada fundamental direito humano, e o RGPD visa principalmente dar aos indivíduos o controlo sobre a sua dados pessoais e proibir o tratamento de dados pessoais sem um legal válido base. Regra geral, a utilização de dados pessoais para perfis e rastreios, especialmente quando isto envolve a partilha contínua de dados pessoais, requer um válido consentimento.[109](#109) Isto também foi afirmado pela proteção de dados europeia autoridades.[110](#110)  
+O Regulamento Geral de Proteção de Dados (RGPD) regula o processamento de dados pessoais. A proteção de dados pessoais é considerada fundamental direito humano e o RGPD visa principalmente dar aos indivíduos o controlo sobre os seus dados pessoais e proibir o tratamento de dados pessoais sem uma base legal válida. Regra geral, a utilização de dados pessoais para perfis e rastreios, especialmente quando isto envolve a partilha contínua de dados pessoais, requer um consentimento válido.[109](#109) Isto também foi afirmado pelas autoridades de proteção de dados europeia.[110](#110)  
+
+!!  
+!!  
+!!  
+!!
 
 O trabalho feito pelo Conselho Norueguês do Consumidor no domínio do digital publicidade mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de pessoal. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas é que todos os consumidores tornam-se vulneráveis por defeito no rosto de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir se aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de pessoal dados para fins de publicidade baseados em vigilância tem provado na maioria dos casos não para estar em conformidade com o RGPD. Isto foi ainda afirmado pelo norueguês Autoridade de Proteção de Dados (Datatilsynet), quando anunciou a sua intenção de multar a aplicação de encontros Grindr para o tratamento de dados pessoais para fins publicitários.[111](#111)  
 
