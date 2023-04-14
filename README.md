@@ -322,16 +322,16 @@ Como muitos sistemas usados na publicidade baseada em vigilância envolvem dados
 
 Nestes sistemas, não há distinção real entre consumidores "regulares" e indivíduos em papéis críticos. Por exemplo, a emissora pública norueguesa NRK revelou como os dados pessoais recolhidos de aplicações populares poderiam ser usados para rastrear o movimento de militares.[91](#91) Num relatório de 2021, a NATO anunciou que esta forma de recolha e partilha de dados pessoais constitui uma séria ameaça à segurança nacional.[92](#92)  
 
-!!  
-!!  
-!!  
-!!  
-
-A recolha e armazenamento de informação também criam um risco de dados pessoais ser espalhado como resultado de hackeamento ou violação de dados. Isto significa que os criminosos pode ser capaz de aceder a informações que podem ser usadas para roubo de identidade, fraude, e
+A recolha e armazenamento de informação também criam um risco de dados pessoais ser espalhado como resultado de *hacking* ou violação de dados. Isto significa que os criminosos podem ser capazes de aceder a informações que podem ser usadas para roubo de identidade, fraude, e
 fins de chantagem. Os dados que foram vazados também podem ser mal utilizados para identificar, rastrear e prejudicar indivíduos e grupos vulneráveis[93](#93) ou em tentativas de influenciar ou interferir nas eleições democráticas.
 
 
-Além de violações de dados que conduzem a riscos de segurança, a publicidade digital tem tornar-se um vetor para a propagação de código malicioso, como malware ou vírus.[94](#94) Isto significa que alguns banners de publicidade podem incluir scripts que infetam o dispositivo do consumidor, que pode levar a hackers a aceder ao dispositivo, danificando o dispositivo ou, de outra forma, interferir com as operações do dispositivo.  
+Além de violações de dados que conduzem a riscos de segurança, a publicidade digital tem vindo a ser um vetor para a propagação de código malicioso, como malware ou vírus.[94](#94) Isto significa que alguns banners de publicidade podem incluir scripts que infetam o dispositivo do consumidor, que pode levar a hackers a aceder ao dispositivo, danificando o dispositivo ou, de outra forma, interferir com as operações do dispositivo.  
+
+!!  
+!!  
+!!  
+!!  
 
 #### Como é que os riscos de segurança serão resolvidos com uma proibição?
 Uma proibição geral da publicidade baseada na vigilância iria estrangular grandes partes de o fluxo de dados e a recolha de dados pessoais. Isto ajudaria a escalar para baixo o potencial para falhas de segurança e uso indevido destes dados. Simplificando, se os dados forem não recolhidos ou armazenados, não podem ser utilizados para prejudicar consumidores ou instituições.
