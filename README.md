@@ -385,16 +385,17 @@ Como descrito acima, o veto da publicidade baseada na vigilância não é uma cu
 ### 5.1 Legislação da UE em termos de privacidade e proteção de dados
 O Regulamento Geral de Proteção de Dados (RGPD) regula o processamento de dados pessoais. A proteção de dados pessoais é considerada fundamental direito humano e o RGPD visa principalmente dar aos indivíduos o controlo sobre os seus dados pessoais e proibir o tratamento de dados pessoais sem uma base legal válida. Regra geral, a utilização de dados pessoais para perfis e rastreios, especialmente quando isto envolve a partilha contínua de dados pessoais, requer um consentimento válido.[109](#109) Isto também foi afirmado pelas autoridades de proteção de dados europeia.[110](#110)  
 
+
+O trabalho feito pelo Conselho Norueguês do Consumidor no domínio da publicidade digital mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de dados pessoais. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas resulta em todos os consumidores ficarem vulneráveis por defeito na face de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir ao aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de dados pessoais para fins de publicidade baseados em vigilância tem provado na maioria dos casos não estar em conformidade com o RGPD. Isto foi também afirmado pela Autoridade de Proteção de Dados Norueguesa (Datatilsynet), quando anunciou a sua intenção de multar a aplicação online de encontros *Grindr* por tratamento de dados pessoais para fins publicitários.[111](#111)  
+
+Mesmo que o RGPD seja adequado para abordar uma série de questões relacionadas com a privacidade no que diz respeito à publicidade online, o regulamento limita-se aos casos onde os dados pessoais estão a ser tratados.  
+
+Como mostrado acima, muitos dos potenciais danos da publicidade baseada na vigilância perduram mesmo que os dados pessoais não sejam transferidos do dispositivo do utilizador final. Em estes casos, tanto o RGPD como a diretiva *ePrivacy* podem ser insuficientes para lidar com os problemas. Daí medidas complementares, como a proibição geral sobre a publicidade baseada na vigilância, podem ser necessária para combater estes problemas mais amplos.
+
 !!  
 !!  
 !!  
 !!
-
-O trabalho feito pelo Conselho Norueguês do Consumidor no domínio da publicidade digital mostra que a indústria de publicidade baseada em vigilância opera em formas que envolvem recolha ilegal, partilha e uso de dados pessoais. Estas práticas são generalizadas e complicadas de entender, mesmo para especialistas. A soma de estas práticas resulta em todos os consumidores ficarem vulneráveis por defeito na face de publicidade baseada em vigilância. Portanto, não é razoável afirmar que consumidores entendem o que estão a consentir, se aceitarem o rastreio e perfis para fins publicitários. Se for esse o caso, o processamento de pessoal dados para fins de publicidade baseados em vigilância tem provado na maioria dos casos não para estar em conformidade com o RGPD. Isto foi ainda afirmado pelo norueguês Autoridade de Proteção de Dados (Datatilsynet), quando anunciou a sua intenção de multar a aplicação de encontros Grindr para o tratamento de dados pessoais para fins publicitários.[111](#111)  
-
-Mesmo que o RGPD seja adequado para abordar uma série de questões relacionadas com a privacidade no que diz respeito à publicidade baseada em vigilância, o regulamento limita-se aos casos onde os dados pessoais estão a ser tratados.  
-
-Como mostrado acima, muitos dos potenciais danos da publicidade baseada na vigilância perduram mesmo que os dados pessoais não sejam transferidos do dispositivo do utilizador final. Em estes casos, tanto o RGPD como o ePrivacy A diretiva pode ser insuficiente para lidar com os problemas. Daí medidas complementares, como a proibição geral sobre a publicidade baseada na vigilância, pode ser necessário para combater estes mais amplos problemas.
 
 ## 5.2 A Diretiva relativa às práticas comerciais desleais
 A Diretiva relativa às práticas comerciais desleais (UCPD) estabelece um europeu quadro para que marketing, práticas comerciais e termos de utilização os atores comerciais podem participar em diferentes mercados. Consumidor autoridades de proteção são responsáveis pela aplicação desta lei e pela garantia que os consumidores estão protegidos.  
