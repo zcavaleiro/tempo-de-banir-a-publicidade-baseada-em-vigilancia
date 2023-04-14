@@ -354,19 +354,17 @@ para a saúde mental[99](#99) ou procurando ajuda através de serviços público
 Os consumidores têm poucas formas de distinguir entre atores sérios e não sérios no espaço digital, que é suscetível de impactar negativamente as pequenas e médias empresas que querem competir em fatores como o desenvolvimento de tecnologias de preservação de privacidade.  
 
 
-!!  
-!!  
-!!  
-!!  
-
 #### Como é que a falta de confiança nos serviços digitais será resolvida através de uma proibição?
-Uma proibição geral da publicidade baseada na vigilância não será uma cura para restaurar confiança nos serviços digitais. Os escândalos são muito numerosos, e têm ocorrido repetidamente ao longo de um longo período. Vai levar tempo para restaurar a confiança. No entanto, uma proibição contribuiria para um campo de jogo nivelado onde as receitas de anúncios para um maior extensão chegar a atores sérios. Isto pode contribuir para que os consumidores já não se sintam como se os prestadores de serviços e marcas estão olhando sobre o seu ombro on-line e sendo tratados como mercadorias que são vendidas ao licitador mais alto. Também pode restaurar a confiança, tranquilizando os consumidores de que as marcas não estão patrocinando odioso conteúdo.
-
-
+Banir na generalidade a publicidade baseada na vigilância não será uma cura para restaurar confiança nos serviços digitais. Os escândalos são muito numerosos, e têm ocorrido repetidamente ao através de um longo período. Vai levar tempo para restaurar a confiança. No entanto, uma proibição contribuiria para um nivelar do campo de jogo onde as receitas de anúncios na sua maioria chegaria aos atores sérios. Isto pode contribuir para que os consumidores já não se sintam como se os prestadores de serviços e marcas estiveseem a olhar sobre o seu ombro on-line e acharem que são tratados como mercadorias que são vendidas ao licitador mais alto. Também pode restaurar a confiança, tranquilizando os consumidores de que as marcas não estão a patrocinar conteúdo de ódio.
 
 
 ### 4.10 Tecnologia ineficiente
-É contestado se, além de criar e exacerbar uma série de problemas sérios, a tecnologia por trás da publicidade baseada na vigilância é na verdade eficaz como uma ferramenta de marketing. Mesmo que a inovação em áreas como inteligência artificial é muitas vezes apresentado como revolucionário para a publicidade indústria, vale a pena questionar se os efeitos de marketing do a tecnologia está a ser vendida demais.[101](#101) Isto é exemplificado por estudos que mostram que publicidade baseada em vigilância têm, em muitos casos, não teve efeitos benéficos em taxas de conversão ou receitas editoriais.[102](#102)  
+É contestado se, além de criar e ampliar uma série de problemas sérios, a tecnologia por trás da publicidade baseada na vigilância é na verdade eficaz como uma ferramenta de marketing. Mesmo com a inovação em áreas como inteligência artificial, é muitas vezes apresentado como revolucionário para a publicidade indústria, vale a pena questionar se os efeitos de marketing da tecnologia está a ser "vendida demais".[101](#101) Isto é exemplificado por estudos que mostram que publicidade baseada em vigilância, em muitos casos, não teve efeitos benéficos em taxas de conversão ou receitas editoriais.[102](#102)  
+
+!!  
+!!  
+!!  
+!!  
 
 Estudos têm demonstrado que as empresas que vendem tecnologia de publicidade são significativamente exagerando a eficácia da tecnologia e que o alvo real está longe de ser preciso.[103](#103) Embora perfis com base em dados cobrança pode ser preciso em certas circunstâncias, em outros casos o inferências desenhadas podem ser imprecisas ou planas erradas.[104](#104)  
 
