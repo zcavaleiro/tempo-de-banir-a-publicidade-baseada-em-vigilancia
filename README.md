@@ -303,6 +303,10 @@ Esta falta de controlo também significa que os consumidores podem facilmente se
 
 A complicada rede de atores na publicidade baseada na vigilância indústria tem levado a muitos anunciantes e editores terem uma visão geral limitada de para onde vai o seu investimento nos anúncios, o que, por sua vez, gerou uma grande indústria de fraude baseada em anúncios.[82](#82) Este tipo de fraude é frequentemente executado por ter anúncios mostrados para bots em vez de seres humanos, o que por sua vez reduz o preço que os editores podem pedir para o espaço de anúncios e faz com que os anunciantes paguem por anúncios que nnenhum consumidor realmente vê.[83](#83) Por outras palavras, os atores legítimos acabam por pagar pela publicidade que nunca atinge uma audiência de todo.  
 
+O uso de intermediários levou a grandes quantidades de receitas publicitárias irem para terceiros.[84](#84) Isto significa, por exemplo, que o dinheiro que de outra forma ia chegar a um jornal local está sendo engolido por atores de terceiros, e em alguns casos, não pode ser rastreado.[85](#85) Isto deu origem a perguntas sobre se a publicidade baseada na vigilância é financeiramente sustentável para editores.[86](#86)  
+
+O aumento da fraude de anúncios levou ao surgimento de um grande mercado de ferramentas de deteção fraude. Esta é a tecnologia que é usada para verificar que os anúncios têm sido mostrado aos seres humanos reais. Há diferentes maneiras de fazer isso, mas estes os métodos envolvem frequentemente a recolha de mais informação sobre os consumidores.[87](#87) O desenvolvimento de tais ferramentas é uma corrida de armas constante contra os burlões, que leva a custos acrescidos para anunciantes e a novas violações de privacidade contra consumidores.  
+
 
 !!  
 !!  
@@ -310,11 +314,7 @@ A complicada rede de atores na publicidade baseada na vigilância indústria tem
 !!  
 
 
-O uso de intermediários levou a grandes quantidades de receitas publicitárias indo para terceiros.[84](#84) Isto significa, por exemplo, que o dinheiro que de outra forma ter chegado a um jornal local está sendo engolido por atores de terceiros, e em alguns casos, não pode ser rastreado.[85](#85) Isto deu origem a perguntas sobre se a publicidade baseada na vigilância é financeiramente sustentável para editores.[86](#86)  
-
-O aumento da fraude de anúncios levou ao surgimento de um grande mercado de fraude ferramentas de deteção. Esta é a tecnologia que é usada para verificar que os anúncios têm sido mostrado aos seres humanos reais. Há diferentes maneiras de fazer isso, mas estes os métodos envolvem frequentemente a recolha de mais informação sobre os consumidores.[87](#87) O desenvolvimento de tais ferramentas é uma corrida de armas constante contra os burlões, que leva a custos acrescidos para anunciantes e a novas violações de privacidade contra consumidores.  
-
-Ferramentas semelhantes também são usadas para rastrear o número de anúncios mostrados para determinar o que o anunciante tem que pagar pela colocação de anúncios. Estes números foram mostrados para ser impreciso ou totalmente falso, o que pode ter graves consequências para
+Ferramentas semelhantes também são usadas para rastrear o número de anúncios mostrados para determinar o que o anunciante tem que pagar pela publicação de anúncios. Estes números foram mostrados para ser impreciso ou totalmente falso, o que pode ter graves consequências para
 empresas.[88](#88) Outras ferramentas que se destinam a prevenir a fraude de anúncios e fornecer os anunciantes com segurança também foram encontrados com falhas significativas.[89](#89) O lutar contra a fraude de anúncios tornou-se uma espiral negativa onde os anunciantes, como bem como editores e consumidores, são todos perdedores.  
 
 #### Como é que as questões relacionadas com a fraude serão resolvidas através de uma proibição?
