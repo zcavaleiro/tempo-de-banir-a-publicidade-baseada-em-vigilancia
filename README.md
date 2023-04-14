@@ -392,15 +392,15 @@ Mesmo que o RGPD seja adequado para abordar uma série de questões relacionadas
 
 Como mostrado acima, muitos dos potenciais danos da publicidade baseada na vigilância perduram mesmo que os dados pessoais não sejam transferidos do dispositivo do utilizador final. Em estes casos, tanto o RGPD como a diretiva *ePrivacy* podem ser insuficientes para lidar com os problemas. Daí medidas complementares, como a proibição geral sobre a publicidade baseada na vigilância, podem ser necessária para combater estes problemas mais amplos.
 
+## 5.2 A Diretiva relativa às práticas comerciais desleais
+A Diretiva relativa às práticas comerciais desleais (*Unfair Commercial Practices Directive*, UCPD) estabelece um quadro europeu  para que marketing, práticas comerciais e termos de utilização os atores comerciais possam participar em diferentes mercados. As autoridades de proteção do consumidor são responsáveis pela aplicação desta lei e pela garantia que os consumidores estão protegidos.  
+
+A UCPD é neutra em tecnologia, e pode, em teoria, ser usada em casos que dizem respeito à publicidade baseada na vigilância. O marketing dirigido a indivíduos na forma de publicidade direcionada e monitorizada pode dar origem a perguntas sobre se a tecnologia que é usada para influenciar uma entidade recetora cruza os limites para o que constitui influência ou pressão injusta e ilegal.  
+
 !!  
 !!  
 !!  
 !!
-
-## 5.2 A Diretiva relativa às práticas comerciais desleais
-A Diretiva relativa às práticas comerciais desleais (UCPD) estabelece um europeu quadro para que marketing, práticas comerciais e termos de utilização os atores comerciais podem participar em diferentes mercados. Consumidor autoridades de proteção são responsáveis pela aplicação desta lei e pela garantia que os consumidores estão protegidos.  
-
-A UCPD é neutra em tecnologia, e pode, em teoria, ser usada em casos que dizem respeito à publicidade baseada na vigilância. Marketing dirigido a indivíduos no forma de publicidade baseada em vigilância pode dar origem a perguntas sobre se a tecnologia que é usada para influenciar o partido recetor cruza o limites para o que constituem influência ou pressão injusta e ilegal.  
 
 Podem ser levantadas questões sobre se certas formas de vigilância baseadas publicidade satisfaz os critérios para práticas comerciais agressivas no âmbito do Lei de Controlo de Marketing.[112](#112) Esta disposição destina-se ao marketing que emprega medidas que são consideradas ofensivas para reconhecido e generalizado normas sociais.  
 
