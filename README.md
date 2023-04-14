@@ -294,19 +294,21 @@ Uma restrição geral da publicidade baseada na vigilância poderia contribuir p
 
 A proibição da publicidade baseada na vigilância também poderia servir os consumidores contribuindo para uma maior liberdade de escolha e pluralidade dos meios de comunicação, e fundamentar o terreno para nova inovação.
 
-!!  
-!!  
-!!  
-!!  
-
 
 ### 4.7 Fraude e perda de receitas
-Embora os defensores da publicidade baseada em vigilância, às vezes touts o capacidade de medir a eficiência dos anúncios, tais medições não são necessariamente preciso. Fraude de anúncios é um problema generalizado em toda a indústria, que tem sido mostrado para inflacionar fortemente o número de visualizações de anúncios e cliques. A automação e escala do marketing, eo número absoluto de intermediários, significa que há muito pouca transparência em torno de onde os anúncios são mostrados, quantos consumidores são realmente exposto aos anúncios, e onde o dinheiro gasto acaba.[79](#79)  
+Embora os defensores da publicidade baseada em vigilância, por vezes promovam a capacidade de medir a eficiência dos anúncios, tais medições não são necessariamente precisas. A fraude de anúncios é um problema generalizado em toda a indústria, que se tem usado para inflacionar fortemente o número de visualizações de anúncios e cliques. A automação e escala do marketing, e o número enorme de intermediários, significa que há muito pouca transparência em torno de onde os anúncios são mostrados, quantos consumidores são realmente exposto aos anúncios, e onde o dinheiro gasto acaba.[79](#79)  
 
-Esta falta de controlo também significa que os consumidores podem facilmente ser expostos a fraudes e fraudes através de anúncios direcionados.[80](#80) Isto leva a que os consumidores sejam prejudicados,
-financeiramente e de outra forma, e para danos reputacionais para editores que terminam se hospedar anúncios criminais.[81](#81)  
+Esta falta de controlo também significa que os consumidores podem facilmente ser expostos a fraudes e esquemas através de anúncios direcionados.[80](#80) Isto leva a que os consumidores sejam prejudicados, financeiramente e de outras formas, e danos reputacionais para os anunciantes que acabam por hospedar anúncios criminais.[81](#81)  
 
-A complicada rede de atores na publicidade baseada na vigilância indústria tem levado a muitos anunciantes e editores tendo uma visão geral limitada de para onde vai o seu gasto de anúncios, o que, por sua vez, gerou uma grande indústria baseada sobre fraude de anúncios.[82](#82) Este tipo de fraude é comumente cometido por ter anúncios mostrados para bots em vez de seres humanos, o que por sua vez reduz o preço que os editores podem reivindicação para o espaço de anúncios e faz os anunciantes pagar por anúncios que nenhum consumidor é ealmente ver.[83](#83) Por outras palavras, os atores legítimos acabam por pagar pela publicidade. que nunca atinge uma audiência em tudo.  
+
+A complicada rede de atores na publicidade baseada na vigilância indústria tem levado a muitos anunciantes e editores terem uma visão geral limitada de para onde vai o seu investimento nos anúncios, o que, por sua vez, gerou uma grande indústria de fraude baseada em anúncios.[82](#82) Este tipo de fraude é frequentemente executado por ter anúncios mostrados para bots em vez de seres humanos, o que por sua vez reduz o preço que os editores podem pedir para o espaço de anúncios e faz com que os anunciantes paguem por anúncios que nnenhum consumidor realmente vê.[83](#83) Por outras palavras, os atores legítimos acabam por pagar pela publicidade que nunca atinge uma audiência de todo.  
+
+
+!!  
+!!  
+!!  
+!!  
+
 
 O uso de intermediários levou a grandes quantidades de receitas publicitárias indo para terceiros.[84](#84) Isto significa, por exemplo, que o dinheiro que de outra forma ter chegado a um jornal local está sendo engolido por atores de terceiros, e em alguns casos, não pode ser rastreado.[85](#85) Isto deu origem a perguntas sobre se a publicidade baseada na vigilância é financeiramente sustentável para editores.[86](#86)  
 
