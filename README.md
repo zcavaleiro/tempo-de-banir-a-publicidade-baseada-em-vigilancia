@@ -371,17 +371,15 @@ Embora uma grande parte das tecnologias de publicidade digital possa ter efeitos
 
 Há também sérias ineficiências no poder computaçional e no uso de energia de publicidade baseada em vigilância. Embora o consumo de energia destes dados não é um problema exclusivo da publicidade, estudos têm demonstrado que as tecnologias de publicidade digital têm uma pegada de carbono significativa.[107](#107) O impacto ambiental da publicidade baseada na vigilância é aumentado pela uso da inteligência artificial e a prevalência de bots usados para fraude de anúncios.[108](#108)  
 
+
+#### Como é que a tecnologia ineficiente será resolvida através de uma restrição?
+Uma restriçãp geral da publicidade baseada na vigilância limitará as oportunidades tecnologias de vender "banha da cobra" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editores e ajudar a proteger os consumidores contra decisões baseadas em tecnologias defeituosos e suposições.
+O impacto ambiental da publicidade baseada na vigilância pode ser reduzido da pegada de carbono excessiva, mas outras medidas complementares são necessárias para lidar com os níveis de emissão dos centros de dados e inteligência artificial.
+
 !!  
 !!  
 !!  
 !! 
-
-#### Como é que a tecnologia ineficiente será resolvida através de uma restrição?
-Uma restriçãp geral da publicidade baseada na vigilância limitará as oportunidades tecnologias de vender "banha da cobra" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editores e ajudar a proteger os consumidores contra decisões baseadas em tecnologias defeituosos e suposições.
-O impacto ambiental da publicidade baseada na vigilância pode restringir alguns dos a pegada de carbono excessiva, mas outras medidas complementares são necessário para lidar com os níveis de emissão de dados centros e artificial inteligência.
-
-
-
  
 ## 5 Legislação em vigor
 Como descrito acima, a proibição da publicidade baseada na vigilância não é uma cura para todos solução. Os serviços digitais já estão sujeitos a uma série de regras e regulamentos na UE, e uma proibição seria complementar ao legal existente enquadramento. Na secção seguinte, a proteção de dados europeia existente e direito dos consumidores é avaliado em relação aos prejuízos decorrentes de vigilância publicidade.
