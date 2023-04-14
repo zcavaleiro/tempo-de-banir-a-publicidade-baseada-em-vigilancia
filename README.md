@@ -360,16 +360,17 @@ Banir na generalidade a publicidade baseada na vigilância não será uma cura p
 
 ### 4.10 Tecnologia ineficiente
 É contestado se, além de criar e ampliar uma série de problemas sérios, a tecnologia por trás da publicidade baseada na vigilância é na verdade eficaz como uma ferramenta de marketing. Mesmo com a inovação em áreas como inteligência artificial, é muitas vezes apresentado como revolucionário para a publicidade indústria, vale a pena questionar se os efeitos de marketing da tecnologia está a ser "vendida demais".[101](#101) Isto é exemplificado por estudos que mostram que publicidade baseada em vigilância, em muitos casos, não teve efeitos benéficos em taxas de conversão ou receitas editoriais.[102](#102)  
+ 
+
+Estudos têm demonstrado que as empresas que vendem tecnologias de publicidade estão significativamente a exagerar na eficácia das tecnologias e no alvo real que está longe de ser preciso.[103](#103) Embora que fazer perfis (*profilling*) com base em colecionar dados  possa ser preciso em certas circunstâncias, em outros casos as inferências desenhadas podem ser imprecisas ou plenamente erradas.[104](#104)  
+
+Há também desafios relacionados com os anunciantes que chegam aos consumidores que já planeou a compra ou que já comprou o produto anunciado. Pode ser difícil ou mesmo impossível para um anunciante distinguir entre uma venda feita por causa de um anúncio ou se o anúncio foi exibido a um consumidor que teria feito a compra independentemente.[105](#105)
+Além disso, a publicidade online é muitas vezes dependente dos consumidores, em clicar nos anúncios na verdade, e o volume elevado de publicidade pode levar à maioria material de marketing transformar-se em ruído de fundo.[106](#106)  
 
 !!  
 !!  
 !!  
-!!  
-
-Estudos têm demonstrado que as empresas que vendem tecnologia de publicidade são significativamente exagerando a eficácia da tecnologia e que o alvo real está longe de ser preciso.[103](#103) Embora perfis com base em dados cobrança pode ser preciso em certas circunstâncias, em outros casos o inferências desenhadas podem ser imprecisas ou planas erradas.[104](#104)  
-
-Há também desafios relacionados com os anunciantes que chegam aos consumidores que foram já planejando a compra ou que já comprou o produto sendo anunciado. Pode ser difícil ou mesmo impossível para um anunciante distinguir entre uma venda feita por causa de um anúncio ou se o anúncio foi exibido a um consumidor que teria feito a compra independentemente.[105](#105)
-Além disso, a publicidade online é muitas vezes dependente dos consumidores, na verdade clicar nos anúncios, e o volume absoluto de publicidade pode levar à maioria material de marketing transformando-se em ruído de fundo.[106](#106)  
+!! 
 
 Embora uma grande parte das tecnologias de publicidade digital possa ter limitado efeitos, isto não significa que as decisões baseadas em má tecnologia serão melhor para os consumidores do que decisões baseadas em tecnologia precisa. O imprecisão da tecnologia não é um fator atenuante se os consumidores estão sujeitos a discriminação, manipulação ou exclusão.
 Há também sérias ineficiências no poder de computação e no uso de energia de publicidade baseada em vigilância. Embora o consumo de energia de dados centros não é um problema exclusivo da publicidade, estudos têm demonstrado que o digital as tecnologias de publicidade têm pegadas de carbono significativas.[107](#107) O impacto ambiental da publicidade baseada na vigilância é exacerbado pela uso da inteligência artificial e a prevalência de bots usados para fraude de anúncios.[108](#108)  
