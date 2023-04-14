@@ -1,7 +1,7 @@
 # É TEMPO DE PROIBIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
 ## Em construção, WIP. 
 
-Tradução do relatório para língua Portuguesa [Time to Ban Surveillance Based Advertising](https://www.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf)
+Tradução do relatório para língua Portuguesa [Time to Ban Surveillance Based Advertising](https://fil.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf)
 
 
 É TEMPO DE PROIBIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
@@ -254,39 +254,50 @@ A segmentação dos grupos de consumidores pode igualmente conduzir a preços in
 #### Como é que as práticas discriminatórias seriam resolvidas com um veto?
 Um veto geral da publicidade baseada na vigilância facilitaria o observação e sancionar práticas de marketing discriminatórias e de exclusão. Isto contribuiria para um mercado publicitário onde as práticas discriminatórias são mais efetivamente sancionadas, o que ajudaria a proteger o fundamental dos consumidores direitos.[59](#59)
 
-!!  
-!!  
-!!  
-!!  
-
-
 
 ### 4.5 Desinformação
-A falta de transparência em grande parte da publicidade baseada na vigilância indústria significa que muitos anunciantes não sabem onde os seus anúncios estão sendo exibido. Isto cria danos reputacionais para marcas e anunciantes, uma vez que eles perder o controlo sobre se os seus anúncios são exibidos em conjunto com desinformação ou conteúdo problemático.
-O risco de danos reputacionais levou a algumas categorias de websites ou palavras-chave sendo 'lista negra', que criou novas questões para conteúdo sério produtores e editores.[60](#60) Por exemplo, isto causou grandes problemas e vasto perdas de receitas para muitos editores quando um número de anunciantes não desejava para colocar os seus anúncios em sites que escrevem sobre COVID-19.[61](#61) Práticas semelhantes têm editores danificados criando conteúdo para minorias e potencialmente vulnerável grupos, por exemplo, através de palavras-chave relacionadas com a lista negra LGBTQ+.[62](#62)
-Isto envolve dinheiro sendo desviado de editores respeitáveis em favor de menos fontes respeitáveis. Consequentemente, o conteúdo de baixa qualidade é incentivado, criando oportunidades de fraude e fraudes.
-Conteúdo controverso foi provado para criar um alto grau de envolvimento, levando muitas pessoas a clicar em links para artigos ou conteúdo que são enganosos ou manifestamente falso.[63](#63) Isto leva a receitas publicitárias para os atores que criam e espalhando tal desinformação, o que significa que a publicidade baseada na vigilância oferece incentivos financeiros para criar tal conteúdo.[64](#64) O uso de vigilância publicidade é um, não o único, modelo de negócio incentivando o criação e difusão de desinformação online.[65](#65) Além disso, a tecnologia por trás da publicidade baseada na vigilância pode ser usado para espalhar desinformação, com efeitos potencialmente devastadores sobre os indivíduos e a sociedade.[66](#66)
+A falta de transparência em grande parte na indústria da publicidade baseada na vigilância significa que muitos anunciantes não sabem onde os seus anúncios estão a ser exibidos. Isto cria danos reputacionais para marcas e anunciantes, uma vez que eles perdem o controlo sobre se os seus anúncios estão a ser exibidos em conjunto com desinformação ou conteúdo problemático.  
 
-Como é que a prevalência da desinformação online será resolvida através de uma proibição?
-A proibição da publicidade baseada na vigilância não será um remédio perfeito para o prevalência de desinformação online. No entanto, uma proibição geral irá perturbar o modelos de negócio de um grande número de websites e outros atores que criam e espalhar desinformação.
-Uma cadeia de fornecimento mais transparente vai facilitar a conhecer os anunciantes onde os seus anúncios são exibidos. Isto significa que as marcas podem ter mais controlo sobre se os seus anúncios são usados para financiar a desinformação. Uma proibição deve no entanto, ser complementado por uma aplicação consistente e forte dos dados proteção, concorrência e direito do consumidor.[67](#67)
+O risco de danos reputacionais levou a que algumas categorias de websites ou palavras-chave irem para uma 'lista negra', que criou novas questões para craidores de conteúdo sério produtores e editores.[60](#60) Por exemplo, isto causou grandes problemas e vasto perdas de receitas para muitos editores quando um número de anunciantes não desejava para colocar os seus anúncios em sites que escreviam sobre COVID-19.[61](#61) Práticas semelhantes têm danificados editores criando conteúdo para minorias e para potencialmente grupos vulneráveis, por exemplo, através de palavras-chaves relacionadas com LGBTQ+ serem da lista negra .[62](#62)
+Isto envolve dinheiro sendo desviado de editores respeitáveis em favor de menos fontes respeitáveis. Consequentemente, o conteúdo de baixa qualidade é incentivado, criando oportunidades de fraude e fraudes.  
+
+
+O conteúdo controverso está provado criar um alto grau de envolvimento, levando muitas pessoas a clicar em links para artigos ou conteúdo que são enganosos ou manifestamente falso.[63](#63) Isto leva a receitas publicitárias para os atores que criam e espalhando tal desinformação, o que significa que a publicidade baseada na vigilância oferece incentivos financeiros para criar tal conteúdo.[64](#64) O uso de vigilância publicidade é um, não o único, modelo de negócio incentivando o criação e difusão de desinformação online.[65](#65) Além disso, a tecnologia por trás da publicidade baseada na vigilância pode ser usada para espalhar desinformação, com efeitos potencialmente devastadores para os seres humanos e a sociedade.[66](#66)  
+
+
+#### Como é que a prevalência da desinformação online será resolvida através de uma proibição?
+A proibição da publicidade baseada na vigilância não será um remédio perfeito para o prevalência de desinformação online. No entanto, uma proibição geral irá perturbar o modelos de negócio de um grande número de websites e outros atores que criam e espalham desinformação.  
+
+Uma cadeia de negócio mais transparente vai facilitar aos anunciantes saber onde os seus anúncios são exibidos. Isto significa que as marcas podem ter mais controlo sobre se os seus anúncios são usados para financiar desinformação. Uma proibição deve no entanto, ser complementada por uma aplicação consistente e forte dos dados proteção, concorrência e direito do consumidor.[67](#67)
+
+!!  
+!!  
+!!  
+!!  
+
 
 ### 4.6 Efeitos anticoncorrenciais
-No modelo de publicidade baseado na vigilância, alguns atores podem obter vantagens competitivas através da recolha de dados de todos os websites e serviços.[68](#68) A crescente concentração do mercado da publicidade digital está a diminuir valor dos dados de primeira parte dos editores e criação de uma corrida até ao fundo. Em prática, adtech empresas podem recolher dados sobre consumidores em um site (por exemplo, um jornal online), combiná-lo com os dados que têm sobre esse utilizador dentro dos seus próprios serviços (por exemplo, redes sociais) e, em seguida, usar os dados para direcionar anúncios para os consumidores em outros sites que oferecem um preço mais baixo para anúncio colocações.[69](#69)
+No modelo de publicidade baseada na vigilância, alguns atores podem obter vantagens competitivas através da recolha de dados em websites e serviços.[68](#68) A crescente concentração do mercado da publicidade digital está a diminuir valor dos dados de primeira parte dos editores e criação de uma corrida até ao fundo. Em prática, adtech empresas podem recolher dados sobre consumidores em um site (por exemplo, um jornal online), combiná-lo com os dados que têm sobre esse utilizador dentro dos seus próprios serviços (por exemplo, redes sociais) e, em seguida, usar os dados para direcionar anúncios para os consumidores em outros sites que oferecem um preço mais baixo para anúncio colocações.[69](#69)  
+
 Mesmo que as receitas de anúncios da publicidade baseada em vigilância tenham crescido durante nos últimos anos, a maior parte das receitas foram para apenas algumas plataformas.[70](#70)
-Plataformas como o Google e o Facebook são estimadas para cerca de dois terços do mercado de anúncios digitais nos Estados Unidos[71](#71) e cerca de 80% no Reino Unido.[72](#72) Isto significa que o dinheiro foi transferido para longe dos editores e potenciais concorrentes.
-Os atores dominantes podem abusar das suas posições no mercado da publicidade digital dando preferência aos seus próprios serviços.[73](#73) Por exemplo, o Google controla muitos aspetos da cadeia de valor, e funciona como um comprador, vendedor e mercado.[74](#74) Se o Google manipular as suas ferramentas para favor seu próprio anúncio on-line serviços e para sufocar a concorrência de tecnologias rivais, estes efeitos anticoncorrenciais não só prejudicariam potenciais concorrentes, mas também levariam a menos escolha e preços mais elevados para os consumidores.[75](#75)
+Plataformas como o Google e o Facebook são estimadas para cerca de dois terços do mercado de anúncios digitais nos Estados Unidos[71](#71) e cerca de 80% no Reino Unido.[72](#72) Isto significa que o dinheiro foi transferido para longe dos editores e potenciais concorrentes.  
+
+Os atores dominantes podem abusar das suas posições no mercado da publicidade digital dando preferência aos seus próprios serviços.[73](#73) Por exemplo, o Google controla muitos aspetos da cadeia de valor, e funciona como um comprador, vendedor e mercado.[74](#74) Se o Google manipular as suas ferramentas para favor seu próprio anúncio on-line serviços e para sufocar a concorrência de tecnologias rivais, estes efeitos anticoncorrenciais não só prejudicariam potenciais concorrentes, mas também levariam a menos escolha e preços mais elevados para os consumidores.[75](#75)  
+
 Estes efeitos anticoncorrenciais podem ser ainda mais entrincheirados se o dominante as plataformas afastam-se da utilização e permitem a recolha de dados de terceiros.
-Mesmo que tais medidas limitassem o número de atores que podem aceder a pessoas dados, o que seria positivo do ponto de vista da privacidade, também pode contribuir para um pequeno número de atores dominantes mais entrincheirando a sua posição como porteiros.[76](#76)
+Mesmo que tais medidas limitassem o número de atores que podem aceder a pessoas dados, o que seria positivo do ponto de vista da privacidade, também pode contribuir para um pequeno número de atores dominantes mais entrincheirando a sua posição como porteiros.[76](#76)  
+
 Na situação de hoje, é difícil para modelos de negócio alternativos do digital
 publicidade para competir com os atores dominantes. Isto tem muitas causas, incluindo os efeitos da rede, anticoncorrencial comportamento de jogadores dominantes,[77](#77) e porque a maioria dos anunciantes já dependem de publicidade baseada em vigilância como o seu principal fluxo de receitas para conteúdos gratuitos.[78](#78) Além disso, muitos técnicos soluções ligadas a soluções publicitárias baseadas em vigilância podem ser incompatíveis
-com modelos que não dependem do tratamento de dados pessoais.
-Como é que os efeitos anticoncorrenciais serão resolvidos através de uma proibição?
+com modelos que não dependem do tratamento de dados pessoais.  
+
+#### Como é que os efeitos anticoncorrenciais serão resolvidos através de uma proibição?
 
 
 
 Uma proibição geral da publicidade baseada na vigilância poderia contribuir para nivelar o campo de jogo entre editores e plataformas dominantes, o que seria estimular um mercado melhor competitivo para a publicidade. No entanto, o dominante as posições do Facebook e do Google também devem ser abordadas por outros meios, nomeadamente através da aplicação da regulamentação antitrust. Qualquer regulação intervenção deve ser complementada com a aplicação do direito da concorrência em
-o nível de acordos anticoncorrenciais (por exemplo, entre diferentes intervenientes no cadeia de fornecimento de publicidade) e para evitar o abuso de posições dominantes.
+o nível de acordos anticoncorrenciais (por exemplo, entre diferentes intervenientes no cadeia de fornecimento de publicidade) e para evitar o abuso de posições dominantes.  
+
 A proibição da publicidade baseada na vigilância também poderia servir os consumidores contribuindo para uma maior liberdade de escolha e pluralidade dos meios de comunicação, e leigos o terreno para a nova inovação.
 
 ### 4.7 Fraude e perda de receitas
