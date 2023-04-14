@@ -20,7 +20,7 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 -
 - rever uso palavras: proibir e  vigilância (muitas) - para sinónimos
   - Proibir: vetar impedir interditar restringir
-  - vigilância: monitorização observação 
+  - vigilância: monitorização observação espiar inspecionar, olhar constante
 
 
 [melhorias estrutura do MD]
@@ -207,26 +207,32 @@ Um veto à da publicidade que nos monitoriza seria positiva para, e para, comple
 
 O fosso de aplicação transfronteiriça do RGPD e o surgimento de novos desafios que vão além da proteção de dados pessoais têm demonstrado que há uma necessidade para uma abordagem mais sistémica e preventiva, e uma interdição geral pode forçar transformação estrutural abrangente dos modelos de negócio de vigilância. Como complemento a uma interdição, é necessário reforçar a aplicação da lei autoridades e procedimentos, tanto no RGPD como *ePrivacy Diretive* (ou uma nova ePrivacy Regulamento que substituirá a diretiva)[[39]](#39), e no próxima Lei dos Serviços Digitais.  
 
-!!  
-!!  
-!! 
 
 ### 4.3 Manipulação
-O aumento do marketing baseado na vigilância contribuiu para a tentativa manipulação de indivíduos e grupos numa escala sem precedentes. Empresas na posse de grandes quantidades de dados podem usar sistemas algorítmicos em tentativas para decidir quando os indivíduos são mais suscetíveis a comportar-se de determinadas maneiras ou a reagem a imagens, sons ou mensagens particulares.
-Isto pode implicar, por exemplo, que os consumidores estão expostos a anúncios de beleza ou produtos diet quando a sua auto-confiança é baixa [40](#40) ou que os anúncios de jogo são direcionados para os consumidores que lutam contra os vícios.[41](#41) Estas questões são exacerbada pela proliferação da comercialização de produtos e serviços nocivos para as crianças.[42](#42) A automatização torna o processo ainda mais opaco, e o otimização de mensagens pode ter efeitos negativos se não ético e prejudicial no entanto, métodos eficazes são automatizados.
-A publicidade pode explorar as vulnerabilidades dos consumidores mesmo sem observar diretamente as referidas vulnerabilidades. Por exemplo, através da utilização do chamado 'sósia públicos', os anunciantes podem duplicar grupos de consumidores com certos características, a fim de chegar a novos consumidores que partilham o mesmo características.[43](#43) Desta forma, a publicidade para os produtos farmacêuticos pode, por exemplo, ser mostrado a grupos de consumidores que têm características em comum com outros consumidores com doenças semelhantes, mesmo que o anunciante não tenha informação que indique diretamente o estado de saúde destes consumidores.[44](#44)
-Do mesmo modo, esta forma de orientação tem sido associada à radicalização.[45](#45)
-Através da publicidade baseada na vigilância, todos os consumidores ficam vulneráveis por defeito; em teoria podemos ser alvo nos nossos momentos mais vulneráveis em a fim de otimizar os efeitos do marketing.[46](#46)
+O aumento do marketing baseado na constante observação contribuiu para a tentativa manipulação de indivíduos e grupos numa escala sem precedentes. Empresas na posse de grandes quantidades de dados podem usar sistemas algorítmicos nas tentativas de decisão para quando os indivíduos estão mais suscetíveis a comportar-se de determinadas formas ou a reagirem a imagens, sons ou mensagens particulares.  
+
+Isto pode implicar, por exemplo, que os consumidores são expostos a anúncios de beleza ou produtos de dieta quando a sua auto-confiança é baixa [40](#40) ou para que os anúncios de jogo online sejam direcionados para os consumidores que lutam contra os vícios.[41](#41) Estas questões são exacerbadas pela proliferação da comercialização de produtos e serviços nocivos para as crianças.[42](#42) A automação torna o processo ainda mais opaco, e a otimização de mensagens pode ter efeitos negativos se prejudicial e não ético, no entanto, os métodos eficazes são automatizados.  
+
+A publicidade pode explorar as vulnerabilidades dos consumidores mesmo sem observar diretamente as referidas vulnerabilidades. Por exemplo, através da utilização dos chamados 'sósias públicos' (*lookalike audiences*), os anunciantes podem duplicar grupos de consumidores com certos características, a fim de chegar a novos consumidores que partilham o mesmo características.[43](#43) Desta forma, a publicidade para os produtos farmacêuticos pode, por exemplo, ser mostrado a grupos de consumidores que têm características comuns com outros consumidores com doenças semelhantes, mesmo que o anunciante não tenha informação que indique diretamente o estado de saúde destes consumidores.[44](#44)
+Do mesmo modo, esta forma de orientação tem sido associada à radicalização.[45](#45)  
+
+
+Por via desta publicidade baseada na vigilância, todos os consumidores ficam vulneráveis por defeito; em teoria podemos ser alvo nos nossos momentos mais vulneráveis a fim de otimizar os efeitos do marketing.[46](#46)
+O bombardeamento constante de publicidade em espaços digitais também serve para quebrar as defesas enraizadas contra a persuasão e manipulação.[47](#47) Isto torna-se particularmente prejudicial quando crianças e outros grupos especialmente suscetíveis são submetidos a manipulação e comercialização extrema.[48](#48)  
+
+
+#### Como é que o risco de manipulação será resolvido através de uma interdição?  
+
+Uma interdição geral da publicidade baseada na observação/monitorização não resolverá todas as questões relacionadas para o marketing manipulador, uma vez que todo o marketing pode potencialmente ser usado para manipular os consumidores. Apesar disso, uma interdição desta má forma de publicidade, contribuirá para acabar com os anúncios individualizados que são otimizados para chegar aos consumidores em situações vulneráveis, bem como mitigar os efeitos em curso de "vulnerabilidade por padrão" criadas através da aplicação constantemente de perfis de persuasão melhorados.  
+
+A manipulação que acontece através de outras formas de publicidade, como o conteúdo marketing[49](#49), deve ser resolvido através de meios diferentes que não a interdição de vigilância publicitária, como por exemplo através de disposições previstas na Lei dos Serviços Digitais[50](#50) e numa revista *Unfair Commercial Practices Directive.*
 
 
 
-
-O bombardeamento constante de publicidade em espaços digitais também serve para quebrar enraizado defesas contra a persuasão e manipulação.[47](#47) Isto torna-se particularmente prejudicial quando crianças e outros grupos especialmente suscetíveis são submetidos a manipulação
-e comercialização extrema.[48](#48)
-Como é que o risco de manipulação será resolvido através de uma proibição?
-A proibição geral da publicidade baseada na vigilância não resolverá todas as questões relacionadas para o marketing manipulador, uma vez que todo o marketing pode potencialmente ser usado para manipular os consumidores. Apesar disso, a proibição da publicidade baseada na vigilância contribuirá para acabar com os anúncios individualizados que são otimizados para chegar aos consumidores em situações vulneráveis, bem como mitigar os efeitos de "vulnerabilidade por padrão" em curso criada através da aplicação de constantemente perfis de persuasão melhorados.
-Manipulação que acontece através de outras formas de publicidade, como o conteúdo marketing[49](#49), deve ser resolvido através de meios que não a proibição de vigilância publicidade, como por exemplo através de disposições na Lei dos Serviços Digitais[50](#50) e um diretiva relativa às práticas comerciais desleais revistas.
-
+!!
+!!
+!!
+!!
 
 
 ### 4.4 Discriminação
