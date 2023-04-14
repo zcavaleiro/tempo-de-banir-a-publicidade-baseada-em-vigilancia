@@ -308,20 +308,19 @@ O uso de intermediários levou a grandes quantidades de receitas publicitárias 
 O aumento da fraude de anúncios levou ao surgimento de um grande mercado de ferramentas de deteção fraude. Esta é a tecnologia que é usada para verificar que os anúncios têm sido mostrado aos seres humanos reais. Há diferentes maneiras de fazer isso, mas estes os métodos envolvem frequentemente a recolha de mais informação sobre os consumidores.[87](#87) O desenvolvimento de tais ferramentas é uma corrida de armas constante contra os burlões, que leva a custos acrescidos para anunciantes e a novas violações de privacidade contra consumidores.  
 
 
+Ferramentas semelhantes também são usadas para rastrear o número de anúncios mostrados para determinar o que o anunciante tem que pagar pela publicação dos anúncios. Estes números foram provados serem impreciso ou totalmente falsos, o que pode ter graves consequências para empresas.[88](#88) Outras ferramentas que se destinam a prevenir a fraude de anúncios e fornecer os anunciantes com segurança também foram encontrados com falhas significativas.[89](#89) O lutar contra a fraude de anúncios tornou-se uma espiral negativa onde os anunciantes, como bem como editores e consumidores, são todos perdedores.  
+
+
+
+#### Como é que as questões relacionadas com a fraude serão resolvidas através de uma interdição?
+
+Uma interdição geral da publicidade baseada na vigilância levaria a mais transparência na cadeia de estrutural e, provavelmente, reduziria a quantidade de fraude de anúncios. Esta por sua vez diminuiria a necessidade de instrumentos de deteção de fraude dispendiosos e invasivos, que seria uma bênção para as linhas de fundo dos editores e anunciantes, bem como para privacidade e segurança do consumidor. A interdição deve ser complementada por outras medidas para reduzir a fraude, tais como obrigações para os mercados online de verificar a legitimidade dos comerciantes, tal como proposto na Lei dos Serviços Digitais.
+
+
 !!  
 !!  
 !!  
 !!  
-
-
-Ferramentas semelhantes também são usadas para rastrear o número de anúncios mostrados para determinar o que o anunciante tem que pagar pela publicação de anúncios. Estes números foram mostrados para ser impreciso ou totalmente falso, o que pode ter graves consequências para
-empresas.[88](#88) Outras ferramentas que se destinam a prevenir a fraude de anúncios e fornecer os anunciantes com segurança também foram encontrados com falhas significativas.[89](#89) O lutar contra a fraude de anúncios tornou-se uma espiral negativa onde os anunciantes, como bem como editores e consumidores, são todos perdedores.  
-
-#### Como é que as questões relacionadas com a fraude serão resolvidas através de uma proibição?
-
-
-
-Uma proibição geral da publicidade baseada na vigilância levaria a mais transparência na cadeia de abastecimento e, provavelmente, reduzir a quantidade de fraude de anúncios. Este por sua vez diminuiria a necessidade de instrumentos de deteção de fraude dispendiosos e invasivos, que seria uma bênção para as linhas de fundo dos editores e anunciantes, bem como para privacidade e segurança do consumidor. A proibição deve ser complementada por outros medidas para reduzir a fraude, tais como obrigações para os mercados online para verificar legitimidade dos comerciantes, tal como proposto na Lei dos Serviços Digitais.
 
 ### 4.8 Riscos de segurança
 Como muitos sistemas usados na publicidade baseada em vigilância envolvem dados sendo compartilhado e espalhado entre potencialmente milhares de atores, há um risco significativo que pelo menos um destes atores aproveita a oportunidade de vender ou partilhar conjuntos de dados para outras empresas que têm modelos de negócio fora de publicidade.[90](#90)  
