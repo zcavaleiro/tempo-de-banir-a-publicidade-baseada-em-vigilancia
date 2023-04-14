@@ -229,16 +229,14 @@ A manipulação que acontece através de outras formas de publicidade, como o co
 
 
 
-!!
-!!
-!!
-!!
+!!  
+!!  
+!!  
+!!  
 
 
 ### 4.4 Discriminação
-Além de criar novas oportunidades para alcançar "a pessoa certa",
-a publicidade baseada na vigilância cria novas oportunidades para excluir e
-discriminar indivíduos e grupos.[51](#51) A automatização da publicidade permite isto numa escala crescente. Por exemplo, a Amnistia Internacional tem descreveu o modelo de negócio baseado na vigilância de empresas como o Google e Facebook como uma ameaça a uma série de direitos humanos fundamentais, incluindo liberdade de expressão e o direito à não discriminação, devido à forma como o modelo de negócio de vigilância cria efeitos arrepiantes e classifica indivíduos em grupos para fins de segmentagem.[52](#52)
+Para além de criar novas oportunidades para alcançar "a pessoa certa", a publicidade baseada na vigilância cria novas oportunidades para excluir e discriminar indivíduos e grupos.[51](#51) A automatização da publicidade permite isto numa escala crescente. Por exemplo, a Amnistia Internacional tem descreveu o modelo de negócio baseado na vigilância de empresas como o Google e Facebook como uma ameaça a uma série de direitos humanos fundamentais, incluindo liberdade de expressão e o direito à não discriminação, devido à forma como o modelo de negócio de vigilância cria efeitos arrepiantes e classifica indivíduos em grupos para fins de segmentagem.[52](#52)
 Segmentação e segmentação podem ser usadas para não exibir certos anúncios a particular pessoas ou grupos de consumidores. Por exemplo, os anunciantes podem escolher mostrar anúncios de habitação apenas para pessoas que se encaixam no seu perfil ideal para indivíduos que querem
 ter vivido em um certo bairro e excluir indivíduos "indesejáveis" que, no entanto, pode ser capaz de se dar ao luxo de viver lá. Da mesma forma, potencial os empregadores podem escolher que tipo de pessoas são mostradas certas listas de emprego, que pode, por exemplo, excluir potenciais candidatos femininos, quer deliberadamente ou através da discriminação algorítmica.[53](#53) Na verdade, tais escolhas serão necessariamente excluir alguns indivíduos ou grupos.[54](#54) Isto é exacerbado pelo nível de opacidade e a impossibilidade de saber quem está a ver o anúncio.
 É impossível para os consumidores saber que anúncio de emprego ou habitação são não ver. Enquanto o marketing tradicional pode ser observado olhando para o conteúdo e análise em retrospetiva, isto é muitas vezes inviável se o anúncio era apenas mostrado a um determinado consumidor ou grupo num determinado momento. Se discriminação está acontecendo como parte de processos algorítmicos automatizados, torna-se muito difícil de descobrir e remediar a questão. Assim, vigilância a publicidade pode contribuir para obscurecer discriminação ou exclusividade práticas porque as questões problemáticas acontecem dentro da 'caixa preta'. Este mina o direito à não discriminação, que é um ser humano fundamental Certo.
