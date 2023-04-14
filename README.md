@@ -336,25 +336,28 @@ Uma proibição geral da publicidade baseada na vigilância iria estrangular gra
 Embora as questões relativas a violações de privacidade e segurança online tenha recebido atenção pública significativa nos últimos anos, os consumidores são muitas vezes deixados com poucas alternativas, mas para a usar os serviços problemáticos. Alguns plataformas não têm concorrentes, o que significa que os consumidores não podem mudar para
 um serviço diferente, mesmo que gostassem. Em outros casos, a complexidade e escala das práticas problemáticas são tão vasto que os consumidores não podem realisticamente compreender os danos, proteger-se ou tomar uma ação preventiva . Isto leva à desilusão, fadiga e falta de confiança nos fornecedores de serviços digitais, impactando a economia digital para além da publicidade.[95](#95)  
 
-!!  
-!!  
-!!  
-!!  
 
 Embora a maioria dos consumidores tenha poucas ou mesmo nenhuma maneira de se proteger contra a vigilância comercial online, e não se pode esperar que tomem medidas, uma falta de confiança nos serviços digitais tem sido um fator importante no aumento de ferramentas de rastreio e bloqueio. Tais ferramentas são usadas por muitos consumidores, e são pré-instalado em vários navegadores populares da Web, como Safari, Firefox e Brave.
-Embora isto fortaleça a proteção do consumidor, também significa que os anúncios de os atores legítimos estão bloqueados, o que leva tanto a anunciantes como a editores perder receitas.  
+Embora isto fortaleça a proteção do consumidor, também significa que os anúncios dos atores legítimos estão bloqueados, o que leva tanto a anunciantes como a editores perder receitas.  
 
-Todas estas escolhas pressupõem que o consumidor tem um nível irrealista de poder, competência tecnológica e jurídica. Se o consumidor fosse fazer uma escolha verdadeiramente informada, ela teria que passar centenas de horas todos os anos ler documentação legal e combater padrões escuros projetados para influenciar sua autonomia, decisões e escolhas.  
+Todas estas escolhas pressupõem que o consumidor tem um nível irrealista de poder, competência tecnológica e jurídica. Se o consumidor fosse fazer uma escolha verdadeiramente informada, ele teria que passar centenas de horas todos os anos ler documentação legal e combater padrões escuros projetados para influenciar a sua autonomia, decisões e escolhas.  
 
-O uso de padrões escuros para empurrar os consumidores para aceitar o rastreio muda o equilíbrio de informação e poder para a desvantagem do consumidor.[96](#96) A soma destas práticas significa que os consumidores estão constantemente pediu para fazer escolhas que não têm forma prática ou realista de controlar, compreender ou relacionar-se com. Esta situação absurda também contribui à falta de confiança nos serviços digitais.  
+O uso de padrões obscuros para forçar os consumidores a aceitar o rastreio muda o equilíbrio de informação e poder para a desvantagem do consumidor.[96](#96) A soma destas práticas significa que os consumidores estão constantemente a ser pedidos para fazer escolhas que não têm forma prática ou realista de controlar, compreender ou relacionar-se. Esta situação absurda também contribui à falta de confiança nos serviços digitais.  
 
-Devido às cadeias de fornecimento opacas de sistemas de publicidade baseados em vigilância, é também é difícil para os anunciantes ter o controlo de onde os seus anúncios são exibidos.
-Isto levou a um grande número de casos em que os anúncios são exibidos ao lado e usado para financiar conteúdo extremo ou odioso, levando a marca negativa associações.[97](#97)  
+Devido às cadeias opacas de fornecimento de sistemas de publicidade baseados em vigilância, é também é difícil para os anunciantes terem controlo onde os seus anúncios são exibidos.
+Isto levou a um grande número de casos em que os anúncios são exibidos ao lado e usados para financiar conteúdo extremo ou odioso, levando à marca associações negativas.[97](#97)  
 
-Além disso, a falta geral de confiança pode reduzir a propagação e a absorção de serviços úteis, e têm um efeito negativo sobre as empresas que tomam privacidade e segurança a sério.[98](#98) Isto pode ter sérios efeitos arrepiantes no consumidor comportamento, que pode impedir os consumidores de utilizarem serviços importantes relacionados
+
+Além disso, a falta geral de confiança pode reduzir a propagação e o uso de serviços úteis, e têm um efeito negativo sobre as empresas que tomam privacidade e segurança a sério.[98](#98) Isto pode ter sérios efeitos de "esfriar" o comportamento no consumidor, que pode impedir os consumidores de utilizarem serviços importantes relacionados
 para a saúde mental[99](#99) ou procurando ajuda através de serviços públicos.[100](#100)  
 
-Os consumidores têm poucas formas de distinguir entre atores sérios e não sérios no espaço digital, que é suscetível de impactar negativamente os pequenos e médios tamanhodenterprises querendo competir em fatores como o desenvolvimento de privacidade tecnologias de preservação.  
+Os consumidores têm poucas formas de distinguir entre atores sérios e não sérios no espaço digital, que é suscetível de impactar negativamente as pequenas e médias empresas que querem competir em fatores como o desenvolvimento de tecnologias de preservação de privacidade.  
+
+
+!!  
+!!  
+!!  
+!!  
 
 #### Como é que a falta de confiança nos serviços digitais será resolvida através de uma proibição?
 Uma proibição geral da publicidade baseada na vigilância não será uma cura para restaurar confiança nos serviços digitais. Os escândalos são muito numerosos, e têm ocorrido repetidamente ao longo de um longo período. Vai levar tempo para restaurar a confiança. No entanto, uma proibição contribuiria para um campo de jogo nivelado onde as receitas de anúncios para um maior extensão chegar a atores sérios. Isto pode contribuir para que os consumidores já não se sintam como se os prestadores de serviços e marcas estão olhando sobre o seu ombro on-line e sendo tratados como mercadorias que são vendidas ao licitador mais alto. Também pode restaurar a confiança, tranquilizando os consumidores de que as marcas não estão patrocinando odioso conteúdo.
