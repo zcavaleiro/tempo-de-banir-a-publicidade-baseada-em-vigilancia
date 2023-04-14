@@ -311,21 +311,21 @@ O aumento da fraude de anúncios levou ao surgimento de um grande mercado de fer
 Ferramentas semelhantes também são usadas para rastrear o número de anúncios mostrados para determinar o que o anunciante tem que pagar pela publicação dos anúncios. Estes números foram provados serem impreciso ou totalmente falsos, o que pode ter graves consequências para empresas.[88](#88) Outras ferramentas que se destinam a prevenir a fraude de anúncios e fornecer os anunciantes com segurança também foram encontrados com falhas significativas.[89](#89) O lutar contra a fraude de anúncios tornou-se uma espiral negativa onde os anunciantes, como bem como editores e consumidores, são todos perdedores.  
 
 
-
 #### Como é que as questões relacionadas com a fraude serão resolvidas através de uma interdição?
 
 Uma interdição geral da publicidade baseada na vigilância levaria a mais transparência na cadeia de estrutural e, provavelmente, reduziria a quantidade de fraude de anúncios. Esta por sua vez diminuiria a necessidade de instrumentos de deteção de fraude dispendiosos e invasivos, que seria uma bênção para as linhas de fundo dos editores e anunciantes, bem como para privacidade e segurança do consumidor. A interdição deve ser complementada por outras medidas para reduzir a fraude, tais como obrigações para os mercados online de verificar a legitimidade dos comerciantes, tal como proposto na Lei dos Serviços Digitais.
 
 
-!!  
-!!  
-!!  
-!!  
 
 ### 4.8 Riscos de segurança
-Como muitos sistemas usados na publicidade baseada em vigilância envolvem dados sendo compartilhado e espalhado entre potencialmente milhares de atores, há um risco significativo que pelo menos um destes atores aproveita a oportunidade de vender ou partilhar conjuntos de dados para outras empresas que têm modelos de negócio fora de publicidade.[90](#90)  
+Como muitos sistemas usados na publicidade baseada em vigilância envolvem dados a serem partilhados e distribuídos entre potencialmente milhares de atores, há um risco significativo que pelo menos um destes atores aproveita a oportunidade de vender ou partilhar conjuntos de dados para outras empresas que têm modelos de negócio fora de publicidade.[90](#90)  
 
 Nestes sistemas, não há distinção real entre consumidores "regulares" e indivíduos em papéis críticos. Por exemplo, a emissora pública norueguesa NRK revelou como os dados pessoais recolhidos de aplicações populares poderiam ser usados para rastrear o movimento de militares.[91](#91) Num relatório de 2021, a NATO anunciou que esta forma de recolha e partilha de dados pessoais constitui uma séria ameaça à segurança nacional.[92](#92)  
+
+!!  
+!!  
+!!  
+!!  
 
 A recolha e armazenamento de informação também criam um risco de dados pessoais ser espalhado como resultado de hackeamento ou violação de dados. Isto significa que os criminosos pode ser capaz de aceder a informações que podem ser usadas para roubo de identidade, fraude, e
 fins de chantagem. Os dados que foram vazados também podem ser mal utilizados para identificar, rastrear e prejudicar indivíduos e grupos vulneráveis[93](#93) ou em tentativas de influenciar ou interferir nas eleições democráticas.
