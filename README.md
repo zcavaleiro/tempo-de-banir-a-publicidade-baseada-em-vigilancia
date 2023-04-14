@@ -367,16 +367,17 @@ Estudos têm demonstrado que as empresas que vendem tecnologias de publicidade e
 Há também desafios relacionados com os anunciantes que chegam aos consumidores que já planeou a compra ou que já comprou o produto anunciado. Pode ser difícil ou mesmo impossível para um anunciante distinguir entre uma venda feita por causa de um anúncio ou se o anúncio foi exibido a um consumidor que teria feito a compra independentemente.[105](#105)
 Além disso, a publicidade online é muitas vezes dependente dos consumidores, em clicar nos anúncios na verdade, e o volume elevado de publicidade pode levar à maioria material de marketing transformar-se em ruído de fundo.[106](#106)  
 
+Embora uma grande parte das tecnologias de publicidade digital possa ter efeitos limitados, isto não significa que as decisões baseadas em más práticas de tecnologia serão melhor para os consumidores do que decisões baseadas em tecnologia precisa. A imprecisão da tecnologia não é um fator atenuante se os consumidores estão sujeitos a discriminação, manipulação ou exclusão.  
+
+Há também sérias ineficiências no poder computaçional e no uso de energia de publicidade baseada em vigilância. Embora o consumo de energia destes dados não é um problema exclusivo da publicidade, estudos têm demonstrado que as tecnologias de publicidade digital têm uma pegada de carbono significativa.[107](#107) O impacto ambiental da publicidade baseada na vigilância é aumentado pela uso da inteligência artificial e a prevalência de bots usados para fraude de anúncios.[108](#108)  
+
 !!  
 !!  
 !!  
 !! 
 
-Embora uma grande parte das tecnologias de publicidade digital possa ter limitado efeitos, isto não significa que as decisões baseadas em má tecnologia serão melhor para os consumidores do que decisões baseadas em tecnologia precisa. O imprecisão da tecnologia não é um fator atenuante se os consumidores estão sujeitos a discriminação, manipulação ou exclusão.
-Há também sérias ineficiências no poder de computação e no uso de energia de publicidade baseada em vigilância. Embora o consumo de energia de dados centros não é um problema exclusivo da publicidade, estudos têm demonstrado que o digital as tecnologias de publicidade têm pegadas de carbono significativas.[107](#107) O impacto ambiental da publicidade baseada na vigilância é exacerbado pela uso da inteligência artificial e a prevalência de bots usados para fraude de anúncios.[108](#108)  
-
-#### Como é que a tecnologia ineficiente será resolvida através de uma proibição?
-Uma proibição geral da publicidade baseada na vigilância limitará as oportunidades de vender tecnologias de "óleo de serpente" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editor e ajudar a proteger os consumidores contra decisões baseadas em defeituosos tecnologias e suposições.
+#### Como é que a tecnologia ineficiente será resolvida através de uma restrição?
+Uma restriçãp geral da publicidade baseada na vigilância limitará as oportunidades tecnologias de vender "banha da cobra" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editores e ajudar a proteger os consumidores contra decisões baseadas em tecnologias defeituosos e suposições.
 O impacto ambiental da publicidade baseada na vigilância pode restringir alguns dos a pegada de carbono excessiva, mas outras medidas complementares são necessário para lidar com os níveis de emissão de dados centros e artificial inteligência.
 
 
