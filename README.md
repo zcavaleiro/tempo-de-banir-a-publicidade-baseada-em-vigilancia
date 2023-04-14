@@ -328,17 +328,18 @@ fins de chantagem. Os dados que foram vazados também podem ser mal utilizados p
 
 Além de violações de dados que conduzem a riscos de segurança, a publicidade digital tem vindo a ser um vetor para a propagação de código malicioso, como malware ou vírus.[94](#94) Isto significa que alguns banners de publicidade podem incluir scripts que infetam o dispositivo do consumidor, que pode levar a hackers a aceder ao dispositivo, danificando o dispositivo ou, de outra forma, interferir com as operações do dispositivo.  
 
-!!  
-!!  
-!!  
-!!  
 
 #### Como é que os riscos de segurança serão resolvidos com uma proibição?
-Uma proibição geral da publicidade baseada na vigilância iria estrangular grandes partes de o fluxo de dados e a recolha de dados pessoais. Isto ajudaria a escalar para baixo o potencial para falhas de segurança e uso indevido destes dados. Simplificando, se os dados forem não recolhidos ou armazenados, não podem ser utilizados para prejudicar consumidores ou instituições.
+Uma proibição geral da publicidade baseada na vigilância iria estrangular grandes partes de o fluxo de dados e a recolha de dados pessoais. Isto ajudaria a diminuir o potencial para falhas de segurança e uso indevido destes dados. Simplificando, se os dados forem não recolhidos ou armazenados, não podem ser utilizados para prejudicar consumidores ou instituições.  
 
 ### 4.9 Falta de confiança
-Embora as questões relativas a violações de privacidade e segurança online têm recebeu atenção pública significativa nos últimos anos, os consumidores são muitas vezes saiu com poucas alternativas, mas para continuar a usar os serviços problemáticos. Alguns plataformas não têm concorrentes, o que significa que os consumidores não podem mudar para
-um serviço diferente, mesmo que gostassem. Em outros casos, a complexidade e escala das práticas problemáticas são tão vasto que os consumidores não podem realisticamente compreender os danos, proteger-se ou tomar preventiva ação. Isto leva à desilusão, fadiga e falta de confiança no serviço digital fornecedores, impactando a economia digital para além da publicidade.[95](#95)  
+Embora as questões relativas a violações de privacidade e segurança online tenha recebido atenção pública significativa nos últimos anos, os consumidores são muitas vezes deixados com poucas alternativas, mas para a usar os serviços problemáticos. Alguns plataformas não têm concorrentes, o que significa que os consumidores não podem mudar para
+um serviço diferente, mesmo que gostassem. Em outros casos, a complexidade e escala das práticas problemáticas são tão vasto que os consumidores não podem realisticamente compreender os danos, proteger-se ou tomar uma ação preventiva . Isto leva à desilusão, fadiga e falta de confiança nos fornecedores de serviços digitais, impactando a economia digital para além da publicidade.[95](#95)  
+
+!!  
+!!  
+!!  
+!!  
 
 Embora a maioria dos consumidores tenha poucas ou mesmo nenhuma maneira de se proteger contra a vigilância comercial online, e não se pode esperar que tomem medidas, uma falta de confiança nos serviços digitais tem sido um fator importante no aumento de ferramentas de rastreio e bloqueio. Tais ferramentas são usadas por muitos consumidores, e são pré-instalado em vários navegadores populares da Web, como Safari, Firefox e Brave.
 Embora isto fortaleça a proteção do consumidor, também significa que os anúncios de os atores legítimos estão bloqueados, o que leva tanto a anunciantes como a editores perder receitas.  
