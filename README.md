@@ -397,12 +397,12 @@ A Diretiva relativa às práticas comerciais desleais (*Unfair Commercial Practi
 
 A UCPD é neutra em tecnologia, e pode, em teoria, ser usada em casos que dizem respeito à publicidade baseada na vigilância. O marketing dirigido a indivíduos na forma de publicidade direcionada e monitorizada pode dar origem a perguntas sobre se a tecnologia que é usada para influenciar uma entidade recetora cruza os limites para o que constitui influência ou pressão injusta e ilegal.  
 
+Questões podem ser levantadas sobre se certas formas de publicidade alicerçadas em vigiar o consumidor cumprem os critérios para práticas comerciais agressivas no âmbito do Lei de Controlo de Marketing.[112](#112) Esta disposição destina-se ao marketing que emprega medidas que são consideradas ofensivas para reconhecidas normas sociais generalizadas.  
+
 !!  
 !!  
 !!  
 !!
-
-Podem ser levantadas questões sobre se certas formas de vigilância baseadas publicidade satisfaz os critérios para práticas comerciais agressivas no âmbito do Lei de Controlo de Marketing.[112](#112) Esta disposição destina-se ao marketing que emprega medidas que são consideradas ofensivas para reconhecido e generalizado normas sociais.  
 
 No entanto, a UCPD está predominantemente preocupada com o conteúdo e forma de atividades de marketing e materiais. As numerosas questões problemáticas que surgem da utilização da publicidade baseada na vigilância não estão necessariamente ligadas ao conteúdo do marketing, mas sim para os meios de entrega de anúncios, incluindo o processo de decidir que anúncio para mostrar a que pessoa em que tempo. Isto, em além da natureza fugaz da publicidade baseada em vigilância, pode significar que a UCPD não é adequada para o fim de regular esta área específica.  
 
