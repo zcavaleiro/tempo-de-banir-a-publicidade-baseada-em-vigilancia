@@ -17,6 +17,11 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - Publicidade baseada em Espionagem
 - Espionagem com base na publicidade
 - first party data e thrid party data...traduções em pt nao estão muito bem
+-
+- rever uso palavras: proibir e  vigilância (muitas) - para sinónimos
+  - Proibir: vetar impedir interditar restringir
+  - vigilância: monitorização observação 
+
 
 [melhorias estrutura do MD]
 - indices
@@ -196,13 +201,15 @@ O âmbito da recolha e partilha de dados é tão vasto que se torna praticamente
 #### Como é que o risco de violações da privacidade e proteção de dados será resolvido por uma proibição?
 Os riscos da publicidade baseada na vigilância para a privacidade e proteção de dados são já amplamente regulados na Europa através do *ePrivacy Diretive* e do RGPD. Após a entrada em aplicação do RGPD em 2018, execução da lei tem sido, infelizmente, lenta e em alguns casos inexistente, com estrangulamentos significativos na aplicação transfronteiriça. Simultaneamente, há poucos indicadores de que a proliferação da economia de vigilância tenha abrandado, apesar da regulação mais forte. Isto resultou numa lacuna na aplicaçao transfronteiriça que precisa de ser urgentemente abordada.[[37]](#37)  
 
+
+Um veto à da publicidade que nos monitoriza seria positiva para, e para, complementar os direitos fundamentais à privacidade e proteção de dados pessoais que estão protegidos ao abrigo da *Charter*, do RGPD e da *ePrivacy Diretive*. Apesar da introdução do RGPD, muitos intervenientes na economia de vigilância têm operado em grande parte sob o a "norma" -  negócios como de costume, embora se tenha observado que alguns atores introduziram mudanças relativamente pequenas na forma como pedem o consentimento para o tratamento de dados pessoais. Outros simplesmente tentaram passar para uma base legal diferente para o tratamento de dados.[[38]](#38)  
+
+
+O fosso de aplicação transfronteiriça do RGPD e o surgimento de novos desafios que vão além da proteção de dados pessoais têm demonstrado que há uma necessidade para uma abordagem mais sistémica e preventiva, e uma interdição geral pode forçar transformação estrutural abrangente dos modelos de negócio de vigilância. Como complemento a uma interdição, é necessário reforçar a aplicação da lei autoridades e procedimentos, tanto no RGPD como *ePrivacy Diretive* (ou uma nova ePrivacy Regulamento que substituirá a diretiva)[[39]](#39), e no próxima Lei dos Serviços Digitais.  
+
 !!  
 !!  
 !! 
-
-Uma proibição geral da publicidade baseada na vigilância seria positiva para, e ainda, complementar os direitos fundamentais à privacidade e proteção de dados pessoais que estão protegidos ao abrigo da *Charter*, do RGPD e da *ePrivacy diretive*. Apesar da introdução do RGPD, muitos intervenientes na economia de vigilância têm operado em grande parte sob o pretexto de negócios como de costume, embora tenhamos observado que alguns atores introduziram mudanças relativamente menores na forma como pedem consentimento para o tratamento de dados pessoais. Outros simplesmente tentaram passar para uma base legal diferente para o tratamento de dados.[[38]](#38)  
-
-O fosso de aplicação transfronteiriça do RGPD e o surgimento de novos desafios que vão além da proteção de dados pessoais têm demonstrado que há uma necessidade para uma abordagem mais sistémica e preventiva, e uma proibição geral pode forçar transformação estrutural abrangente de modelos de negócio de vigilância. Como complemento a uma proibição, é necessário reforçar a aplicação da lei autoridades e procedimentos, tanto no RGPD como ePrivacy Diretiva (ou uma nova ePrivacy Regulamento que substituirá a diretiva)[[39]](#39), e no próxima Lei dos Serviços Digitais.  
 
 ### 4.3 Manipulação
 O aumento do marketing baseado na vigilância contribuiu para a tentativa manipulação de indivíduos e grupos numa escala sem precedentes. Empresas na posse de grandes quantidades de dados podem usar sistemas algorítmicos em tentativas para decidir quando os indivíduos são mais suscetíveis a comportar-se de determinadas maneiras ou a reagem a imagens, sons ou mensagens particulares.
