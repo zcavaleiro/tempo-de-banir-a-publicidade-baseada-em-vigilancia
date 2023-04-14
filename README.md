@@ -28,6 +28,11 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - referencias?
 
 
+[meus 2 exemplos contra "nothing to hide"]
+- caso empresa europeia de infertilização pagar adds para grupos de mulheres entre os 30 e 40 para deliberadamente fazer uma "vida de solteira".
+-  caso empresas de seguro com acesso a DNA do pai e mae poderem saber os riscos e futuras exclusões de um filho que ainda nao nasceu e que terá piores seguros.
+
+
 ````
 
 ## **Tabela de conteúdos**
@@ -228,26 +233,31 @@ Uma interdição geral da publicidade baseada na observação/monitorização n�
 A manipulação que acontece através de outras formas de publicidade, como o conteúdo marketing[49](#49), deve ser resolvido através de meios diferentes que não a interdição de vigilância publicitária, como por exemplo através de disposições previstas na Lei dos Serviços Digitais[50](#50) e numa revista *Unfair Commercial Practices Directive.*
 
 
-
-!!  
-!!  
-!!  
-!!  
-
-
 ### 4.4 Discriminação
-Para além de criar novas oportunidades para alcançar "a pessoa certa", a publicidade baseada na vigilância cria novas oportunidades para excluir e discriminar indivíduos e grupos.[51](#51) A automatização da publicidade permite isto numa escala crescente. Por exemplo, a Amnistia Internacional tem descreveu o modelo de negócio baseado na vigilância de empresas como o Google e Facebook como uma ameaça a uma série de direitos humanos fundamentais, incluindo liberdade de expressão e o direito à não discriminação, devido à forma como o modelo de negócio de vigilância cria efeitos arrepiantes e classifica indivíduos em grupos para fins de segmentagem.[52](#52)
-Segmentação e segmentação podem ser usadas para não exibir certos anúncios a particular pessoas ou grupos de consumidores. Por exemplo, os anunciantes podem escolher mostrar anúncios de habitação apenas para pessoas que se encaixam no seu perfil ideal para indivíduos que querem
-ter vivido em um certo bairro e excluir indivíduos "indesejáveis" que, no entanto, pode ser capaz de se dar ao luxo de viver lá. Da mesma forma, potencial os empregadores podem escolher que tipo de pessoas são mostradas certas listas de emprego, que pode, por exemplo, excluir potenciais candidatos femininos, quer deliberadamente ou através da discriminação algorítmica.[53](#53) Na verdade, tais escolhas serão necessariamente excluir alguns indivíduos ou grupos.[54](#54) Isto é exacerbado pelo nível de opacidade e a impossibilidade de saber quem está a ver o anúncio.
-É impossível para os consumidores saber que anúncio de emprego ou habitação são não ver. Enquanto o marketing tradicional pode ser observado olhando para o conteúdo e análise em retrospetiva, isto é muitas vezes inviável se o anúncio era apenas mostrado a um determinado consumidor ou grupo num determinado momento. Se discriminação está acontecendo como parte de processos algorítmicos automatizados, torna-se muito difícil de descobrir e remediar a questão. Assim, vigilância a publicidade pode contribuir para obscurecer discriminação ou exclusividade práticas porque as questões problemáticas acontecem dentro da 'caixa preta'. Este mina o direito à não discriminação, que é um ser humano fundamental Certo.
+Para além de criar novas oportunidades para alcançar "a pessoa certa", a publicidade baseada na vigilância cria novas oportunidades para excluir e discriminar indivíduos e grupos.[51](#51) A automatização da publicidade permite isto numa escala crescente. Por exemplo, a Amnistia Internacional descreveu o modelo de negócio baseado na vigilância de empresas como o Google e Facebook como uma ameaça a uma série de direitos humanos fundamentais, incluindo liberdade de expressão e o direito à não discriminação, devido à forma como o modelo de negócio de vigilância cria efeitos arrepiantes e classifica indivíduos em grupos para fins de segmentagem.[52](#52)  
+
+A segmentação e orientação podem ser usadas para não exibir certos anúncios a particular pessoas ou grupos de consumidores. Por exemplo, os anunciantes podem escolher mostrar anúncios de habitações apenas para pessoas que se encaixam no seu perfil ideal, para indivíduos que querem a viver num certo bairro e excluir indivíduos "indesejáveis" que, no entanto, pode ser capaz de se dar ao luxo de viver lá. Da mesma forma, potencial os empregadores podem escolher a que tipo de pessoas são mostradas certas ofertas de emprego, que pode, por exemplo, excluir potenciais candidatos femininos, quer deliberadamente ou através da discriminação algorítmica.[53](#53) Na verdade, tais escolhas vão necessariamente excluir alguns indivíduos ou grupos.[54](#54) Isto é amplificado pelo nível de opacidade e a impossibilidade de saber quem está a ver o anúncio. 
+
+
+É impossível para os consumidores saberem que anúncios de emprego ou habitação não estão ver. Enquanto o marketing tradicional pode ser observado olhando para o conteúdo e análise em retrospetiva, isto é muitas vezes inviável se o anúncio é apenas mostrado a um determinado consumidor ou grupo num determinado momento. Se discriminação está a acontecer como parte de processos algorítmicos automatizados, torna-se muito difícil de descobrir e remediar a questão. Assim, esta vigilância publicitária pode contribuir para obscurecer práticas de discriminação ou exclusão  porque as questões problemáticas acontecem dentro da 'caixa preta'. Esta mina o direito à não discriminação, que é um direito humano fundamental.
+
+
+Estas formas de discriminação e exclusão não se devem necessariamente a um ato deliberado de malícia por parte do anunciante; os algoritmos otimizando os anúncios podem estar automaticamente a facilitar estas práticas problemáticas.[55](#55) Levando a discriminação automatizada, por exemplo, fazendo da geolocalização um proxy (identificador) para atributos protegidos, tais como a etnia, a orientação sexual ou as crenças religiosas, porque os modelos estatísticos mostram que alguns grupos de pessoas têm sobreposição de atributos.[56](#56)  
 
 
 
-Estas formas de discriminação e exclusão não se devem necessariamente a ato deliberado de malícia por parte do anunciante; algoritmos otimizando o os anúncios podem estar automaticamente a facilitar práticas problemáticas.[55](#55) Isto pode levar a discriminação automatizada, por exemplo, fazendo da geolocalização um proxy para atributos protegidos, tais como a etnia, a orientação sexual ou as crenças religiosas, porque os modelos estatísticos mostram que alguns grupos de pessoas têm sobreposição atributos.[56](#56)
-Por outras palavras, mesmo que um sistema explicitamente proibido direcione os consumidores com base sobre crenças religiosas, o facto de que um indivíduo visita regularmente a geolocalização de uma mesquita ou usa uma certa aplicação de oração pode ser usado como um representante para o atributo "Muçulmano".[57](#57) Este tipo de automatização corre continuamente o risco de criar um novo proxy atributos à medida que o sistema evolui e decide quais os indivíduos que devem ver o que anúncios.
-A segmentação dos grupos de consumidores pode igualmente conduzir a preços individualizados de bens e serviços. Esta forma de discriminação de preços pode levar a injustiças diferenciação entre consumidores, dificultar a comparação de preços, e fazer os consumidores relutantes em comparar preços, porque pode afetar a final preço do produto ou serviço.[58](#58)
-Como é que as práticas discriminatórias seriam resolvidas com uma proibição?
-Uma proibição geral da publicidade baseada na vigilância facilitaria o levantamento e sancionar práticas de marketing discriminatórias e de exclusão. Isto seria contribuir para um mercado publicitário onde as práticas discriminatórias são mais efetivamente sancionado, o que ajudaria a proteger o fundamental dos consumidores direitos.[59](#59)
+Por outras palavras, mesmo que um sistema explicitamente proiba direcionar *adds* aos consumidores com base sobre crenças religiosas, o facto de que um indivíduo visita regularmente a geolocalização de uma mesquita ou usa uma certa aplicação de oração pode ser usado como um representante para o atributo "Muçulmano".[57](#57) Este tipo de automatização continuamente corre o risco de criar um novo proxy com  atributos à medida que o sistema evolui e decide que indivíduos devem ver determinados anúncios.  
+
+
+A segmentação dos grupos de consumidores pode igualmente conduzir a preços individualizados de bens e serviços. Esta forma de discriminação de preços pode levar a injustiças e diferenciação entre consumidores, dificultar a comparação de preços, e fazer os consumidores relutantes em comparar preços, porque pode afetar a final preço do produto ou serviço.[58](#58)  
+
+#### Como é que as práticas discriminatórias seriam resolvidas com um veto?
+Um veto geral da publicidade baseada na vigilância facilitaria o observação e sancionar práticas de marketing discriminatórias e de exclusão. Isto contribuiria para um mercado publicitário onde as práticas discriminatórias são mais efetivamente sancionadas, o que ajudaria a proteger o fundamental dos consumidores direitos.[59](#59)
+
+!!  
+!!  
+!!  
+!!  
 
 
 
