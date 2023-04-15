@@ -51,25 +51,25 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 4.3 [Manipulação](#quatrotres)  
 4.4 [Discriminação](#quatroquatro)  
 4.5 [Desinformação](#quatrocinco)  
-4.6 Efeitos anti concorrência  
-4.7 Fraude e perda de receitas  
-4.8 Riscos de segurança  
-4.9 Falta de confiança  
-4.10 Tecnologia ineficiente   
+4.6 [Efeitos anti concorrência](#quatroseis)  
+4.7 [Fraude e perda de receitas](#quatrosete)  
+4.8 [Riscos de segurança](#quatrooito)  
+4.9 [Falta de confiança](#quatronove)  
+4.10 [Tecnologia ineficiente](#quatrodez)   
 
-5. **Legislação atual**  
-5.1 Lei de privacidade e proteção de dados da UE  
-5.2 A Diretiva relativa às práticas comerciais desleais  
-5.3 Questões de execução  
+5. [**Legislação atual**](#cinco)  
+5.1 [Lei de privacidade e proteção de dados da UE](#cincoum)  
+5.2 [A Diretiva relativa às práticas comerciais desleais](#cincodois)  
+5.3 [Questões de execução](#cincotres)  
 
-6. **Conclusão**
+6. [**Conclusão**](#seis)
 
-7.  **Links**
+7.  [**Links**](#sete)
  
 ## 1. Resumo <a name="resumo"></a>
 
 
-A vigilância comercial e a exploração dos consumidores são agora a norma a internet. À medida que utilizamos os mais variados serviços digitais, estamos constantemente a ser monitorizados por um grande número de atores comerciais sob o pretexto de mostrar-nos mais publicidade relevante. É hora de dar um passo atrás e considerar os problemas que este modelo criou e para imaginar um novo normal que capacite e proteja os consumidores.
+A vigilância comercial e a exploração dos consumidores são agora a norma a internet. À medida que utilizamos os mais variados serviços digitais, estamos constantemente a ser monitorizados por um grande número de atores comerciais sob o pretexto de mostrar-nos mais publicidade relevante. É hora de dar um passo atrás e considerar os problemas que este modelo criou e imaginar um novo normal que capacite e proteja os consumidores.
 
 À medida que a vigilância comercial generalizada se infiltra em todos os aspetos do nosso dia-a-dia, torna-se claro que há uma necessidade de uma reforma sistémica da indústria de publicidade online. As discussões estão em curso na União Europeia sobre como lidar com a publicidade baseada em vigilância como parte da Lei Digital dos Serviços (Digital Services Act). Ao mesmo tempo, estão a decorrer discussões sobre a adoção federal legislação de privacidade e iniciativas legislativas para restringir a vigilância publicitária nos Estados Unidos, onde muitas das empresas envolvidas na publicidade baseada em monitorização está sediada. Estamos, portanto, diante de uma oportunidade legislativa única para resolver muitas questões prementes.
 
