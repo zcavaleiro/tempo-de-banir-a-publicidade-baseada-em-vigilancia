@@ -95,9 +95,8 @@ Nos capítulos seguintes, descrevemos vários aspetos destes desafios e evidenci
 A proibição das práticas baseadas em vigilância deve ser complementada por uma mais forte aplicação da legislação em vigor, incluindo a Proteção Geral de Dados Regulação, regulação da concorrência e práticas comerciais desleais. No entanto, a aplicação da lei atualmente consome tempo significativo e recursos, e geralmente acontece depois dos danos já terem sido feitos. Proibir a publicidade baseada em vigilância em geral vai forçar mudanças estruturais para a indústria publicitária e aliviar uma série de danos significativos para consumidores e para a sociedade em geral.
 
 A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.  
-
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
-<br>
+
  
 ## 2. Introdução <a name="introducao"></a>
 
@@ -145,8 +144,6 @@ Um grande número destas empresas terceiras estão simultaneamente a recolher gr
 A automatização do processo, permite monitorização e adaptação contínuas de formas publicitárias, que também permite aos anunciantes que meçam e escalem campanhas direcionados de diferentes maneiras. No entanto, como será explicado abaixo, o uso de a publicidade baseada em vigilância também coloca desafios significativos aos editores e anunciantes no que respeita a receitas, danos reputacionais e oferta a cadeias obscuras.  
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
 
-<br>
-
 ### 3.1 Formas alternativas de publicidade digital <a name="formas"></a> 
 
 Um argumento comum a favor da publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores destes serviços e de conteúdos e que levará a um aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9) Como será detalhado mais em baixo, este argumento é baseado na falácia que a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais.  
@@ -169,8 +166,6 @@ Diversas experiências de algumas editoras mostraram que remover a vigilância p
 Uma cadeia de actores mais transparente reduz também os gastos em terceiros, tais como corretores de dados ou serviços de verificação, o que significa que anunciantes e editores ficarão com uma maior parte das receitas. Para ilustrar este ponto, um 2020 estudo da indústria descobriu que sob o atual regime de publicidade digital, apenas metade de gastos de publicidade realmente chegou aos promotores, enquanto 15% do dinheiro estava desaparecido.[[16]](#16)  
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
 
-<br>
-
 ### 3.2 First-party and third-party data <a name="tresdois"></a>  
 Existem várias formas de publicidade baseada na vigilância, e os potenciais riscos e danos que causam podem variar. Algumas formas de publicidade baseadas em vigilância envolvem a transferência de grandes quantidades de dados pessoais para várias entidades terceiras (third-party) sem o conhecimento dos consumidores, criando uma série de riscos para privacidade e segurança. Em suma, aplica-se ao que é tipicamente chamado de publicidade com base em entidades terceiras de dados.  
 
@@ -183,8 +178,6 @@ Para além disto, em alguns casos, entidades terceiras de dados disfarçam-se co
 
 É portanto, crucial olhar para a publicidade baseada na vigilância de um ponto de vista holístico  – os riscos e efeitos nocivos desta tecnologia não se limitam a publicidade com base em dados em entidades terceiras. Não é tão simples afirmar que os dados em terceiros são um problema e os dados  consentidos na primeira pessoa sendo bons.  
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
-
-<br>
 
 ## 4. Efeitos negavitos da publicidade baseada na vigilância <a name="quatro"></a>   
 
