@@ -661,8 +661,8 @@ https://www.businessinsider.com/big-tech-private-data-facebook-google-apple-euro
 
 ---
 #### O porquê da tradução:
-- Como forma de disponibilizar a informação em lingua portuguesa para os interessados no ramo.
-- Como forma de esclarecer, revelar e apresentar um documento e um tema, privacidade de dados, que tem sido amplamente discutido e regulamentado pela união europeia.
+- Como forma de disponibilizar a informação em lingua portuguesa para os interessados no ramo, entre as quais, mais de 100 referências/links documentais.
+- Como forma de esclarecer, revelar e apresentar um documento e um tema, **privacidade de dados**, que tem sido amplamente discutido e regulamentado pela união europeia.
 - Os impactos/consequências da recolha massiva de dados sem controlo por parte dos utilizadores são inúmeros. Podemos considerar que destes existem dois grandes grupos. O grupo das consequências que já são conhecidas atualmente e o grupo de consequências ou impactos que a maioria dos mortais não tem nem terá conhecimento. Por exemplo, as consequências futuras, mesmo para individuos que ainda não nasceram, da falta de controle dos dados nos testes de DNA. [What if a simple DNA test could predict your future?](https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/634428/EPRS_ATA(2019)634428_EN.pdf)
 
 
