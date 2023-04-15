@@ -431,14 +431,10 @@ A publicidade baseada na vigilância causa violações dos direitos fundamentais
 
 A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banida totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma interdição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de apenas alguns actores.[114](#114)  
 
-!!  
-!!  
-!!  
-!!
+Um veto geral da publicidade baseada na vigilância forçava muitos atores da indústria a mudar os seus modelos de negócio. Estimularia o crescimento de tecnologias que respeitam os direitos dos consumidores e dos direitos fundamentais. Num cenário a longo prazo, ajudaria a restaurar a confiança dos consumidores nos serviços digitais. Esta seria uma mais valia para os consumidores, para as empresas e para a sociedade em geral.  
 
-Um veto geral da publicidade baseada na vigilância forçará muitos atores da indústria para mudar os seus modelos de negócio. Estimularia o crescimento das tecnologias que respeitam os direitos dos consumidores e dos direitos fundamentais. Num cenário a longo prazo, ajudaria a restaurar a confiança dos consumidores nos serviços digitais. Esta seria uma rede positivo para os consumidores, para as empresas e para a sociedade em geral.  
 
-Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe superado pelos danos, e a proibição é, portanto, a solução certa.  
+Incentivamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Políticas eficazes, regulação e execução para abordar a *tracking* comercial que penetra o nosso dia-a-dia há muito é devida. Como temos discutido ao longo de todo este relatório, os benefícios perceptíveis da publicidade baseada na vigilância estão longe de superar os danos, e a proibição é, portanto, a solução certa.  
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
 
 ## 7. Links <a name="sete"></a>   
