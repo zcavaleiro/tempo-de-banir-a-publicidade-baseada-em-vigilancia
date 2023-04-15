@@ -95,7 +95,11 @@ Nos capítulos seguintes, descrevemos vários aspetos destes desafios e evidenci
 A proibição das práticas baseadas em vigilância deve ser complementada por uma mais forte aplicação da legislação em vigor, incluindo a Proteção Geral de Dados Regulação, regulação da concorrência e práticas comerciais desleais. No entanto, a aplicação da lei atualmente consome tempo significativo e recursos, e geralmente acontece depois dos danos já terem sido feitos. Proibir a publicidade baseada em vigilância em geral vai forçar mudanças estruturais para a indústria publicitária e aliviar uma série de danos significativos para consumidores e para a sociedade em geral.
 
 A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.  
+
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
+
+<br>
+
  
 ## 2. Introdução <a name="introducao"></a>
 
@@ -122,7 +126,9 @@ Algumas das questões relacionadas com a publicidade baseada na vigilância já 
 
 Com isto em mente, é agora altura de proibir a publicidade baseada na vigilância. A proposta *Digtal Services Act* Lei de Serviços Digitais, que está atualmente a ser discutida pelos legisladores da EU, fornece uma oportunidade para fazê-lo. Além disso, alguns destes assuntoa poderiam e deveriam também ser abordadas noutros domínios, como os direitos dos consumidores, regras de privacidade digital (ePrivacy), lei de proteção de dados e regulação da Inteligência Artificial.    
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
- 
+
+<br>
+
 ## 3. O que é a "publicidade baseada na vigilância"? <a name="oquee"></a>
 
 Toda a publicidade é, de certa forma, direcionada. O contexto de um anúncio, o seu enquadramento e o seu design significam que qualquer anúncio é direcionado, e é visto mais frequentemente, em alguns grupos de consumidores do que outros. 
