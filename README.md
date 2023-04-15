@@ -1,7 +1,7 @@
 # É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
 ## Em construção, WIP. 
 
-Tradução do relatório para língua Portuguesa [Time to Ban Surveillance Based Advertising](https://fil.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf)
+Tradução autorizada do relatório para língua Portuguesa -  [Time to Ban Surveillance Based Advertising](https://fil.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf) do Institudo de defesa do consumidor Norueguês, [Forbrukerradet](https://www.forbrukerradet.no/).
 
 
 É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
