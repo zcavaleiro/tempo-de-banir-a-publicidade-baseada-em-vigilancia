@@ -43,8 +43,8 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 1. [Resumo](#resumo)  
 2. [Introdução](#introducao)  
 3. [O que é a "publicidade baseada na vigilância"?](#oquee)  
-    1 [Formas alternativas de publicidade digital](#formas)  
-    2 [Dados de primeira e de terceiros](#tresdois)  
+    3.1 [Formas alternativas de publicidade digital](#formas)  
+    3.2 [Dados de primeira e de terceiros](#tresdois)  
 4. [Efeitos nocivos da publicidade baseada na vigilância](#quatro)  
 4.1 [Falta de transparência](#quatroum)  
 4.2 [Violações da privacidade e proteção de dados](#quatrodois)  
@@ -135,7 +135,7 @@ Um grande número destas empresas terceiras estão simultaneamente a recolher gr
 A automatização do processo, permite monitorização e adaptação contínuas de formas publicitárias, que também permite aos anunciantes que meçam e escalem campanhas direcionados de diferentes maneiras. No entanto, como será explicado abaixo, o uso de a publicidade baseada em vigilância também coloca desafios significativos aos editores e anunciantes no que respeita a receitas, danos reputacionais e oferta a cadeias obscuras.  
 
 
-### 3.1 Formas alternativas de publicidade digital <a name="#formas"></a>  
+## 3.1 Formas alternativas de publicidade digital <a name="#formas"></a>  
 Um argumento comum a favor da publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores destes serviços e de conteúdos e que levará a um aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9) Como será detalhado mais em baixo, este argumento é baseado na falácia que a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais.  
 
 Outro argumento a favor de permitir a publicidade baseada em vigilância é que os consumidores consideram que os anúncios direcionados são úteis e positivos. Este argumento assume que a única alternativa à publicidade baseada na vigilância é mostrar aos consumidores anúncios completamente aleatórios e irrelevantes, o que seria um incómodo e impediria os consumidores de receber ofertas interessantes. Esta é outra premissa enganadora, pois não é uma questão de anúncios baseados em vigilância por um lado e arbitrariedade pelo outro.
@@ -155,7 +155,7 @@ Diversas experiências de algumas editoras mostraram que remover a vigilância p
 
 Uma cadeia de actores mais transparente reduz também os gastos em terceiros, tais como corretores de dados ou serviços de verificação, o que significa que anunciantes e editores ficarão com uma maior parte das receitas. Para ilustrar este ponto, um 2020 estudo da indústria descobriu que sob o atual regime de publicidade digital, apenas metade de gastos de publicidade realmente chegou aos promotores, enquanto 15% do dinheiro estava desaparecido.[[16]](#16)  
 
-### 3.2 First-party and third-party data <a name="#tresdois"></a>  
+## 3.2 First-party and third-party data <a name="#tresdois"></a>  
 Existem várias formas de publicidade baseada na vigilância, e os potenciais riscos e danos que causam podem variar. Algumas formas de publicidade baseadas em vigilância envolvem a transferência de grandes quantidades de dados pessoais para várias entidades terceiras (third-party) sem o conhecimento dos consumidores, criando uma série de riscos para privacidade e segurança. Em suma, aplica-se ao que é tipicamente chamado de publicidade com base em entidades terceiras de dados.  
 
 A escala da partilha de dados e dos atores envolvidos no serviço da publicidade baseada tracking com dados de terceiros é enorme. Por exemplo, um único anúnciante pode enviar centenas de biliões de "pedidos de oferta",*‘bid requests’*, contendo potencialmente quantidades significativas de dados pessoais para milhares de empresas em cada dia. Na prática, isto significa que centenas de triliões de pontos de dados são partilhados com um número desconhecido de empresas de terceiros todos os anos no que tem sido descrito como "a maior violação de dados alguma vez registada".[[17]](#17)  
