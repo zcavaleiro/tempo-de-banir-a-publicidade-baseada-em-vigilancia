@@ -35,6 +35,12 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 - Como forma de esclarecer, revelar e apresentar um documento e um tema, privacidade de dados, que tem sido amplamente discutido e regulamentado pela união europeia.
 - Os impactos/consequências da recolha massiva de dados sem controlo por parte dos utilizadores são inúmeros. Podemos considerar que destes existem dois grandes grupos. O grupo das consequências que já são conhecidas atualmente e o grupo de consequências ou impactos que a maioria dos mortais não tem nem terá conhecimento. Por exemplo, as consequências futuras, mesmo para individuos que ainda não nasceram, da falta de controle dos dados nos testes de DNA. [What if a simple DNA test could predict your future?](https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/634428/EPRS_ATA(2019)634428_EN.pdf)
 
+<div dir=rtl>
+Autor da tradução: </br>
+<i>Zito Cavaleiro</i>  </br>
+Professor de Matemática e Ciências da Natureza</br>
+IT Automation Engineer </div>
+
 <div style="text-align: right"> Autor da tradução: </br>
 <i>Zito Cavaleiro</i>  </br>
 Professor de Matemática e Ciências da Natureza</br>
