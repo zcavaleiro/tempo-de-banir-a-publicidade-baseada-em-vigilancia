@@ -433,8 +433,8 @@ Uma proibição geral da publicidade baseada na vigilância forçará muitos ato
 
 Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe superado pelos danos, e a proibição é, portanto, a solução certa.
 
-## 7. Links <a name="sete"></a> 
-
+## 7. Links <a name="sete"></a>   
+<a href="#top">Back to top</a>  
 <a id="1">[1]</a> A "economia de vigilância" é um termo abrangente para a economia digital com base na monitorização dos consumidores e comercialização de dados pessoais, e abrange processos como recolher, processar, partilhar, comprar e vender dados pessoais.  
 <a id="2">[2]</a> *Out of Control*. Forbrukerrådet. 
 https://www.forbrukerradet.no/out-of-control/  
