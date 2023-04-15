@@ -1,10 +1,10 @@
-# É TEMPO DE PROIBIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
+# É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
 ## Em construção, WIP. 
 
 Tradução do relatório para língua Portuguesa [Time to Ban Surveillance Based Advertising](https://fil.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf)
 
 
-É TEMPO DE PROIBIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
+É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
 
 O caso contra a vigilância comercial online
 Junho de 2021
@@ -28,7 +28,8 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
 - referencias?
 
 
-[meus 2 exemplos contra "nothing to hide"]
+[meus 2 exemplos contra "nothing to hide", "não tenho nada a esconder"]
+
 - caso empresa europeia de infertilização pagar adds para grupos de mulheres entre os 30 e 40 para deliberadamente fazer uma "vida de solteira". Uso de psicologia reversa com segundas intenções nao necessáriamente a favor do consumidor.
 
 -  caso empresas de com acesso a DNA do, por exemplo, seguros de pai e mae, poderem saber os riscos e futuras exclusões de um filho que ainda nao nasceu e que terá piores ou nehum seguro. Uma escola limitada etc.
@@ -116,7 +117,7 @@ Algumas das questões relacionadas com a publicidade baseada na vigilância já 
 Com isto em mente, é agora altura de proibir a publicidade baseada na vigilância. A proposta *Digtal Services Act* Lei de Serviços Digitais, que está atualmente a ser discutida pelos legisladores da EU, fornece uma oportunidade para fazê-lo. Além disso, alguns destes assuntoa poderiam e deveriam também ser abordadas noutros domínios, como os direitos dos consumidores, regras de privacidade digital (ePrivacy), lei de proteção de dados e regulação da Inteligência Artificial.  
 
  
-## 3 O que é a "publicidade baseada na vigilância"? <a name="oquee"></a>
+## 3. O que é a "publicidade baseada na vigilância"? <a name="oquee"></a>
 
 Toda a publicidade é, de certa forma, direcionada. O contexto de um anúncio, o seu enquadramento e o seu design significam que qualquer anúncio é direcionado, e é visto mais frequentemente, em alguns grupos de consumidores do que outros. 
 ````
@@ -167,7 +168,7 @@ Para além disto, em alguns casos, entidades terceiras de dados disfarçam-se co
 É portanto, crucial olhar para a publicidade baseada na vigilância de um ponto de vista holístico  – os riscos e efeitos nocivos desta tecnologia não se limitam a publicidade com base em dados em entidades terceiras. Não é tão simples afirmar que os dados em terceiros são um problema e os dados  consentidos na primeira pessoa sendo bons.  
 
 
-## 4 Efeitos negavitos da publicidade baseada na vigilância <a name="#quatro"></a>  
+## 4. Efeitos negavitos da publicidade baseada na vigilância <a name="#quatro"></a>  
 
 Apesar da publicidade com base na vigilância dos utilizadores da web seja por vezes apresentada como uma troca, onde os consumidores são diretamente expostos à publicidade direcionada em troca de serviços "gratuitos", esta é uma premissa instável. Embora muitos serviços online sejam apresentados como "grátis" para o consumidor, as receitas/lucros são impulsionadas pela venda da atenção que o consumidor dá, ilustrado pelos 400 mil milhões de dollars que a Google lucrou em receitas publicitárias no primeiro trimestre de 2021.[[23]](#23)  
 
@@ -378,7 +379,7 @@ Há também sérias ineficiências no poder computaçional e no uso de energia d
 Uma restrição geral da publicidade baseada na vigilância limitará as oportunidades tecnologias de vender a "banha da cobra" que prometem muito mais do que podem entregar a anunciantes e editores. Isto pode reduzir a perda de receitas para anunciantes e editores e ajudar a proteger os consumidores contra decisões baseadas em tecnologias defeituosos e suposições.
 O impacto ambiental da publicidade baseada na vigilância pode ser reduzido da pegada de carbono excessiva, mas outras medidas complementares são necessárias para lidar com os níveis de emissão dos centros de dados e inteligência artificial.
 
-## 5 Legislação em vigor
+## 5. Legislação em vigor
 Como descrito acima, o veto da publicidade baseada na vigilância não é uma cura ou solução para todos. Os serviços digitais já estão sujeitos a uma série de regras e regulamentos na UE, e uma proibição seria complementar ao enquadramento legal existente. Na secção seguinte, a proteção de dados europeia existente e direito dos consumidores é discutido em relação aos prejuízos decorrentes da vigilância publicitária.
  
  
@@ -399,28 +400,30 @@ A UCPD é neutra em tecnologia, e pode, em teoria, ser usada em casos que dizem 
 
 Questões podem ser levantadas sobre se certas formas de publicidade alicerçadas em vigiar o consumidor cumprem os critérios para práticas comerciais agressivas no âmbito do Lei de Controlo de Marketing.[112](#112) Esta disposição destina-se ao marketing que emprega medidas que são consideradas ofensivas para reconhecidas normas sociais generalizadas.  
 
+No entanto, a UCPD está predominantemente preocupada com o conteúdo e forma das atividades de marketing e materiais. As numerosas questões problemáticas que surgem da utilização da publicidade baseada na vigilância não estão necessariamente ligadas ao conteúdo do marketing, mas sim para os meios de entrega de anúncios, incluindo o processo de decidir que anúncio mostrar a que pessoa em que tempo. Isto, e a natureza fugaz da publicidade baseada em vigilância, pode significar que a UCPD não é adequada para o fim de regular esta área específica.  
+
+Pelo nosso conhecimento, nenhuma decisão sobre publicidade baseada em vigilância foi emitida pelas autoridades de defesa do consumidor.
+
+
+## 5.3 Questões de execução
+Embora o RGPD estabeleça requisitos rigorosos para o tratamento de dados pessoais, o regulamento não foi o suficiente para parar recolha ilegal de dados generalizados e perfis de consumidores. As razões para esta deficiência estão nas empresas que não cumpriram as regras e tem sofrido sérios estrangulamentos de execução transfronteiriça e falta da sua própria aplicação.  
+
+O RGPD introduziu novos mecanismos de execução que procuraram facilitar a aplicação transfronteiriça, mas até agora isso não funcionou como desejado. Por exemplo, um grande número de queixas legais foram passadas para a Comissão de Proteção de Dados Irlandeses, uma vez que muitas das grandes empresas tecnológicas têm a sua europa sede na Irlanda. Isto levou a que as queixas não fossem tratadas e a atrasos graves nas decisões.[113](#113) Simultaneamente, as empresas continuam a operar mesmo depois de violações em larga escala do RGPD, uma vez que a probabilidade de uma rápida decisão ou coima administrativa é relativamente pequena.  
+
+
 !!  
 !!  
 !!  
 !!
 
-No entanto, a UCPD está predominantemente preocupada com o conteúdo e forma de atividades de marketing e materiais. As numerosas questões problemáticas que surgem da utilização da publicidade baseada na vigilância não estão necessariamente ligadas ao conteúdo do marketing, mas sim para os meios de entrega de anúncios, incluindo o processo de decidir que anúncio para mostrar a que pessoa em que tempo. Isto, em além da natureza fugaz da publicidade baseada em vigilância, pode significar que a UCPD não é adequada para o fim de regular esta área específica.  
-
-Pelo nosso conhecimento, nenhuma decisão sobre publicidade baseada em vigilância foi emitida pelas autoridades de defesa do consumidor.
-
-## 5.3 Questões de execução
-Embora o RGPD estabeleça requisitos rigorosos para o tratamento de dados pessoais, o regulamento não foi suficiente para parar os dados ilegais generalizados recolha e perfis de consumidores. As razões para esta deficiência são que empresas não cumpriram as regras e tem havido sério transfronteiriço estrangulamentos de execução e falta de aplicação.  
-
-O RGPD introduziu novos mecanismos de execução que procuraram facilitar Aplicação transfronteiriça, mas até agora isso não funcionou como pretendido. Para exemplo, um grande número de queixas legais foram passadas para os Dados Irlandeses Comissão de Proteção, uma vez que muitas grandes empresas tecnológicas têm a sua europa sede na Irlanda. Isto levou a que as queixas não fossem tratadas e a atrasos graves nas decisões.[113](#113) Simultaneamente, as empresas continuam a operar mesmo depois de violações em larga escala do RGPD, uma vez que a probabilidade de um rápido decisão ou coima administrativa é relativamente pequena.  
-
-Execução da UCPD contra infrações na área de vigilância a publicidade não teve, pelo que sabemos, ocorrido. Penalização isolado infrações é um processo demorado, e só acontece após o Ocorreu uma infração e os danos já foram causados. Na prática, isto significa que um grande número de empresas estão se safando com quebra a lei. O facto de o marketing em si ser personalizado e fugaz, uma vez que é apenas mostrado a pessoas particulares em determinados pontos no tempo, faz o controlo e execução difícil. Além disso, invasivo e problemático vigilância a publicidade não pode necessariamente violar a UCPD, uma vez que o conteúdo e forma de um certo anúncio pode estar fora do âmbito da lei ainda ser prejudicial
+A aplicação da UCPD contra infrações na área da vigilância publicitaria não teve, pelo que sabemos, ocorrido. Penalizar infrações isoladas é um processo demorado, e só acontece após o ocorrência de uma infração e os danos já foram causados. Na prática, isto significa que um grande número de empresas estão a escapar-se a lei. O facto de o marketing em si ser personalizado e fugaz, uma vez que é apenas mostrado a pessoas particulares em determinados pontos no tempo, faz o controlo e execução difícil. Além disso, invasivo e problemático vigilância a publicidade não pode necessariamente violar a UCPD, uma vez que o conteúdo e forma de um certo anúncio pode estar fora do âmbito da lei ainda ser prejudicial
 na forma como o anúncio foi entregue ou como o destinatário foi escolhido. 
 
 A falta de execução do RGPD também levou a uma situação em que uma grande número de atores têm sido capazes de continuar a operar ilegalmente sem enfrentar quaisquer consequências significativas. Modelos onde os perfis são criados e armazenados localmente em dispositivos de consumo pode ou não reduzir riscos de privacidade, mas a utilização de personalização e individualização ainda carrega problemas relacionados com discriminação, manipulação ou exclusão, e também é muito difícil de controlar ou verificar.  
 
 Uma vez que investigar casos individuais de violações requer tempo considerável e recursos e vem depois do facto, é pertinente considerar se mais são necessários remédios abrangentes para travar a utilização de vigilância baseada em publicidade. Em vez de considerar casos individuais de marketing, um geral A proibição da publicidade baseada na vigilância deve ser considerada. Isto seria contribuir para uma aplicação mais eficiente e rápida, e enviaria um forte sinal para o marketing e adtech indústria.
  
-## 6 Conclusão
+## 6. Conclusão
 A publicidade baseada na vigilância causa violações dos direitos fundamentais, fraude generalizada e perda de receitas, e tem contribuído para uma série de efeitos individuais e sociais negativos. Apesar dos repetidos avisos, multas, escândalos, e revelações, a indústria tem mostrado pouca vontade de alterar significativamente as suas práticas, e é questionável se significativo as alterações a partes do sector são mesmo possíveis sem uma reforma fundamental.  
 
 A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banido totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma proibição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de alguns jogadores.[114](#114)  
@@ -429,7 +432,7 @@ Uma proibição geral da publicidade baseada na vigilância forçará muitos ato
 
 Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe superado pelos danos, e a proibição é, portanto, a solução certa.
 
-## 7 Links
+## 7. Links
 
 <a id="1">[1]</a> A "economia de vigilância" é um termo abrangente para a economia digital com base na monitorização dos consumidores e comercialização de dados pessoais, e abrange processos como recolher, processar, partilhar, comprar e vender dados pessoais.  
 <a id="2">[2]</a> *Out of Control*. Forbrukerrådet. 
