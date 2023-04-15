@@ -24,10 +24,6 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
   - vigilância: monitorização observação espiar inspecionar, olhar constante
 
 
-[melhorias estrutura do doc]
-- 
-- voltar ao topo alinhado à direita
-
 ````
 ---
 #### 0.  Porque da tradução:
@@ -426,21 +422,21 @@ A aplicação da UCPD contra infrações na área da vigilância publicitaria n�
 
 A falta de execução do RGPD também levou a uma situação em que um grande número de atores têm sido capazes de continuar a operar ilegalmente sem enfrentar quaisquer consequências significativas. Modelos onde os perfis de utilizadores são criados e armazenados localmente nos dispositivos do consumidor pode ou não reduzir riscos de privacidade, mas a utilização de personalização e individualização ainda tem problemas relacionados com discriminação, manipulação ou exclusão, e também é muito difícil de controlar ou verificar.  
 
+Uma vez que investigar os casos individuais destas violações requer um tempo e recuros consideráveis e no entanto acontecem depois do acto, é pertinente considerar se são necessários mais medidas abrangentes para travar a utilização de vigilância baseada em publicidade. Em vez de considerar casos individuais de marketing, a geral interdição da publicidade baseada na vigilância deve ser considerada. Isto contribuiria para uma aplicação mais eficiente e rápida, e enviaria um forte sinal para o marketing e para a indústria da publicidade online, *adtech*.  
+<div dir=rtl> <a href="#top">Voltar ao início</a> </div> 
+
+
+## 6. Conclusão <a name="seis"></a> 
+A publicidade baseada na vigilância causa violações dos direitos fundamentais, fraude generalizada e perda de receitas, tem contribuído para uma série de efeitos individuais e sociais negativos. Apesar dos repetidos avisos, multas, escândalos, e revelações, a indústria tem mostrado pouca vontade de alterar significativamente as suas práticas, e é questionável se significativas alterações a partes do sector são mesmo possíveis sem uma reforma fundamental.  
+
+A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banida totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma interdição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de apenas alguns actores.[114](#114)  
+
 !!  
 !!  
 !!  
 !!
 
-Uma vez que investigar casos individuais de violações requer tempo considerável e recursos e vem depois do facto, é pertinente considerar se mais são necessários remédios abrangentes para travar a utilização de vigilância baseada em publicidade. Em vez de considerar casos individuais de marketing, um geral A proibição da publicidade baseada na vigilância deve ser considerada. Isto seria contribuir para uma aplicação mais eficiente e rápida, e enviaria um forte sinal para o marketing e adtech indústria.  
-<div dir=rtl> <a href="#top">Voltar ao início</a> </div> 
-
-
-## 6. Conclusão <a name="seis"></a> 
-A publicidade baseada na vigilância causa violações dos direitos fundamentais, fraude generalizada e perda de receitas, e tem contribuído para uma série de efeitos individuais e sociais negativos. Apesar dos repetidos avisos, multas, escândalos, e revelações, a indústria tem mostrado pouca vontade de alterar significativamente as suas práticas, e é questionável se significativo as alterações a partes do sector são mesmo possíveis sem uma reforma fundamental.  
-
-A legislação nesta área é fragmentada e em grande parte baseada na aplicação da lei após os danos já foram feitos. É, portanto, oportuno perguntar se publicidade baseada em vigilância deve ser banido totalmente, de modo a evitar o problemas que estão a ser causados em primeiro lugar. Uma proibição também contribuiria para nivelamento do campo de jogo na publicidade digital e maximizar receitas para anunciantes e editores que atualmente estão nas mãos de alguns jogadores.[114](#114)  
-
-Uma proibição geral da publicidade baseada na vigilância forçará muitos atores da indústria para mudar os seus modelos de negócio. Estimularia o crescimento das tecnologias que respeitam os direitos dos consumidores e dos direitos fundamentais. Num cenário a longo prazo, ajudaria a restaurar a confiança dos consumidores nos serviços digitais. Esta seria uma rede positivo para os consumidores, para as empresas e para a sociedade em geral.  
+Um veto geral da publicidade baseada na vigilância forçará muitos atores da indústria para mudar os seus modelos de negócio. Estimularia o crescimento das tecnologias que respeitam os direitos dos consumidores e dos direitos fundamentais. Num cenário a longo prazo, ajudaria a restaurar a confiança dos consumidores nos serviços digitais. Esta seria uma rede positivo para os consumidores, para as empresas e para a sociedade em geral.  
 
 Exortamos os decisores políticos de ambos os lados do Atlântico a decretar regulamentos rigorosos para refrear os muitos danos da publicidade baseada na vigilância. Política eficaz, regulação e execução para abordar a vigilância comercial que penetra o nosso dia-a-dia há muito que devia. Como temos discutido ao longo de todo este relatório, quaisquer benefícios percebidos da publicidade baseada na vigilância estão longe superado pelos danos, e a proibição é, portanto, a solução certa.  
 <div dir=rtl> <a href="#top">Voltar ao início</a> </div>
