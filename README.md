@@ -37,14 +37,9 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 
 <div style="text-align: right"> Autor da tradução: </br>
 <i>Zito Cavaleiro</i>  </br>
-
 Professor de Matemática e Ciências da Natureza</br>
 IT Automation Engineer </div>
 
-Autor da tradução:
-*Zito Cavaleiro*
- - Professor de Matemática e Ciências da Natureza
- - IT Automation Engineer
 ---
 ## **Tabela de conteúdos**
 
