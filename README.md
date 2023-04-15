@@ -11,7 +11,7 @@ Junho de 2021
 
 ````
 [Título/expressão tradução]
-Mudar a traduçao "publicidade baseada em vigilência" para: ???
+Mudar a traduçao "publicidade baseada em vigilância" para: ???
 - Vigilância publicitária
 - Vigilância em nome da publicidade
 - Publicidade baseada em Espionagem
@@ -23,9 +23,9 @@ Mudar a traduçao "publicidade baseada em vigilência" para: ???
   - vigilância: monitorização observação espiar inspecionar, olhar constante
 
 
-[melhorias estrutura do MD]
-- indices
-- referencias?
+[melhorias estrutura do doc]
+- 
+- voltar ao topo alinhado a direita
 
 
 [meus 2 exemplos contra "nothing to hide", "não tenho nada a esconder"]
