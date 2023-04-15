@@ -97,7 +97,7 @@ A proibição das práticas baseadas em vigilância deve ser complementada por u
 A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.  
 <a href="#top"  style="float: right;">Voltar ao início</a> 
 <div style="text-align: right"> Voltar ao início.. </div>
-
+<div dir=rtl> <a href="#top">Voltar ao início</a> </div>
  
 ## 2. Introdução <a name="introducao"></a>
 
