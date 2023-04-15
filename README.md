@@ -111,10 +111,8 @@ Com isto em mente, é agora altura de proibir a publicidade baseada na vigilânc
 ## 3. O que é a "publicidade baseada na vigilância"? <a name="oquee"></a>
 
 Toda a publicidade é, de certa forma, direcionada. O contexto de um anúncio, o seu enquadramento e o seu design significam que qualquer anúncio é direcionado, e é visto mais frequentemente, em alguns grupos de consumidores do que outros. 
-````
-Isto também se aplica à 'tradicional' publicidade ou marketing offline, onde estes agentes compram acessos a determinados grupos de consumidores quando decidem onde querem colocar a sua anúncios.
-This also applies to ‘traditional’ offline marketing, where advertisers purchase access to certain consumer groups’ attention when they decide where they want to place their ads.
-````
+Isto também se aplica à publicidade "tradicional" ou ao marketing offline, onde estes agentes compram acessos a determinados grupos de consumidores quando decidem onde querem colocar os sues anúncios.
+
 Perante este contexto, usamos o termo "publicidade baseada na vigilância" como um termo envolvente para a publicidade digital que é dirigido a indivíduos ou segmentos de consumidores, geralmente através de rastreio e *profiling* com base em dados pessoais.
 A publicidade baseada na vigilância pressupõe um marketing comportamental, personalizado e direcionado . No marketing tradicional offline, os anúncios são colocados num pré-determinado contexto, por exemplo, ao comprar um espaço de anúncio numa revista de automóveis com o objetivo de chegar aos consumidores interessados em carros. A publicidade baseada em vigilância é diferente, porque o anúncio é pré-direcionado para um indivíduo ou grupo baseado em características do indivíduo ou grupo. O contexto ou sítio onde o anúncio é colocado pode ser aleatório porque já tem como alvo o consumidor e porque "o anúncio" pode seguir o consumidor em diferentes contextos.  
 
