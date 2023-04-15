@@ -27,15 +27,22 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 - 
 - voltar ao topo alinhado a direita
 
+[Porque da tradução:]
+- Como forma de disponibilizar a informação em lingua portuguesa para os interessados no ramo.
+- Como forma de esclarecer, revelar e apresentar um documento e um tema, privacidade de dados, que tem sido discutido amplamente e regulamentado pela união europeia.
+- Os impactos/consequências da recolha massiva de dados sem controlo por parte dos utilizadores são inúmeros. Pessoalmente, considero que destes existem dois grupos. O grupo impactos que já são conhecidos atualmente e o grupo de consequências que a maioria dos mortais nao tem nem terá conhecimento.  
 
 [meus 2 exemplos contra "nothing to hide", "não tenho nada a esconder"]
 
 - caso empresa europeia de infertilização pagar adds para grupos de mulheres entre os 30 e 40 para deliberadamente fazer uma "vida de solteira". Uso de psicologia reversa com segundas intenções nao necessáriamente a favor do consumidor.
 
--  caso empresas de com acesso a DNA do, por exemplo, seguros de pai e mae, poderem saber os riscos e futuras exclusões de um filho que ainda nao nasceu e que terá piores ou nehum seguro. Uma escola limitada etc.
+-  caso empresas de com acesso a DNA do, por exemplo, seguros de pai e mae, poderem saber os riscos e futuras exclusões de um filho que ainda não nasceu e que terá piores ou nenhum seguro . Uma escola limitada etc.
 (What if a simple DNA test could predict your future?)[https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/634428/EPRS_ATA(2019)634428_EN.pdf]
 
-
+Autor da tradução:
+*Zito Cavaleiro*
+ - Professor de Matemática e Ciências da Natureza
+ - IT Automation Engineer
 ````
 
 ## **Tabela de conteúdos**
