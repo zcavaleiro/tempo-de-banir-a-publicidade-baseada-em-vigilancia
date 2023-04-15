@@ -135,7 +135,7 @@ Um grande número destas empresas terceiras estão simultaneamente a recolher gr
 A automatização do processo, permite monitorização e adaptação contínuas de formas publicitárias, que também permite aos anunciantes que meçam e escalem campanhas direcionados de diferentes maneiras. No entanto, como será explicado abaixo, o uso de a publicidade baseada em vigilância também coloca desafios significativos aos editores e anunciantes no que respeita a receitas, danos reputacionais e oferta a cadeias obscuras.  
 
 
-## 3.1 Formas alternativas de publicidade digital <a id="#formas"></a>  
+### Formas alternativas de publicidade digital <a id="#formas"></a>  
 Um argumento comum a favor da publicidade baseada em vigilância é que uma proibição terá consequências negativas para os prestadores destes serviços e de conteúdos e que levará a um aumento dos custos para os consumidores, uma vez que a maioria dos serviços "gratuitos" online são financiados por anúncios.[[9]](#9) Como será detalhado mais em baixo, este argumento é baseado na falácia que a publicidade baseada na vigilância é a única forma viável de financiar conteúdos digitais.  
 
 Outro argumento a favor de permitir a publicidade baseada em vigilância é que os consumidores consideram que os anúncios direcionados são úteis e positivos. Este argumento assume que a única alternativa à publicidade baseada na vigilância é mostrar aos consumidores anúncios completamente aleatórios e irrelevantes, o que seria um incómodo e impediria os consumidores de receber ofertas interessantes. Esta é outra premissa enganadora, pois não é uma questão de anúncios baseados em vigilância por um lado e arbitrariedade pelo outro.
