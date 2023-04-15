@@ -10,7 +10,7 @@ O caso contra a vigilância comercial online, Junho de 2021
 
 
 ````
-TO REMOVE
+## TODO... TO REMOVE
 [Título/expressão tradução]
 Mudar a traduçao "publicidade baseada em vigilância" para: ???
 - Vigilância publicitária
