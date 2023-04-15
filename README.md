@@ -6,8 +6,8 @@ Tradução autorizada do relatório: [Time to Ban Surveillance Based Advertising
 
 É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
 
-O caso contra a vigilância comercial online
-Junho de 2021
+O caso contra a vigilância comercial online, Junho de 2021
+
 
 ````
 TO REMOVE
