@@ -1,7 +1,7 @@
 # É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
 ## Em construção, WIP. 
 
-Tradução autorizada do relatório para língua Portuguesa -  [Time to Ban Surveillance Based Advertising](https://fil.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf) do Institudo de defesa do consumidor Norueguês, [Forbrukerradet](https://www.forbrukerradet.no/).
+Tradução autorizada do relatório: [Time to Ban Surveillance Based Advertising](https://fil.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf) do Conselho Norueguês do Consumidor [(Forbrukerradet)](https://www.forbrukerradet.no/) para língua Portuguesa.
 
 
 É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
@@ -40,12 +40,12 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 
 ## **Tabela de conteúdos**
 
-1. [Resumo](#resumo)  
-2. [Introdução](#introducao)  
-3. [O que é a "publicidade baseada na vigilância"?](#oquee)  
+1. [**Resumo**](#resumo)  
+2. [**Introdução**](#introducao)  
+3. [**O que é a "publicidade baseada na vigilância"?**](#oquee)  
     3.1 [Formas alternativas de publicidade digital](#formas)  
     3.2 [Dados de primeira e de terceiros](#tresdois)  
-4. [Efeitos nocivos da publicidade baseada na vigilância](#quatro)  
+4. [**Efeitos nocivos da publicidade baseada na vigilância**](#quatro)  
 4.1 [Falta de transparência](#quatroum)  
 4.2 [Violações da privacidade e proteção de dados](#quatrodois)  
 4.3 [Manipulação](#quatrotres)  
@@ -71,11 +71,11 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 
 A vigilância comercial e a exploração dos consumidores são agora a norma a internet. À medida que utilizamos os mais variados serviços digitais, estamos constantemente a ser monitorizados por um grande número de atores comerciais sob o pretexto de mostrar-nos mais publicidade relevante. É hora de dar um passo atrás e considerar os problemas que este modelo criou e imaginar um novo normal que capacite e proteja os consumidores.
 
-À medida que a vigilância comercial generalizada se infiltra em todos os aspetos do nosso dia-a-dia, torna-se claro que há uma necessidade de uma reforma sistémica da indústria de publicidade online. As discussões estão em curso na União Europeia sobre como lidar com a publicidade baseada em vigilância como parte da Lei Digital dos Serviços (Digital Services Act). Ao mesmo tempo, estão a decorrer discussões sobre a adoção federal legislação de privacidade e iniciativas legislativas para restringir a vigilância publicitária nos Estados Unidos, onde muitas das empresas envolvidas na publicidade baseada em monitorização está sediada. Estamos, portanto, diante de uma oportunidade legislativa única para resolver muitas questões prementes.
+À medida que a vigilância comercial se generalizada esta infiltra em inúmeros aspetos do nosso dia-a-dia, torna-se claro que há uma necessidade de uma reforma sistémica da indústria de publicidade online. As discussões estão em curso na União Europeia sobre como lidar com a publicidade baseada em vigilância como parte da Lei Digital dos Serviços (Digital Services Act). Ao mesmo tempo, estão a decorrer discussões sobre a adoção federal de legislação de privacidade e iniciativas legislativas para restringir a vigilância publicitária nos Estados Unidos, onde muitas das empresas envolvidas na publicidade baseada em monitorização está sediada. Estamos, portanto, diante de uma oportunidade legislativa única para resolver muitas questões prementes.
 
-O resultado destas discussões pode ter consequências significativas para o modelo de negócio da maioria dos conteúdos online, e os consumidores poderiam vir a beneficiar de uma nova abordagem preventiva. Este documento fornece uma visão geral dos desafios da publicidade baseada na vigilância, e pode assim ser considerado uma parte das discussões políticas em curso.
+O resultado destas discussões pode ter consequências significativas para o modelo de negócio da maioria dos conteúdos online, e os consumidores podem vir a beneficiar de uma nova abordagem preventiva. Este documento fornece uma visão geral dos desafios da publicidade baseada na vigilância, e pode assim ser considerado uma parte das discussões políticas em curso.
 
-Está a tornar-se claro que a maioria dos consumidores não quer ser rastreada e modelado para fins publicitários. Num inquérito populacional realizado pelo YouGov em nome do Conselho Norueguês do Consumidor, apenas um em cada dez inquiridos foram positivos para que os atores comerciais on-line recolham informações pessoais sobre eles, enquanto apenas um em cada cinco pensaram que receber anúncios com base em informações pessoais é aceitável. Isto assemelha-se a sondagens semelhantes de ambos os lados do Atlântico, e indica que os consumidores não consideram a vigilância comercial como uma troca aceitável para a possibilidade de ver anúncios personalizados.
+Está a tornar-se claro que a maioria dos consumidores não quer ser rastreado e modelado para fins publicitários. Num inquérito populacional realizado pelo YouGov em nome do Conselho Norueguês do Consumidor, apenas um em cada dez inquiridos foram positivos para que os atores comerciais on-line recolham informações pessoais sobre eles, enquanto apenas um em cada cinco pensaram que receber anúncios com base em informações pessoais é aceitável. Isto assemelha-se a sondagens semelhantes de ambos os lados do Atlântico, e indica que os consumidores não consideram a vigilância comercial como uma troca aceitável para a possibilidade de ver anúncios personalizados.
 
 Os desafios causados e profundidade da monitorização baseada em publicidade incluem, mas não se limitam a:
   - infrações à privacidade e proteção de dados
