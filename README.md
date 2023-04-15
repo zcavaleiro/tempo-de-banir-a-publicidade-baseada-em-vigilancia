@@ -156,7 +156,7 @@ Diversas experiências de algumas editoras mostraram que remover a vigilância p
 
 Uma cadeia de actores mais transparente reduz também os gastos em terceiros, tais como corretores de dados ou serviços de verificação, o que significa que anunciantes e editores ficarão com uma maior parte das receitas. Para ilustrar este ponto, um 2020 estudo da indústria descobriu que sob o atual regime de publicidade digital, apenas metade de gastos de publicidade realmente chegou aos promotores, enquanto 15% do dinheiro estava desaparecido.[[16]](#16)  
 
-## 3.2 First-party and third-party data <a name="#tresdois"></a>  
+## 3.2 First-party and third-party data <a name="tresdois"></a>  
 Existem várias formas de publicidade baseada na vigilância, e os potenciais riscos e danos que causam podem variar. Algumas formas de publicidade baseadas em vigilância envolvem a transferência de grandes quantidades de dados pessoais para várias entidades terceiras (third-party) sem o conhecimento dos consumidores, criando uma série de riscos para privacidade e segurança. Em suma, aplica-se ao que é tipicamente chamado de publicidade com base em entidades terceiras de dados.  
 
 A escala da partilha de dados e dos atores envolvidos no serviço da publicidade baseada tracking com dados de terceiros é enorme. Por exemplo, um único anúnciante pode enviar centenas de biliões de "pedidos de oferta",*‘bid requests’*, contendo potencialmente quantidades significativas de dados pessoais para milhares de empresas em cada dia. Na prática, isto significa que centenas de triliões de pontos de dados são partilhados com um número desconhecido de empresas de terceiros todos os anos no que tem sido descrito como "a maior violação de dados alguma vez registada".[[17]](#17)  
@@ -169,7 +169,7 @@ Para além disto, em alguns casos, entidades terceiras de dados disfarçam-se co
 É portanto, crucial olhar para a publicidade baseada na vigilância de um ponto de vista holístico  – os riscos e efeitos nocivos desta tecnologia não se limitam a publicidade com base em dados em entidades terceiras. Não é tão simples afirmar que os dados em terceiros são um problema e os dados  consentidos na primeira pessoa sendo bons.  
 
 
-## 4. Efeitos negavitos da publicidade baseada na vigilância <a name="#quatro"></a>  
+## 4. Efeitos negavitos da publicidade baseada na vigilância <a name="quatro"></a>  
 
 Apesar da publicidade com base na vigilância dos utilizadores da web seja por vezes apresentada como uma troca, onde os consumidores são diretamente expostos à publicidade direcionada em troca de serviços "gratuitos", esta é uma premissa instável. Embora muitos serviços online sejam apresentados como "grátis" para o consumidor, as receitas/lucros são impulsionadas pela venda da atenção que o consumidor dá, ilustrado pelos 400 mil milhões de dollars que a Google lucrou em receitas publicitárias no primeiro trimestre de 2021.[[23]](#23)  
 
@@ -184,7 +184,7 @@ Para os efeitos deste documento, o Conselho Norueguês do Consumidor analisou um
 
 O marketing baseado na vigilância também tem efeitos nocivos significativos nos atores empresariais. Os comportamentos de anticoncorrencia e os seus efeitos servem para fundamentar posições dominantes dos atores, enquanto que cadeias de abastecimento complexas e tecnologias ineficazes lideram a perda de receitas para anunciantes e editores. Todos estes fatores criaram uma situação em que os consumidores geralmente têm pouca confiança nos serviços digitais. Falta de confiança significa que a adopção dos consumidores das novas tecnologias abranda. É também difícil para os consumidores distinguir entre atores 'bons' e 'maus' no esfera digital, o que significa que os atores legítimos, entre eles muitos pequenos e as médias empresas, são diretamente afetadas pelas ações de empresas sem escrúpulos. Isto, por sua vez, prejudica tanto os consumidores como as empresas. Todas estas questões são explicadas nas secções seguintes.   
 
-### 4.1 Falta de transparência
+### 4.1 Falta de transparência <a name="quatroum"></a> 
 
 A individualização e personalização da publicidade baseada na vigilância faz com que diferentes indivíduos vão ver diferentes anúncios com base num número de fatores como o tempo, o contexto, a demografia, as características pessoais, etc.[[30]](#30) Um novo anúncio é mostrado para cada visita de página, e muitas vezes apenas para alguns indivíduos em certos períodos de tempo. Os anúncios tornam-se 'fugazes', com um curto e limitado tempo de vida.  
 
@@ -198,7 +198,7 @@ A forma dominante de publicidade baseada na vigilância torna-a praticamente imp
 Uma proibição contra a publicidade baseada na vigilância libertabanos de anúncios que são direcionadas e colocadas com base em dados sobre consumidores individuais. Se isto acontecesse, seria mais fácil pesquisar e controlar os anúncios, uma vez que não seriam mais individualizados e fugazes. Plataformas de anúncios ou plataformas de redes sociais poderiam, por exemplo, estabelecer mais facilmente registos de todos os anúncios que exibem, tornando mais fácil controlar o conteúdo e garantir que a segmentaçao contextual não é usada de forma inadequada para explorar vulnerabilidades dos consumidores.[32](#32) Isto contribuiria para aplicação mais eficaz contra práticas comerciais desleais, violações de privacidade, e muito mais.  
 
 
-### 4.2 Violações da privacidade e proteção de dados
+### 4.2 Violações da privacidade e proteção de dados <a name="quatrodois"></a> 
 
 Com o objetivo de adaptar o marketing a indivíduos ou grupos, e exibir 'o anúncio certo para a pessoa certa', um grande número de empresas recolhem e processam vastas quantidades de informação sobre consumidores individuais. Dados sobre nós são processados cada vez que usamos uma app, visitamos um site, fazemos compras numa loja ou nos movemos em espaços públicos (por exemplo, *tracking* através de Wi-Fi).   
 
