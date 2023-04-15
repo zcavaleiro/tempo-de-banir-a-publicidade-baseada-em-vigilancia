@@ -88,7 +88,7 @@ Nos capítulos seguintes, descrevemos vários aspetos destes desafios e evidenci
 
 A proibição das práticas baseadas em vigilância deve ser complementada por uma mais forte aplicação da legislação em vigor, incluindo a Proteção Geral de Dados Regulação, regulação da concorrência e práticas comerciais desleais. No entanto, a aplicação da lei atualmente consome tempo significativo e recursos, e geralmente acontece depois dos danos já terem sido feitos. Proibir a publicidade baseada em vigilância em geral vai forçar mudanças estruturais para a indústria publicitária e aliviar uma série de danos significativos para consumidores e para a sociedade em geral.
 
-A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.
+A proibição da publicidade baseada na vigilância não significa que não se possa mais financiar conteúdos digitais usando publicidade. Para ilustrar isto, descrevemos algumas possíveis formas de avançar para conteúdos digitais financiados por publicidade, e apontar para tecnologias de publicidade alternativas que podem contribuir para uma mais segura e saudável economia digital tanto para consumidores como para empresas.  
 <a href="#top"  style="float: right;">Voltar ao início</a> 
  
 ## 2. Introdução <a name="introducao"></a>
