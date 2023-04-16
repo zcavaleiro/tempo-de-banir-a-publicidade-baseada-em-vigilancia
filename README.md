@@ -28,12 +28,12 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 
 ## **Tabela de conteúdos**
 
-1. [**Resumo**](#resumo)  
-2. [**Introdução**](#introducao)  
-3. [**O que é a "publicidade baseada na vigilância"?**](#oquee)  
+1. [Resumo](#resumo)  
+2. [Introdução](#introducao)  
+3. [O que é a "publicidade baseada na vigilância"?](#oquee)  
     3.1 [Formas alternativas de publicidade digital](#formas)  
     3.2 [Dados de primeira e de terceiros](#tresdois)  
-4. [**Efeitos nocivos da publicidade baseada na vigilância**](#quatro)  
+4. [Efeitos nocivos da publicidade baseada na vigilância](#quatro)  
 4.1 [Falta de transparência](#quatroum)  
 4.2 [Violações da privacidade e proteção de dados](#quatrodois)  
 4.3 [Manipulação](#quatrotres)  
@@ -45,14 +45,14 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 4.9 [Falta de confiança](#quatronove)  
 4.10 [Tecnologia ineficiente](#quatrodez)   
 
-5. [**Legislação atual**](#cinco)  
+5. [Legislação atual](#cinco)  
 5.1 [Lei de privacidade e proteção de dados da UE](#cincoum)  
 5.2 [A Diretiva relativa às práticas comerciais desleais](#cincodois)  
 5.3 [Questões de execução](#cincotres)  
 
-6. [**Conclusão**](#seis)
+6. [Conclusão](#seis)
 
-7.  [**Links**](#sete)
+7.  [Links](#sete)
  
 ## 1. Resumo <a name="resumo"></a>
 
