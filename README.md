@@ -72,7 +72,7 @@ Os desafios causados e profundidade da monitorização baseada em publicidade in
   - fraude e outras atividades criminosas
   - riscos de segurança graves
 
-Nos capítulos seguintes, descrevemos vários aspetos destes desafios e evidenciamos como é que modelo dominante da publicidade online de hoje é uma ameaça para consumidores, sociedades democráticas, meios de comunicação social, e até mesmo aos anunciantes si mesmos. Estas questões são significativas e sérias o suficiente para nós acreditarmos que é tempo de proibir estas práticas prejudiciais.
+Nos capítulos seguintes, descrevemos vários aspetos destes desafios e evidenciamos como é que modelo dominante da publicidade online de hoje é uma ameaça para consumidores, sociedades democráticas, meios de comunicação social, e até mesmo aos anunciantes si mesmos. Estas questões são significativas e sérias o suficiente para nós acreditarmos que é tempo de banir estas práticas prejudiciais.
 
 A proibição das práticas baseadas em vigilância deve ser complementada por uma mais forte aplicação da legislação em vigor, incluindo a Proteção Geral de Dados Regulação, regulação da concorrência e práticas comerciais desleais. No entanto, a aplicação da lei atualmente consome tempo significativo e recursos, e geralmente acontece depois dos danos já terem sido feitos. Proibir a publicidade baseada em vigilância em geral vai forçar mudanças estruturais para a indústria publicitária e aliviar uma série de danos significativos para consumidores e para a sociedade em geral.
 
