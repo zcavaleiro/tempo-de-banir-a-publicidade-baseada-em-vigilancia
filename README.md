@@ -428,7 +428,7 @@ Incentivamos os decisores políticos de ambos os lados do Atlântico a decretar 
 https://www.forbrukerradet.no/out-of-control/  
 <a id="3">[3]</a> *Targeted Online: How Big Tech’s business model sells your deepest secrets for profit*.  
 European Digital Rights. 
-https://edri.org/our-work/targeted-online-big-tech-businessmodel-sells-your-deepest-secrets-for-profit/  
+https://edri.org/our-work/targeted-online-big-tech-business-model-sells-your-deepest-secrets-for-profit/  
 <a id="4">[4]</a> *Digital Services Act: Improving the functioning of the Single Market*. European 
 Parliament resolution. 
 https://www.europarl.europa.eu/doceo/document/TA-9-2020-0272_EN.html  
