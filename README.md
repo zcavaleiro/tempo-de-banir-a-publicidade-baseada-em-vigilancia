@@ -15,8 +15,8 @@ Esta tradução não oficial e voluntária serve como forma de disponibilizar o 
 a invasão de privacidade acarreta potenciais perigos de segurança. Não são apenas riscos minoritários criados
 pela publicidade digital.
 
-- Como muitos, também tenho uma certa alergia à palavra proibir, os seus sinónimos e significados mas, todos
-reconhecemos que determinados químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
+- Como muitos, também tenho uma certa alergia à palavra proibir com os seus sinónimos e significados mas, todos
+reconhecemos que, determinados químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
 ````
 ### Para download:
   - [É tempo de banir a publicidade baseada em vigilancia.pdf](https://github.com/zcavaleiro/tempo-de-banir-a-publicidade-baseada-em-vigilancia/blob/main/Tempo-de-banir-a-publicidade-baseada-em-vigilancia.pdf)
