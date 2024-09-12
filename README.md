@@ -2,10 +2,7 @@
 
 Tradução autorizada do relatório: [Time to Ban Surveillance Based Advertising](https://storage02.forbrukerradet.no/media/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf) do Conselho Norueguês do Consumidor [(Forbrukerradet)](https://www.forbrukerradet.no/) para língua Portuguesa.
 
-
-É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA
-
-O caso contra a vigilância comercial online, Junho de 2021
+**O caso contra a vigilância comercial online, Junho de 2021**
 
 
 ````
