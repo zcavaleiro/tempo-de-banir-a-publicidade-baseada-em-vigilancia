@@ -17,8 +17,11 @@ pela publicidade digital.
 
 - Como muitos, também tenho uma certa alergia à palavra proibir, os seus sinónimos e significados mas, todos
 reconhecemos que determinados químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
-
 ````
+### Para download:
+  - [É tempo de banir a publicidade baseada em vigilancia.pdf](https://github.com/zcavaleiro/tempo-de-banir-a-publicidade-baseada-em-vigilancia/blob/main/Tempo-de-banir-a-publicidade-baseada-em-vigilancia.pdf)
+  - [É tempo de banir a publicidade baseada em vigilancia.odt](https://github.com/zcavaleiro/tempo-de-banir-a-publicidade-baseada-em-vigilancia/blob/main/Tempo-de-banir-a-publicidade-baseada-em-vigilancia.odt)
+  - [É tempo de banir a publicidade baseada em vigilancia.docx](https://github.com/zcavaleiro/tempo-de-banir-a-publicidade-baseada-em-vigilancia/blob/main/Tempo-de-banir-a-publicidade-baseada-em-vigilancia.docx)
 
 ## **Tabela de conteúdos**
 
