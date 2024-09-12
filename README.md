@@ -16,7 +16,7 @@ a invasão de privacidade acarreta potenciais perigos de segurança. Não são a
 pela publicidade digital.
 
 - Como muitos, também tenho uma certa alergia à palavra proibir, os seus sinónimos e significados mas, todos
-reconhecemos que certos químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
+reconhecemos que determinados químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
 
 ````
 
