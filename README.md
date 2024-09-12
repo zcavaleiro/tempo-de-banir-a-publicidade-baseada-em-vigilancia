@@ -1,5 +1,4 @@
-# É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA.
-## Em construção, WIP. 
+# É TEMPO DE BANIR A PUBLICIDADE BASEADA EM VIGILÂNCIA. 
 
 Tradução autorizada do relatório: [Time to Ban Surveillance Based Advertising](https://storage02.forbrukerradet.no/media/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf) do Conselho Norueguês do Consumidor [(Forbrukerradet)](https://www.forbrukerradet.no/) para língua Portuguesa.
 
@@ -10,22 +9,17 @@ O caso contra a vigilância comercial online, Junho de 2021
 
 
 ````
-## TODO... TO REMOVE
-[Título/expressão tradução]
-Mudar a traduçao "publicidade baseada em vigilância" para: ???
-- Vigilância publicitária
-- Vigilância em nome da publicidade
-- Publicidade baseada em Espionagem
-- Espionagem com base na publicidade
-- first party data e thrid party data...traduções em pt nao estão muito bem
--
-- rever uso palavras: proibir e  vigilância (muitas) - para sinónimos
-  - Proibir: vetar impedir interditar restringir
-  - vigilância: monitorização observação espiar inspecionar, olhar constante
+Nota do tradutor:
+- O documento original, Time to Ban Surveillance Based Advertising, foi um dos documentos usados na discussão e
+elaboração de leis da União Europeia referentes à Proteção de Dados e Serviços Digitais nos anos 2021 e 2022.
+Esta tradução não oficial e voluntária serve como forma de disponibilizar o seu conteúdo em Língua Portuguesa.
 
-- O documento original, [Time to Ban Surveillance Based Advertising](https://storage02.forbrukerradet.no/media/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf), foi um dos documentos usados na discussão e elaboração de leis da União Europeia referentes a Proteção de Dados e Serviços Digitais nos anos 2021 e 2002.
-- É apenas mais um documento levado a discussão que, devido à sua pertinência e à forma resumida dos factos e das mais de 100 fontes, que achei por bem traduzir para língua portuguesa.
-- Esta tradução não é profissional, é uma tradução de um documento original em Inglês que por sua vez já foi traduzido de Norueguês...
+- Há muito que é dito que os dados são o novo petróleo. Os dados associados a individuos são valiosos, contúdo,
+a invasão de privacidade acarreta potenciais perigos de segurança. Não são apenas riscos minoritários criados
+pela publicidade digital.
+
+- Como muitos, também tenho uma certa alergia à palavra proibir, os seus sinónimos e significados mas, todos
+reconhecemos que certos químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
 
 ````
 
@@ -62,7 +56,7 @@ Mudar a traduçao "publicidade baseada em vigilância" para: ???
 
 A vigilância comercial e a exploração dos consumidores são agora a norma na internet. À medida que utilizamos os mais variados serviços digitais, estamos constantemente a ser monitorizados por um grande número de atores comerciais sob o pretexto de mostrar-nos mais publicidade relevante. É hora de dar um passo atrás, considerar os problemas que este modelo criou e imaginar um novo normal que capacite e proteja os consumidores.
 
-À medida que a vigilância comercial se generaliza e se esta infiltra em inúmeros aspetos do nosso dia-a-dia, torna-se claro que há uma necessidade de uma reforma sistémica da indústria de publicidade online. As discussões estão em curso na União Europeia sobre como lidar com a publicidade baseada em vigilância como parte da Lei dos Serviços Digitais *Digital Services Act*. Ao mesmo tempo, estão a decorrer discussões sobre a adoção federal de legislação de privacidade e iniciativas legislativas para restringir a vigilância publicitária nos Estados Unidos, onde muitas das empresas envolvidas na publicidade baseada em monitorização estão sediadas. Estamos, portanto, diante de uma oportunidade legislativa única para resolver muitas questões prementes.
+À medida que a vigilância comercial se generaliza e se infiltra em inúmeros aspetos do nosso dia-a-dia, torna-se claro que há uma necessidade de uma reforma sistémica da indústria de publicidade online. As discussões estão em curso na União Europeia sobre como lidar com a publicidade baseada em vigilância como parte da Lei dos Serviços Digitais *Digital Services Act*. Ao mesmo tempo, estão a decorrer discussões sobre a adoção federal de legislação de privacidade e iniciativas legislativas para restringir a vigilância publicitária nos Estados Unidos, onde muitas das empresas envolvidas na publicidade baseada em monitorização estão sediadas. Estamos, portanto, diante de uma oportunidade legislativa única para resolver muitas questões prementes.
 
 O resultado destas discussões pode ter consequências significativas para o modelo de negócio da maioria dos conteúdos online, e os consumidores podem vir a beneficiar de uma nova abordagem preventiva. Este documento fornece uma visão geral dos desafios da publicidade baseada na vigilância, e pode assim ser considerado como uma parte das discussões políticas em curso.
 
@@ -642,17 +636,12 @@ https://www.businessinsider.com/big-tech-private-data-facebook-google-apple-euro
 </br>
 
 ---
-#### O porquê da tradução:
-- Como forma de disponibilizar a informação em lingua portuguesa para os interessados no ramo, entre as quais, mais de 100 referências/links documentais.
-- Como forma de esclarecer, revelar e apresentar um documento e um tema, **privacidade de dados**, que tem sido amplamente discutido e regulamentado pela união europeia.
-- Os impactos/consequências da recolha massiva de dados sem controlo por parte dos utilizadores são inúmeros. Podemos considerar que destes existem dois grandes grupos. O grupo das consequências que já são conhecidas atualmente e o grupo de consequências ou impactos que a maioria dos mortais não tem nem terá conhecimento. Por exemplo, as consequências futuras, mesmo para individuos que ainda não nasceram, da falta de controle dos dados nos testes de DNA. [What if a simple DNA test could predict your future?](https://www.europarl.europa.eu/RegData/etudes/ATAG/2019/634428/EPRS_ATA(2019)634428_EN.pdf)
 
 
 <div dir=RtL> 
 :Autor da tradução</br>
-<i>Zito Cavaleiro</i>  email: zcavaleiro @ proton.me</br>
+<i>Zito Cavaleiro  </i>-   email: zcavaleiro AT protonmail DOT com</br>
 Professor de Matemática e Ciências da Natureza</br>
-IT Automation Engineer </br>
-Cidadão do mundo</div>
+Engenheiro de Automação de Tecnologias de Informação</div>
 
 ---
