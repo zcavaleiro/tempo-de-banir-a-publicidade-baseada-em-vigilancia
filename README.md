@@ -5,19 +5,6 @@ Tradução autorizada do relatório: [Time to Ban Surveillance Based Advertising
 **O caso contra a vigilância comercial online, Junho de 2021**
 
 
-````
-Nota do tradutor:
-- O documento original, Time to Ban Surveillance Based Advertising, foi um dos documentos usados na discussão e
-elaboração de leis da União Europeia referentes à Proteção de Dados e Serviços Digitais nos anos 2021 e 2022.
-Esta tradução não oficial e voluntária serve como forma de disponibilizar o seu conteúdo em Língua Portuguesa.
-
-- Há muito que é dito que os dados são o novo petróleo. Os dados associados a individuos são valiosos, contúdo,
-a invasão de privacidade acarreta potenciais perigos de segurança. Não são apenas riscos minoritários criados
-pela publicidade digital.
-
-- Como muitos, também tenho uma certa alergia à palavra proibir com os seus sinónimos e significados mas, todos
-reconhecemos que, determinados químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
-````
 ### Para download:
   - [É tempo de banir a publicidade baseada em vigilancia.pdf](https://github.com/zcavaleiro/tempo-de-banir-a-publicidade-baseada-em-vigilancia/blob/main/Tempo-de-banir-a-publicidade-baseada-em-vigilancia.pdf)
   - [É tempo de banir a publicidade baseada em vigilancia.odt](https://github.com/zcavaleiro/tempo-de-banir-a-publicidade-baseada-em-vigilancia/blob/main/Tempo-de-banir-a-publicidade-baseada-em-vigilancia.odt)
@@ -637,6 +624,19 @@ https://www.businessinsider.com/big-tech-private-data-facebook-google-apple-euro
 
 ---
 
+````
+Nota do tradutor:
+- O documento original, Time to Ban Surveillance Based Advertising, foi um dos documentos usados na discussão e
+elaboração de leis da União Europeia referentes à Proteção de Dados e Serviços Digitais nos anos 2021 e 2022.
+Esta tradução não oficial e voluntária serve como forma de disponibilizar o seu conteúdo em Língua Portuguesa.
+
+- Há muito que é dito que os dados são o novo petróleo. Os dados associados a individuos são valiosos, contúdo,
+a invasão de privacidade acarreta potenciais perigos de segurança. Não são apenas riscos minoritários criados
+pela publicidade digital.
+
+- Como muitos, também tenho uma certa alergia à palavra proibir com os seus sinónimos e significados mas, todos
+reconhecemos que, determinados químicos/pesticidas não podem ser usados na água potável ou agricultura, por exemplo. 
+````
 
 <div dir=RtL> 
 :Autor da tradução</br>
